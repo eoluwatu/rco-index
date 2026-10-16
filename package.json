@@ -1,0 +1,13 @@
+{
+  "name": "readcomicsonline-index",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Daily-built index of readcomicsonline.ru's public sitemaps (plus Metron series details) for the ReadComicsOnline KETSU module",
+  "scripts": {
+    "build": "node generate.js",
+    "test": "node test-metron.js"
+  },
+  "engines": {
+    "node": ">=20"
+  }
+}
