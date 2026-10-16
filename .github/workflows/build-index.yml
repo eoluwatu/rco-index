@@ -1,0 +1,66 @@
+name: Build ReadComicsOnline index
+
+# Every 6 hours, or press "Run workflow" on the Actions tab.
+on:
+  schedule:
+    - cron: '23 */6 * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+
+concurrency:
+  group: build-index
+  cancel-in-progress: false
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    timeout-minutes: 75
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 20
+
+      # 1. Build the index from the site's public sitemaps (about 1 minute)
+      - name: Build the index
+        env:
+          REPO_URL: ${{ github.server_url }}/${{ github.repository }}
+        run: node generate.js site
+
+      # 2. Publish it with GitHub Pages
+      - uses: actions/configure-pages@v5
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: site
+      - id: deployment
+        uses: actions/deploy-pages@v4
+
+      # 3. Look up more series on Metron (up to ~50 minutes; published next run)
+      - name: Add Metron details
+        env:
+          METRON_TOKEN: ${{ secrets.METRON_TOKEN }}
+          REPO_URL: ${{ github.server_url }}/${{ github.repository }}
+        run: node generate.js metron
+
+      # 4. Save what Metron returned, so nothing is looked up twice
+      - name: Save the Metron cache
+        if: always()
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data/
+          if git diff --cached --quiet; then
+            echo "Nothing new to save"
+          else
+            git commit -m "Update index data"
+            git pull --rebase
+            git push
+          fi
