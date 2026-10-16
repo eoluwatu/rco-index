@@ -82,8 +82,14 @@ function normalize(text) {
     let s = String(text || '').toLowerCase();
     if (s.normalize) { s = s.normalize('NFD').replace(/[\u0300-\u036f]/g, ''); }
     s = s.replace(/&/g, ' and ').replace(/['\u2019]/g, '');
-    return s.replace(/[^a-z0-9]+/g, ' ').trim();
+    /* "The Amazing Spider-Man" = "Amazing Spider-Man" */
+    return s.replace(/[^a-z0-9]+/g, ' ').trim().replace(/^the /, '');
 }
+
+/* Bump when matching rules change: series checked under older rules that
+ * found nothing (or only a short description) are checked again. */
+const MATCHER_VERSION = 2;
+const SHORT_DESC = 120;
 
 /* "Batman (2016-)" -> { name: "Batman", year: 2016 } */
 function siteNameYear(slug, title) {
@@ -129,17 +135,43 @@ async function matchSeries(client, slug, title, today) {
     let best = pickBest((list && list.results) || [], name, title);
     if (!best && year) {
         list = await client.get('series/?name=' + q);
-        const near = ((list && list.results) || []).filter((c) => c.year_began && Math.abs(c.year_began - year) <= 1);
+        const all = (list && list.results) || [];
+        const near = all.filter((c) => c.year_began && Math.abs(c.year_began - year) <= 1);
         best = pickBest(near, name, title);
+        if (!best) {
+            /* the site's year can be off (e.g. Invincible listed as 2005, began
+             * 2003): accept the only exact-name series within 3 years */
+            const want = normalize(name);
+            const exact = all.filter((c) => normalize(metronBaseName(c)) === want && c.year_began && Math.abs(c.year_began - year) <= 3);
+            if (exact.length === 1) { best = exact[0]; }
+        }
     }
-    if (!best) { return { status: 'none', checked: today }; }
+    if (!best) { return { status: 'none', checked: today, mv: MATCHER_VERSION }; }
     const d = (await client.get('series/' + best.id + '/')) || best;
+    let desc = cleanDescription(d.desc);
+    let descSource = desc ? 'series' : '';
+    if (desc.length < SHORT_DESC) {
+        /* series blurbs are often one line; issue #1 usually carries the
+         * publisher's description of the premise */
+        const issues = await client.get('issue/?series_id=' + best.id + '&number=1');
+        const first = issues && issues.results && issues.results[0];
+        if (first && first.id) {
+            const issue = await client.get('issue/' + first.id + '/');
+            const issueDesc = cleanDescription(issue && issue.desc);
+            if (issueDesc.length > desc.length) {
+                desc = issueDesc;
+                descSource = 'issue1';
+            }
+        }
+    }
     return {
         status: 'ok',
         checked: today,
+        mv: MATCHER_VERSION,
         id: best.id,
         name: d.series || d.name || best.series || '',
-        desc: cleanDescription(d.desc),
+        desc: desc,
+        descSource: descSource,
         genres: (d.genres || []).map((g) => g && g.name).filter(Boolean),
         publisher: (d.publisher && d.publisher.name) || '',
         seriesStatus: d.status || '',
@@ -152,6 +184,7 @@ async function matchSeries(client, slug, title, today) {
 /* Should this series be (re)checked today? */
 function needsCheck(entry, todayMs) {
     if (!entry) { return true; }
+    if ((entry.mv || 1) < MATCHER_VERSION && (entry.status !== 'ok' || (entry.desc || '').length < SHORT_DESC)) { return true; }
     const age = (todayMs - Date.parse(entry.checked || '1970-01-01')) / 86400000;
     return entry.status === 'ok' ? age > 120 : age > 45;
 }

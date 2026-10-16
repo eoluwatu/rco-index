@@ -52,8 +52,9 @@ Send the address from step 6 (e.g. `https://trappmanny.github.io/rco-index/`) to
 ## What happens automatically
 
 * **Every 6 hours** the index is rebuilt from the site's public sitemaps and published (~1 MB downloaded from the site per run).
-* Each run then asks Metron about up to ~400 more series (900 requests, 50 minutes). It does this politely: no more than 1 request every 3.1 s, following Metron's published limits of 20 per minute and 5,000 per day.
-* Series are looked up in this order: All-Time Popular, Recommended, Trending, then most recently updated. All ~9,600 series take about a week. Results are saved in `data/metron.json`, so nothing is asked twice.
+* Each run then asks Metron about roughly 200–400 more series (900 requests, 50 minutes; 2–5 requests per series). It does this politely: no more than 1 request every 3.1 s, following Metron's published limits of 20 per minute and 5,000 per day.
+* Series are looked up in this order: All-Time Popular, Recommended, Trending, then most recently updated. All ~9,600 series take roughly 1–2 weeks. Results are saved in `data/metron.json`, so nothing is asked twice.
+* When a series' own Metron description is only a line or two, the description of its **issue #1** is used instead (usually the publisher's summary of the premise).
 * Series Metron doesn't know are retried after 45 days; matched series are refreshed after 120 days.
 * New descriptions appear in KETSU after the **next** run (within 6 hours).
 
