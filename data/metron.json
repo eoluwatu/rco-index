@@ -1,4 +1,5401 @@
 {
  "version": 1,
- "series": {}
+ "series": {
+  "100-bullets-the-us-of-anger-2026": {
+   "status": "ok",
+   "checked": "2026-10-16",
+   "id": 16016,
+   "name": "100 Bullets: The US of Anger",
+   "desc": "An 8 issue limited series.",
+   "genres": [],
+   "publisher": "DC Comics",
+   "seriesStatus": "Ongoing",
+   "yearBegan": 2026,
+   "yearEnd": null,
+   "url": "https://metron.cloud/series/100-bullets-the-us-of-anger-2026/"
+  },
+  "13-demons-dead-2026": {
+   "status": "none",
+   "checked": "2026-10-16"
+  },
+  "2000-ad": {
+   "status": "ok",
+   "checked": "2026-10-16",
+   "id": 15677,
+   "name": "2000 AD",
+   "desc": "",
+   "genres": [
+    "Crime",
+    "Fantasy",
+    "Horror",
+    "Humor",
+    "Science Fiction",
+    "War"
+   ],
+   "publisher": "Rebellion",
+   "seriesStatus": "Ongoing",
+   "yearBegan": 2001,
+   "yearEnd": null,
+   "url": "https://metron.cloud/series/2000-ad-2001/"
+  },
+  "2000ad-sci-fi-special-2026": {
+   "status": "none",
+   "checked": "2026-10-16"
+  },
+  "a-wizard-of-earthsea-2025": {
+   "status": "none",
+   "checked": "2026-10-16"
+  },
+  "absolute-batman-2024": {
+   "status": "ok",
+   "checked": "2026-10-16",
+   "id": 8477,
+   "name": "Absolute Batman",
+   "desc": "Without the mansion…without the money…without the butler…what’s left is the Absolute Dark Knight!",
+   "genres": [
+    "Super-Hero"
+   ],
+   "publisher": "DC Comics",
+   "seriesStatus": "Ongoing",
+   "yearBegan": 2024,
+   "yearEnd": null,
+   "url": "https://metron.cloud/series/absolute-batman-2024/"
+  },
+  "absolute-cassandra-cain-the-shadows-hand-2026": {
+   "status": "ok",
+   "checked": "2026-10-16",
+   "id": 16806,
+   "name": "Absolute Cassandra Cain: The Shadow's Hand",
+   "desc": "A one-shot.",
+   "genres": [
+    "Super-Hero"
+   ],
+   "publisher": "DC Comics",
+   "seriesStatus": "Completed",
+   "yearBegan": 2026,
+   "yearEnd": null,
+   "url": "https://metron.cloud/series/absolute-cassandra-cain-the-shadows-hand-2026/"
+  },
+  "absolute-catwoman-2026": {
+   "status": "ok",
+   "checked": "2026-10-16",
+   "id": 15845,
+   "name": "Absolute Catwoman",
+   "desc": "Six-issue miniseries.",
+   "genres": [
+    "Super-Hero"
+   ],
+   "publisher": "DC Comics",
+   "seriesStatus": "Ongoing",
+   "yearBegan": 2026,
+   "yearEnd": null,
+   "url": "https://metron.cloud/series/absolute-catwoman-2026/"
+  },
+  "absolute-flash-2025": {
+   "status": "ok",
+   "checked": "2026-10-16",
+   "id": 10354,
+   "name": "Absolute Flash",
+   "desc": "A young Wally West must understand and train with his powers. Unlike most interpretations of the Flash, there is no Speed Force or Flash family, so Wally must learn to use more dangerous powers without any mentors to help him.",
+   "genres": [
+    "Super-Hero"
+   ],
+   "publisher": "DC Comics",
+   "seriesStatus": "Ongoing",
+   "yearBegan": 2025,
+   "yearEnd": null,
+   "url": "https://metron.cloud/series/absolute-flash-2025/"
+  },
+  "absolute-green-arrow-2026": {
+   "status": "ok",
+   "checked": "2026-10-16",
+   "id": 15701,
+   "name": "Absolute Green Arrow",
+   "desc": "A 12 issue limited series.",
+   "genres": [
+    "Super-Hero"
+   ],
+   "publisher": "DC Comics",
+   "seriesStatus": "Ongoing",
+   "yearBegan": 2026,
+   "yearEnd": null,
+   "url": "https://metron.cloud/series/absolute-green-arrow-2026/"
+  },
+  "absolute-green-lantern-2025": {
+   "status": "ok",
+   "checked": "2026-10-16",
+   "id": 10959,
+   "name": "Absolute Green Lantern",
+   "desc": "",
+   "genres": [
+    "Super-Hero"
+   ],
+   "publisher": "DC Comics",
+   "seriesStatus": "Ongoing",
+   "yearBegan": 2025,
+   "yearEnd": null,
+   "url": "https://metron.cloud/series/absolute-green-lantern-2025/"
+  },
+  "absolute-martian-manhunter-2025": {
+   "status": "ok",
+   "checked": "2026-10-16",
+   "id": 10356,
+   "name": "Absolute Martian Manhunter",
+   "desc": "A 12 issue limited series.",
+   "genres": [
+    "Super-Hero"
+   ],
+   "publisher": "DC Comics",
+   "seriesStatus": "Completed",
+   "yearBegan": 2025,
+   "yearEnd": 2026,
+   "url": "https://metron.cloud/series/absolute-martian-manhunter-2025/"
+  },
+  "absolute-superman-2024": {
+   "status": "ok",
+   "checked": "2026-10-16",
+   "id": 8746,
+   "name": "Absolute Superman",
+   "desc": "",
+   "genres": [
+    "Super-Hero"
+   ],
+   "publisher": "DC Comics",
+   "seriesStatus": "Ongoing",
+   "yearBegan": 2025,
+   "yearEnd": null,
+   "url": "https://metron.cloud/series/absolute-superman-2025/"
+  },
+  "absolute-wonder-woman-2024": {
+   "status": "ok",
+   "checked": "2026-10-16",
+   "id": 8482,
+   "name": "Absolute Wonder Woman",
+   "desc": "Without the island paradise…without the sisterhood that shaped her…without a mission of peace…what’s left is the Absolute Amazon!",
+   "genres": [
+    "Super-Hero"
+   ],
+   "publisher": "DC Comics",
+   "seriesStatus": "Ongoing",
+   "yearBegan": 2024,
+   "yearEnd": null,
+   "url": "https://metron.cloud/series/absolute-wonder-woman-2024/"
+  },
+  "across-the-widest-sea-2026": {
+   "status": "none",
+   "checked": "2026-10-16"
+  },
+  "action-comics-2016": {
+   "status": "ok",
+   "checked": "2026-10-16",
+   "id": 64,
+   "name": "Action Comics",
+   "desc": "The numbering for this series continues from Action Comics Volume 1 and also adds in the issues from the New 52 Volume 2.",
+   "genres": [
+    "Super-Hero"
+   ],
+   "publisher": "DC Comics",
+   "seriesStatus": "Ongoing",
+   "yearBegan": 2016,
+   "yearEnd": null,
+   "url": "https://metron.cloud/series/action-comics-2016/"
+  },
+  "adventure-time-quadruple-feature-2026": {
+   "status": "ok",
+   "checked": "2026-10-16",
+   "id": 16130,
+   "name": "Adventure Time: Quadruple Feature",
+   "desc": "A 4 issue limited series.",
+   "genres": [],
+   "publisher": "Oni Press",
+   "seriesStatus": "Ongoing",
+   "yearBegan": 2026,
+   "yearEnd": null,
+   "url": "https://metron.cloud/series/adventure-time-quadruple-feature-2026/"
+  },
+  "adventures-of-superman-the-book-of-el-2025": {
+   "status": "ok",
+   "checked": "2026-10-16",
+   "id": 12828,
+   "name": "Adventures of Superman: The Book of El",
+   "desc": "A 12 issue limited series.",
+   "genres": [
+    "Super-Hero"
+   ],
+   "publisher": "DC Comics",
+   "seriesStatus": "Ongoing",
+   "yearBegan": 2025,
+   "yearEnd": null,
+   "url": "https://metron.cloud/series/adventures-of-superman-the-book-of-el-2025/"
+  },
+  "airwalker-2026": {
+   "status": "none",
+   "checked": "2026-10-16"
+  },
+  "aladdin-2026": {
+   "status": "ok",
+   "checked": "2026-10-16",
+   "id": 15471,
+   "name": "Aladdin",
+   "desc": "",
+   "genres": [
+    "Humor"
+   ],
+   "publisher": "Dynamite Entertainment",
+   "seriesStatus": "Ongoing",
+   "yearBegan": 2026,
+   "yearEnd": null,
+   "url": "https://metron.cloud/series/aladdin-2026/"
+  },
+  "alien-vs-x-men-2026": {
+   "status": "ok",
+   "checked": "2026-10-16",
+   "id": 16691,
+   "name": "Alien vs. X-Men",
+   "desc": "",
+   "genres": [
+    "Horror",
+    "Super-Hero"
+   ],
+   "publisher": "Marvel",
+   "seriesStatus": "Ongoing",
+   "yearBegan": 2026,
+   "yearEnd": null,
+   "url": "https://metron.cloud/series/alien-vs-x-men-2026/"
+  },
+  "allstar-superman-2024": {
+   "status": "none",
+   "checked": "2026-10-16"
+  },
+  "altered-states-warlords-2026": {
+   "status": "ok",
+   "checked": "2026-10-16",
+   "id": 15884,
+   "name": "Altered States: Warlords",
+   "desc": "A 4 issue limited series.",
+   "genres": [
+    "Fantasy"
+   ],
+   "publisher": "Dynamite Entertainment",
+   "seriesStatus": "Completed",
+   "yearBegan": 2026,
+   "yearEnd": 2026,
+   "url": "https://metron.cloud/series/altered-states-warlords-2026/"
+  },
+  "amazing-spiderman-2018": {
+   "status": "none",
+   "checked": "2026-10-16"
+  },
+  "april-gray-2026": {
+   "status": "none",
+   "checked": "2026-10-16"
+  },
+  "aquamanateam-more-than-a-dream-2026": {
+   "status": "none",
+   "checked": "2026-10-16"
+  },
+  "archie-2026": {
+   "status": "ok",
+   "checked": "2026-10-16",
+   "id": 16609,
+   "name": "Archie",
+   "desc": "",
+   "genres": [],
+   "publisher": "Oni Press",
+   "seriesStatus": "Ongoing",
+   "yearBegan": 2026,
+   "yearEnd": null,
+   "url": "https://metron.cloud/series/archie-2026/"
+  },
+  "archie-comics-85th-anniversary-presents-betty-and-veronica-fashion-pages-2026": {
+   "status": "ok",
+   "checked": "2026-10-16",
+   "id": 16600,
+   "name": "Archie Comics 85th Anniversary Presents: Betty and Veronica Fashion Pages",
+   "desc": "A one-shot.",
+   "genres": [],
+   "publisher": "Archie Comics",
+   "seriesStatus": "Completed",
+   "yearBegan": 2026,
+   "yearEnd": null,
+   "url": "https://metron.cloud/series/archie-comics-85th-anniversary-presents-betty-and-veronica-fashion-pages-2026/"
+  },
+  "archie-comics-85th-anniversary-presents-betty-veronica-swimsuit-special-2026": {
+   "status": "none",
+   "checked": "2026-10-16"
+  },
+  "archie-comics-celebrates-americas-250th-2026": {
+   "status": "ok",
+   "checked": "2026-10-16",
+   "id": 16131,
+   "name": "Archie Comics Celebrates America's 250th",
+   "desc": "A one-shot.",
+   "genres": [
+    "Humor"
+   ],
+   "publisher": "Archie Comics",
+   "seriesStatus": "Completed",
+   "yearBegan": 2026,
+   "yearEnd": null,
+   "url": "https://metron.cloud/series/archie-comics-celebrates-americas-250th-2026/"
+  },
+  "archie-vs-the-terminator-2026": {
+   "status": "ok",
+   "checked": "2026-10-16",
+   "id": 16899,
+   "name": "Archie vs. the Terminator",
+   "desc": "",
+   "genres": [
+    "Science Fiction"
+   ],
+   "publisher": "Dynamite Entertainment",
+   "seriesStatus": "Ongoing",
+   "yearBegan": 2026,
+   "yearEnd": null,
+   "url": "https://metron.cloud/series/archie-vs-the-terminator-2026/"
+  },
+  "archies-christmas-spectacular-2026": {
+   "status": "ok",
+   "checked": "2026-10-16",
+   "id": 16912,
+   "name": "Archie's Christmas Spectacular",
+   "desc": "A one-shot.",
+   "genres": [
+    "Humor"
+   ],
+   "publisher": "Archie Comics",
+   "seriesStatus": "Completed",
+   "yearBegan": 2026,
+   "yearEnd": null,
+   "url": "https://metron.cloud/series/archies-christmas-spectacular-2026/"
+  },
+  "archies-halloween-spectacular-2026": {
+   "status": "ok",
+   "checked": "2026-10-16",
+   "id": 16629,
+   "name": "Archie's Halloween Spectacular",
+   "desc": "",
+   "genres": [
+    "Humor"
+   ],
+   "publisher": "Archie Comics",
+   "seriesStatus": "Completed",
+   "yearBegan": 2026,
+   "yearEnd": null,
+   "url": "https://metron.cloud/series/archies-halloween-spectacular-2026/"
+  },
+  "avatar-the-last-airbender-sokkas-boomerang-class-2026": {
+   "status": "none",
+   "checked": "2026-10-16"
+  },
+  "avengelyne-2026": {
+   "status": "ok",
+   "checked": "2026-10-16",
+   "id": 16894,
+   "name": "Avengelyne",
+   "desc": "",
+   "genres": [],
+   "publisher": "Image Comics",
+   "seriesStatus": "Ongoing",
+   "yearBegan": 2026,
+   "yearEnd": null,
+   "url": "https://metron.cloud/series/avengelyne-2026/"
+  },
+  "avengers-armageddon-2026": {
+   "status": "ok",
+   "checked": "2026-10-16",
+   "id": 15972,
+   "name": "Avengers: Armageddon",
+   "desc": "",
+   "genres": [
+    "Super-Hero"
+   ],
+   "publisher": "Marvel",
+   "seriesStatus": "Ongoing",
+   "yearBegan": 2026,
+   "yearEnd": null,
+   "url": "https://metron.cloud/series/avengers-armageddon-2026/"
+  },
+  "back-to-the-future-2015": {
+   "status": "ok",
+   "checked": "2026-10-16",
+   "id": 14770,
+   "name": "Back to the Future",
+   "desc": "was ongoing series",
+   "genres": [
+    "Humor",
+    "Science Fiction"
+   ],
+   "publisher": "IDW Publishing",
+   "seriesStatus": "Completed",
+   "yearBegan": 2015,
+   "yearEnd": 2017,
+   "url": "https://metron.cloud/series/back-to-the-future-2015/"
+  },
+  "badrock-2026": {
+   "status": "ok",
+   "checked": "2026-10-16",
+   "id": 16233,
+   "name": "Badrock",
+   "desc": "",
+   "genres": [
+    "Super-Hero"
+   ],
+   "publisher": "Image Comics",
+   "seriesStatus": "Ongoing",
+   "yearBegan": 2026,
+   "yearEnd": null,
+   "url": "https://metron.cloud/series/badrock-2026/"
+  },
+  "batgirl-2024": {
+   "status": "ok",
+   "checked": "2026-10-16",
+   "id": 8747,
+   "name": "Batgirl",
+   "desc": "",
+   "genres": [
+    "Super-Hero"
+   ],
+   "publisher": "DC Comics",
+   "seriesStatus": "Ongoing",
+   "yearBegan": 2025,
+   "yearEnd": null,
+   "url": "https://metron.cloud/series/batgirl-2025/"
+  },
+  "batman-2016": {
+   "status": "ok",
+   "checked": "2026-10-16",
+   "id": 93,
+   "name": "Batman",
+   "desc": "The DC Rebirth relaunch of Batman.",
+   "genres": [
+    "Super-Hero"
+   ],
+   "publisher": "DC Comics",
+   "seriesStatus": "Cancelled",
+   "yearBegan": 2016,
+   "yearEnd": 2026,
+   "url": "https://metron.cloud/series/batman-2016/"
+  },
+  "batman-2025": {
+   "status": "ok",
+   "checked": "2026-10-16",
+   "id": 12829,
+   "name": "Batman",
+   "desc": "",
+   "genres": [
+    "Super-Hero"
+   ],
+   "publisher": "DC Comics",
+   "seriesStatus": "Ongoing",
+   "yearBegan": 2025,
+   "yearEnd": null,
+   "url": "https://metron.cloud/series/batman-2025/"
+  },
+  "batman-and-robin-year-one-dynamic-duos-2026": {
+   "status": "none",
+   "checked": "2026-10-16"
+  },
+  "batman-bad-seeds-gotham-central-2026": {
+   "status": "ok",
+   "checked": "2026-10-16",
+   "id": 16644,
+   "name": "Batman: Bad Seeds – Gotham Central",
+   "desc": "A 2 issue limited series.",
+   "genres": [
+    "Super-Hero"
+   ],
+   "publisher": "DC Comics",
+   "seriesStatus": "Completed",
+   "yearBegan": 2026,
+   "yearEnd": 2026,
+   "url": "https://metron.cloud/series/batman-bad-seeds-gotham-central-2026/"
+  },
+  "batman-bad-seeds-streets-of-gotham-2026": {
+   "status": "ok",
+   "checked": "2026-10-16",
+   "id": 16925,
+   "name": "Batman: Bad Seeds – Streets of Gotham",
+   "desc": "A one-shot.",
+   "genres": [
+    "Super-Hero"
+   ],
+   "publisher": "DC Comics",
+   "seriesStatus": "Completed",
+   "yearBegan": 2026,
+   "yearEnd": null,
+   "url": "https://metron.cloud/series/batman-bad-seeds-streets-of-gotham-2026/"
+  },
+  "batman-bad-seeds-sunset-2026": {
+   "status": "ok",
+   "checked": "2026-10-16",
+   "id": 16510,
+   "name": "Batman: Bad Seeds – Sunset",
+   "desc": "",
+   "genres": [
+    "Super-Hero"
+   ],
+   "publisher": "DC Comics",
+   "seriesStatus": "Completed",
+   "yearBegan": 2026,
+   "yearEnd": null,
+   "url": "https://metron.cloud/series/batman-bad-seeds-sunset-2026/"
+  },
+  "batman-beyond-2016": {
+   "status": "ok",
+   "checked": "2026-10-16",
+   "id": 2698,
+   "name": "Batman Beyond",
+   "desc": "",
+   "genres": [
+    "Super-Hero"
+   ],
+   "publisher": "DC Comics",
+   "seriesStatus": "Cancelled",
+   "yearBegan": 2016,
+   "yearEnd": 2021,
+   "url": "https://metron.cloud/series/batman-beyond-2016/"
+  },
+  "batman-earth-one-2011": {
+   "status": "none",
+   "checked": "2026-10-16"
+  },
+  "batman-of-two-worlds-2026": {
+   "status": "ok",
+   "checked": "2026-10-16",
+   "id": 16652,
+   "name": "Batman of Two Worlds",
+   "desc": "A one-shot.\n\nNote: Indicia lists title as \"Batman of Two Worlds\".",
+   "genres": [
+    "Super-Hero"
+   ],
+   "publisher": "DC Comics",
+   "seriesStatus": "Completed",
+   "yearBegan": 2026,
+   "yearEnd": null,
+   "url": "https://metron.cloud/series/batman-day-2026-batman-of-two-worlds-2026/"
+  },
+  "batman-superman-weird-al-worlds-weirdest-2026": {
+   "status": "ok",
+   "checked": "2026-10-16",
+   "id": 16590,
+   "name": "Batman / Superman / Weird Al: World's Weirdest",
+   "desc": "A one-shot.",
+   "genres": [
+    "Humor",
+    "Super-Hero"
+   ],
+   "publisher": "DC Comics",
+   "seriesStatus": "Completed",
+   "yearBegan": 2026,
+   "yearEnd": null,
+   "url": "https://metron.cloud/series/batman-superman-weird-al-worlds-weirdest-2026/"
+  },
+  "batman-superman-worlds-finest-2022": {
+   "status": "ok",
+   "checked": "2026-10-16",
+   "id": 3173,
+   "name": "Batman / Superman: World's Finest",
+   "desc": "",
+   "genres": [
+    "Super-Hero"
+   ],
+   "publisher": "DC Comics",
+   "seriesStatus": "Ongoing",
+   "yearBegan": 2022,
+   "yearEnd": null,
+   "url": "https://metron.cloud/series/batman-superman-worlds-finest-2022/"
+  },
+  "batman-the-killing-joke": {
+   "status": "ok",
+   "checked": "2026-10-16",
+   "id": 761,
+   "name": "Batman: The Killing Joke",
+   "desc": "One shot from the British team of writer Alan Moore and artist Brian Bolland.",
+   "genres": [
+    "Super-Hero"
+   ],
+   "publisher": "DC Comics",
+   "seriesStatus": "Completed",
+   "yearBegan": 1988,
+   "yearEnd": null,
+   "url": "https://metron.cloud/series/batman-killing-joke-1988/"
+  },
+  "batman-white-knight-2017": {
+   "status": "ok",
+   "checked": "2026-10-16",
+   "id": 1908,
+   "name": "Batman: White Knight",
+   "desc": "An 8 issue mini-series.",
+   "genres": [
+    "Super-Hero"
+   ],
+   "publisher": "DC Comics",
+   "seriesStatus": "Completed",
+   "yearBegan": 2017,
+   "yearEnd": 2018,
+   "url": "https://metron.cloud/series/batman-white-knight-2017/"
+  },
+  "beast-mode-510-2026": {
+   "status": "none",
+   "checked": "2026-10-16"
+  },
+  "ben-10-2026": {
+   "status": "ok",
+   "checked": "2026-10-16",
+   "id": 15473,
+   "name": "Ben 10",
+   "desc": "",
+   "genres": [
+    "Science Fiction",
+    "Super-Hero"
+   ],
+   "publisher": "Dynamite Entertainment",
+   "seriesStatus": "Ongoing",
+   "yearBegan": 2026,
+   "yearEnd": null,
+   "url": "https://metron.cloud/series/ben-10-2026/"
+  },
+  "ben-10-creator-files-2026": {
+   "status": "none",
+   "checked": "2026-10-16"
+  },
+  "beneath-the-trees-where-nobody-sees-halloween-special-2026": {
+   "status": "ok",
+   "checked": "2026-10-16",
+   "id": 16903,
+   "name": "Beneath the Trees Where Nobody Sees: Halloween Special",
+   "desc": "A one-shot.",
+   "genres": [],
+   "publisher": "IDW Publishing",
+   "seriesStatus": "Completed",
+   "yearBegan": 2026,
+   "yearEnd": null,
+   "url": "https://metron.cloud/series/beneath-the-trees-where-nobody-sees-halloween-special-2026/"
+  },
+  "biker-mice-from-mars-scorch-2026": {
+   "status": "ok",
+   "checked": "2026-10-16",
+   "id": 16454,
+   "name": "Biker Mice from Mars: Scorch",
+   "desc": "",
+   "genres": [],
+   "publisher": "Oni Press",
+   "seriesStatus": "Ongoing",
+   "yearBegan": 2026,
+   "yearEnd": null,
+   "url": "https://metron.cloud/series/biker-mice-from-mars-scorch-2026/"
+  },
+  "birthright-2014": {
+   "status": "ok",
+   "checked": "2026-10-16",
+   "id": 1163,
+   "name": "Birthright",
+   "desc": "For the Rhodes family, losing their son was the most devastating thing that could've ever occurred... but it couldn't prepare them for what happened when he returned.",
+   "genres": [],
+   "publisher": "Image Comics",
+   "seriesStatus": "Cancelled",
+   "yearBegan": 2014,
+   "yearEnd": 2021,
+   "url": "https://metron.cloud/series/birthright-2014/"
+  },
+  "bishop-2026": {
+   "status": "ok",
+   "checked": "2026-10-16",
+   "id": 15973,
+   "name": "Bishop",
+   "desc": "",
+   "genres": [
+    "Super-Hero"
+   ],
+   "publisher": "Marvel",
+   "seriesStatus": "Ongoing",
+   "yearBegan": 2026,
+   "yearEnd": null,
+   "url": "https://metron.cloud/series/bishop-2026/"
+  },
+  "black-cat-2025": {
+   "status": "ok",
+   "checked": "2026-10-16",
+   "id": 12746,
+   "name": "Black Cat",
+   "desc": "A 5 issue limited series.",
+   "genres": [
+    "Super-Hero"
+   ],
+   "publisher": "Marvel",
+   "seriesStatus": "Ongoing",
+   "yearBegan": 2025,
+   "yearEnd": null,
+   "url": "https://metron.cloud/series/black-cat-2025/"
+  },
+  "black-panther-namor-doomed-2026": {
+   "status": "ok",
+   "checked": "2026-10-16",
+   "id": 16633,
+   "name": "Black Panther / Namor: Doomed",
+   "desc": "",
+   "genres": [
+    "Super-Hero"
+   ],
+   "publisher": "Marvel",
+   "seriesStatus": "Ongoing",
+   "yearBegan": 2026,
+   "yearEnd": null,
+   "url": "https://metron.cloud/series/black-panther-namor-doomed-2026/"
+  },
+  "black-science-2013": {
+   "status": "ok",
+   "checked": "2026-10-16",
+   "id": 333,
+   "name": "Black Science",
+   "desc": "Join writer RICK REMENDER and the superstar art team of MATTEO SCALERA & DEAN WHITE for this face-melting science fiction epic spanning the lifetimes of a cast of dimensional castaways lead by the man who caused it all.",
+   "genres": [
+    "Science Fiction"
+   ],
+   "publisher": "Image Comics",
+   "seriesStatus": "Cancelled",
+   "yearBegan": 2013,
+   "yearEnd": 2019,
+   "url": "https://metron.cloud/series/black-science-2013/"
+  },
+  "black-tower-the-raven-conspiracy-2026": {
+   "status": "ok",
+   "checked": "2026-10-16",
+   "id": 16511,
+   "name": "Black Tower: The Raven Conspiracy",
+   "desc": "A 6 issue limited series.",
+   "genres": [],
+   "publisher": "DC Comics",
+   "seriesStatus": "Ongoing",
+   "yearBegan": 2026,
+   "yearEnd": null,
+   "url": "https://metron.cloud/series/black-tower-the-raven-conspiracy-2026/"
+  },
+  "blacksad-2016": {
+   "status": "none",
+   "checked": "2026-10-16"
+  },
+  "blood-and-thunder-2025": {
+   "status": "none",
+   "checked": "2026-10-16"
+  },
+  "bludwire-2026": {
+   "status": "ok",
+   "checked": "2026-10-16",
+   "id": 16102,
+   "name": "Blüdwire",
+   "desc": "",
+   "genres": [],
+   "publisher": "Mad Cave Studios",
+   "seriesStatus": "Ongoing",
+   "yearBegan": 2026,
+   "yearEnd": null,
+   "url": "https://metron.cloud/series/bludwire-2026/"
+  },
+  "blue-beetle-2016": {
+   "status": "ok",
+   "checked": "2026-10-16",
+   "id": 3637,
+   "name": "Blue Beetle",
+   "desc": "",
+   "genres": [],
+   "publisher": "DC Comics",
+   "seriesStatus": "Cancelled",
+   "yearBegan": 2016,
+   "yearEnd": 2018,
+   "url": "https://metron.cloud/series/blue-beetle-2016/"
+  },
+  "bruce-wayne-not-super-the-bat-catastrophe-2026": {
+   "status": "none",
+   "checked": "2026-10-16"
+  },
+  "brzrkr-2021": {
+   "status": "ok",
+   "checked": "2026-10-16",
+   "id": 1905,
+   "name": "BRZRKR",
+   "desc": "A 12-issue limited series by Keanu Reeves, Matt Kindt, and Ron Garney.",
+   "genres": [],
+   "publisher": "Boom! Studios",
+   "seriesStatus": "Completed",
+   "yearBegan": 2021,
+   "yearEnd": 2023,
+   "url": "https://metron.cloud/series/brzrkr-2021/"
+  },
+  "bug-wars-the-coming-of-the-wardoom-2026": {
+   "status": "ok",
+   "checked": "2026-10-16",
+   "id": 16463,
+   "name": "Bug Wars: The Coming of The Wardoom",
+   "desc": "An 8 issue limited series.",
+   "genres": [],
+   "publisher": "Image Comics",
+   "seriesStatus": "Ongoing",
+   "yearBegan": 2026,
+   "yearEnd": null,
+   "url": "https://metron.cloud/series/bug-wars-the-coming-of-the-wardoom-2026/"
+  },
+  "calexit-say-goodbye-to-hollywood-2026": {
+   "status": "none",
+   "checked": "2026-10-16"
+  },
+  "captain-america-2025": {
+   "status": "ok",
+   "checked": "2026-10-16",
+   "id": 12309,
+   "name": "Captain America",
+   "desc": "",
+   "genres": [
+    "Super-Hero"
+   ],
+   "publisher": "Marvel",
+   "seriesStatus": "Ongoing",
+   "yearBegan": 2025,
+   "yearEnd": null,
+   "url": "https://metron.cloud/series/captain-america-2025/"
+  },
+  "captain-britain-50th-anniversary-special-2026": {
+   "status": "ok",
+   "checked": "2026-10-16",
+   "id": 16917,
+   "name": "Captain Britain 50th Anniversary Special",
+   "desc": "A one-shot.",
+   "genres": [
+    "Super-Hero"
+   ],
+   "publisher": "Marvel",
+   "seriesStatus": "Completed",
+   "yearBegan": 2026,
+   "yearEnd": null,
+   "url": "https://metron.cloud/series/captain-britain-50th-anniversary-special-2026/"
+  },
+  "cassie-2026": {
+   "status": "ok",
+   "checked": "2026-10-16",
+   "id": 16934,
+   "name": "Cassie",
+   "desc": "A one-shot.",
+   "genres": [
+    "Horror"
+   ],
+   "publisher": "Boom! Studios",
+   "seriesStatus": "Completed",
+   "yearBegan": 2026,
+   "yearEnd": null,
+   "url": "https://metron.cloud/series/cassie-2026/"
+  },
+  "catpoolmousepool-infinity-comic-2026": {
+   "status": "none",
+   "checked": "2026-10-16"
+  },
+  "chachu-2026": {
+   "status": "ok",
+   "checked": "2026-10-16",
+   "id": 16346,
+   "name": "Chachu",
+   "desc": "A 5 issue limited series.",
+   "genres": [],
+   "publisher": "Image Comics",
+   "seriesStatus": "Ongoing",
+   "yearBegan": 2026,
+   "yearEnd": null,
+   "url": "https://metron.cloud/series/chachu-2026/"
+  },
+  "challenges-of-doom-mr-fantastic-2026": {
+   "status": "ok",
+   "checked": "2026-10-16",
+   "id": 16079,
+   "name": "Challenges of Doom: Mr. Fantastic",
+   "desc": "A one-shot.",
+   "genres": [
+    "Super-Hero"
+   ],
+   "publisher": "Marvel",
+   "seriesStatus": "Completed",
+   "yearBegan": 2026,
+   "yearEnd": null,
+   "url": "https://metron.cloud/series/challenges-of-doom-mr-fantastic-2026/"
+  },
+  "challenges-of-doom-spider-man-2026": {
+   "status": "ok",
+   "checked": "2026-10-16",
+   "id": 16640,
+   "name": "Challenges of Doom: Spider-Man",
+   "desc": "",
+   "genres": [
+    "Super-Hero"
+   ],
+   "publisher": "Marvel",
+   "seriesStatus": "Completed",
+   "yearBegan": 2026,
+   "yearEnd": null,
+   "url": "https://metron.cloud/series/challenges-of-doom-spider-man-2026/"
+  },
+  "champions-2016": {
+   "status": "ok",
+   "checked": "2026-10-16",
+   "id": 1699,
+   "name": "Champions",
+   "desc": "A Marvel NOW! series. From the pages of All-New, All-Different Avengers, the young heroes leave the Avengers to form their own team, the Champions! The series lasted 27 issues and was directly continued into Champions Volume 3.",
+   "genres": [],
+   "publisher": "Marvel",
+   "seriesStatus": "Cancelled",
+   "yearBegan": 2016,
+   "yearEnd": 2019,
+   "url": "https://metron.cloud/series/champions-2016/"
+  },
+  "civil-war-unmasked-2026": {
+   "status": "ok",
+   "checked": "2026-10-16",
+   "id": 15631,
+   "name": "Civil War: Unmasked",
+   "desc": "A 5 issue limited series.",
+   "genres": [
+    "Super-Hero"
+   ],
+   "publisher": "Marvel",
+   "seriesStatus": "Ongoing",
+   "yearBegan": 2026,
+   "yearEnd": null,
+   "url": "https://metron.cloud/series/civil-war-unmasked-2026/"
+  },
+  "clayface-celebrity-dirt-2026": {
+   "status": "ok",
+   "checked": "2026-10-16",
+   "id": 16093,
+   "name": "Clayface: Celebrity Dirt",
+   "desc": "A 6 issue limited series.",
+   "genres": [
+    "Horror",
+    "Super-Hero"
+   ],
+   "publisher": "DC Comics",
+   "seriesStatus": "Ongoing",
+   "yearBegan": 2026,
+   "yearEnd": null,
+   "url": "https://metron.cloud/series/clayface-celebrity-dirt-2026/"
+  },
+  "clayface-special-edition-2026": {
+   "status": "none",
+   "checked": "2026-10-16"
+  },
+  "concrete-stars-over-sand-2026": {
+   "status": "ok",
+   "checked": "2026-10-16",
+   "id": 15992,
+   "name": "Concrete: Stars Over Sand",
+   "desc": "A 5 issue limited series.",
+   "genres": [],
+   "publisher": "Dark Horse Comics",
+   "seriesStatus": "Ongoing",
+   "yearBegan": 2026,
+   "yearEnd": null,
+   "url": "https://metron.cloud/series/concrete-stars-over-sand-2026/"
+  },
+  "creepshow-2026": {
+   "status": "ok",
+   "checked": "2026-10-16",
+   "id": 16621,
+   "name": "Creepshow",
+   "desc": "",
+   "genres": [
+    "Horror"
+   ],
+   "publisher": "Skybound",
+   "seriesStatus": "Ongoing",
+   "yearBegan": 2026,
+   "yearEnd": null,
+   "url": "https://metron.cloud/series/creepshow-2026/"
+  },
+  "crimes-against-nature-2026": {
+   "status": "ok",
+   "checked": "2026-10-16",
+   "id": 16670,
+   "name": "Crimes Against Nature",
+   "desc": "",
+   "genres": [
+    "Crime",
+    "Humor"
+   ],
+   "publisher": "Image Comics",
+   "seriesStatus": "Ongoing",
+   "yearBegan": 2026,
+   "yearEnd": null,
+   "url": "https://metron.cloud/series/crimes-against-nature-2026/"
+  },
+  "crowbound-2026": {
+   "status": "ok",
+   "checked": "2026-10-16",
+   "id": 16601,
+   "name": "Crowbound",
+   "desc": "",
+   "genres": [
+    "Science Fiction"
+   ],
+   "publisher": "Image Comics",
+   "seriesStatus": "Ongoing",
+   "yearBegan": 2026,
+   "yearEnd": null,
+   "url": "https://metron.cloud/series/crowbound-2026/"
+  },
+  "cruel-kingdom-2026": {
+   "status": "ok",
+   "checked": "2026-10-16",
+   "id": 9790,
+   "name": "Cruel Kingdom",
+   "desc": "A 4 issue limited series.",
+   "genres": [
+    "Fantasy"
+   ],
+   "publisher": "Oni Press",
+   "seriesStatus": "Completed",
+   "yearBegan": 2025,
+   "yearEnd": 2025,
+   "url": "https://metron.cloud/series/cruel-kingdom-2025/"
+  },
+  "daredevil-2019": {
+   "status": "ok",
+   "checked": "2026-10-16",
+   "id": 149,
+   "name": "Daredevil",
+   "desc": "",
+   "genres": [
+    "Super-Hero"
+   ],
+   "publisher": "Marvel",
+   "seriesStatus": "Cancelled",
+   "yearBegan": 2019,
+   "yearEnd": 2022,
+   "url": "https://metron.cloud/series/daredevil-2019/"
+  },
+  "dark-knights-of-steel-2021": {
+   "status": "ok",
+   "checked": "2026-10-16",
+   "id": 2798,
+   "name": "Dark Knights of Steel",
+   "desc": "A 12 issue maxi-series.",
+   "genres": [],
+   "publisher": "DC Comics",
+   "seriesStatus": "Completed",
+   "yearBegan": 2022,
+   "yearEnd": 2022,
+   "url": "https://metron.cloud/series/dark-knights-of-steel-2022/"
+  },
+  "dark-knights-of-steel-heir-to-the-sea-2026": {
+   "status": "ok",
+   "checked": "2026-10-16",
+   "id": 16166,
+   "name": "Dark Knights of Steel: Heir to the Sea",
+   "desc": "A one-shot.",
+   "genres": [
+    "Super-Hero"
+   ],
+   "publisher": "DC Comics",
+   "seriesStatus": "Completed",
+   "yearBegan": 2026,
+   "yearEnd": null,
+   "url": "https://metron.cloud/series/dark-knights-of-steel-heir-to-the-sea-2026/"
+  },
+  "dark-knights-of-steel-ii-2026": {
+   "status": "ok",
+   "checked": "2026-10-16",
+   "id": 16128,
+   "name": "Dark Knights of Steel II",
+   "desc": "",
+   "genres": [
+    "Fantasy",
+    "Super-Hero"
+   ],
+   "publisher": "DC Comics",
+   "seriesStatus": "Ongoing",
+   "yearBegan": 2026,
+   "yearEnd": null,
+   "url": "https://metron.cloud/series/dark-knights-of-steel-ii-2026/"
+  },
+  "darth-vader-2017": {
+   "status": "ok",
+   "checked": "2026-10-16",
+   "id": 3475,
+   "name": "Darth Vader",
+   "desc": "",
+   "genres": [],
+   "publisher": "Marvel",
+   "seriesStatus": "Cancelled",
+   "yearBegan": 2017,
+   "yearEnd": 2019,
+   "url": "https://metron.cloud/series/darth-vader-2017/"
+  },
+  "dc-comics-rebirth": {
+   "status": "none",
+   "checked": "2026-10-16"
+  },
+  "dc-wip-batman-the-dark-knight-returns-2026": {
+   "status": "none",
+   "checked": "2026-10-16"
+  },
+  "dcs-hawk-girl-summer-2026": {
+   "status": "ok",
+   "checked": "2026-10-16",
+   "id": 16217,
+   "name": "DC's Hawk-Girl Summer",
+   "desc": "A one-shot.",
+   "genres": [
+    "Super-Hero"
+   ],
+   "publisher": "DC Comics",
+   "seriesStatus": "Completed",
+   "yearBegan": 2026,
+   "yearEnd": null,
+   "url": "https://metron.cloud/series/dcs-hawk-girl-summer-2026/"
+  },
+  "dcs-quoth-the-raven-whatever-2026": {
+   "status": "ok",
+   "checked": "2026-10-16",
+   "id": 16696,
+   "name": "DC's Quoth the Raven… \"Whatever\"",
+   "desc": "A Halloween one-shot.",
+   "genres": [
+    "Horror",
+    "Super-Hero"
+   ],
+   "publisher": "DC Comics",
+   "seriesStatus": "Completed",
+   "yearBegan": 2026,
+   "yearEnd": null,
+   "url": "https://metron.cloud/series/dcs-quoth-the-raven-whatever-2026/"
+  },
+  "deadly-class-2014": {
+   "status": "ok",
+   "checked": "2026-10-16",
+   "id": 336,
+   "name": "Deadly Class",
+   "desc": "From writer Rick Remender and artist Wes Craig, this series is about a group of high school students, in the '80s, attending King’s Dominion High School for the Deadly Arts, a school that trains the deadliest assassins in the world.",
+   "genres": [],
+   "publisher": "Image Comics",
+   "seriesStatus": "Cancelled",
+   "yearBegan": 2014,
+   "yearEnd": 2022,
+   "url": "https://metron.cloud/series/deadly-class-2014/"
+  },
+  "deadly-tales-of-the-gunslinger-spawn-2024": {
+   "status": "none",
+   "checked": "2026-10-16"
+  },
+  "deadpool-2015": {
+   "status": "ok",
+   "checked": "2026-10-16",
+   "id": 3408,
+   "name": "Deadpool",
+   "desc": "",
+   "genres": [],
+   "publisher": "Marvel",
+   "seriesStatus": "Cancelled",
+   "yearBegan": 2015,
+   "yearEnd": 2017,
+   "url": "https://metron.cloud/series/deadpool-2016/"
+  },
+  "death-vigil-2026": {
+   "status": "ok",
+   "checked": "2026-10-16",
+   "id": 16347,
+   "name": "Death Vigil",
+   "desc": "A 6 issue limited series.",
+   "genres": [],
+   "publisher": "Image Comics",
+   "seriesStatus": "Ongoing",
+   "yearBegan": 2026,
+   "yearEnd": null,
+   "url": "https://metron.cloud/series/death-vigil-2026/"
+  },
+  "denver-2026": {
+   "status": "ok",
+   "checked": "2026-10-16",
+   "id": 16598,
+   "name": "Denver",
+   "desc": "",
+   "genres": [],
+   "publisher": "Mad Cave Studios",
+   "seriesStatus": "Ongoing",
+   "yearBegan": 2026,
+   "yearEnd": null,
+   "url": "https://metron.cloud/series/denver-2026/"
+  },
+  "descender-2015": {
+   "status": "ok",
+   "checked": "2026-10-16",
+   "id": 3431,
+   "name": "Descender",
+   "desc": "A Science fiction/Space opera comic book series written by Jeff Lemire and illustrated by Dustin Nguyen. The series was published by Image Comics. The story follows a young android, TIM-21, trying to survive endless bounty hunters in a universe that has outlawed all robotics and artificial intelligence.",
+   "genres": [
+    "Science Fiction"
+   ],
+   "publisher": "Image Comics",
+   "seriesStatus": "Cancelled",
+   "yearBegan": 2015,
+   "yearEnd": 2018,
+   "url": "https://metron.cloud/series/descender-2015/"
+  },
+  "detective-comics-2016": {
+   "status": "ok",
+   "checked": "2026-10-16",
+   "id": 1510,
+   "name": "Detective Comics",
+   "desc": "DC Universe Rebirth series. Preceded by Detective Comics Volume 2.",
+   "genres": [
+    "Super-Hero"
+   ],
+   "publisher": "DC Comics",
+   "seriesStatus": "Ongoing",
+   "yearBegan": 2016,
+   "yearEnd": null,
+   "url": "https://metron.cloud/series/detective-comics-2016/"
+  },
+  "dnx-2026": {
+   "status": "ok",
+   "checked": "2026-10-16",
+   "id": 16634,
+   "name": "DNX",
+   "desc": "",
+   "genres": [
+    "Super-Hero"
+   ],
+   "publisher": "Marvel",
+   "seriesStatus": "Ongoing",
+   "yearBegan": 2026,
+   "yearEnd": null,
+   "url": "https://metron.cloud/series/dnx-2026/"
+  },
+  "do-a-powerbomb-black-white-2026": {
+   "status": "none",
+   "checked": "2026-10-16"
+  },
+  "doctor-strange-and-doctor-doom-triumph-and-torment-2026": {
+   "status": "ok",
+   "checked": "2026-10-16",
+   "id": 16635,
+   "name": "Doctor Strange and Doctor Doom: Triumph and Torment",
+   "desc": "",
+   "genres": [
+    "Super-Hero"
+   ],
+   "publisher": "Marvel",
+   "seriesStatus": "Completed",
+   "yearBegan": 2026,
+   "yearEnd": null,
+   "url": "https://metron.cloud/series/doctor-strange-and-doctor-doom-triumph-and-torment-2026/"
+  },
+  "doctor-strange-endless-nightmare-2026": {
+   "status": "none",
+   "checked": "2026-10-16"
+  },
+  "doctor-strange-mu": {
+   "status": "none",
+   "checked": "2026-10-16"
+  },
+  "donald-duck-2015": {
+   "status": "ok",
+   "checked": "2026-10-16",
+   "id": 11874,
+   "name": "Donald Duck",
+   "desc": "A series that lasted 21 issues.",
+   "genres": [
+    "Humor"
+   ],
+   "publisher": "IDW Publishing",
+   "seriesStatus": "Cancelled",
+   "yearBegan": 2015,
+   "yearEnd": 2017,
+   "url": "https://metron.cloud/series/donald-duck-2015/"
+  },
+  "doom-all-on-one-2026": {
+   "status": "ok",
+   "checked": "2026-10-16",
+   "id": 16918,
+   "name": "Doom All-On-One",
+   "desc": "",
+   "genres": [
+    "Super-Hero"
+   ],
+   "publisher": "Marvel",
+   "seriesStatus": "Completed",
+   "yearBegan": 2026,
+   "yearEnd": null,
+   "url": "https://metron.cloud/series/doom-all-on-one-2026/"
+  },
+  "doomquest-black-white-2026": {
+   "status": "none",
+   "checked": "2026-10-16"
+  },
+  "dread-the-hall-h-2026": {
+   "status": "ok",
+   "checked": "2026-10-16",
+   "id": 16241,
+   "name": "Dread the Hall H 2026",
+   "desc": "",
+   "genres": [
+    "Horror"
+   ],
+   "publisher": "Image Comics",
+   "seriesStatus": "Completed",
+   "yearBegan": 2026,
+   "yearEnd": null,
+   "url": "https://metron.cloud/series/dread-the-hall-h-2026-2026/"
+  },
+  "dungeons-and-dragons-ravenloft-2026": {
+   "status": "none",
+   "checked": "2026-10-16"
+  },
+  "dungeons-dragons-frost-giants-fury-2017": {
+   "status": "ok",
+   "checked": "2026-10-16",
+   "id": 15033,
+   "name": "Dungeons & Dragons: Frost Giant's Fury",
+   "desc": "Five issue mini-series",
+   "genres": [
+    "Fantasy"
+   ],
+   "publisher": "IDW Publishing",
+   "seriesStatus": "Completed",
+   "yearBegan": 2017,
+   "yearEnd": 2017,
+   "url": "https://metron.cloud/series/dungeons-dragons-frost-giants-fury-2017/"
+  },
+  "dungeons-dragons-total-party-killers-2026": {
+   "status": "ok",
+   "checked": "2026-10-16",
+   "id": 16242,
+   "name": "Dungeons & Dragons: Total Party Killers",
+   "desc": "",
+   "genres": [
+    "Fantasy"
+   ],
+   "publisher": "Dark Horse Comics",
+   "seriesStatus": "Ongoing",
+   "yearBegan": 2026,
+   "yearEnd": null,
+   "url": "https://metron.cloud/series/dungeons-dragons-total-party-killers-2026/"
+  },
+  "east-of-west-2013": {
+   "status": "ok",
+   "checked": "2026-10-16",
+   "id": 4528,
+   "name": "East of West",
+   "desc": "A monthly comic book series published by Image Comics which debuted in March 2013 and was concluded in December 2019. Created by writer Jonathan Hickman and artist Nick Dragotta, the book is a science fiction Western set in a dystopian version of the United States whose fate rests with the Four Horsemen of the Apocalypse.",
+   "genres": [
+    "Science Fiction",
+    "Western"
+   ],
+   "publisher": "Image Comics",
+   "seriesStatus": "Cancelled",
+   "yearBegan": 2013,
+   "yearEnd": 2019,
+   "url": "https://metron.cloud/series/east-of-west-2013/"
+  },
+  "eclipse-10th-anniversary-edition-2026": {
+   "status": "none",
+   "checked": "2026-10-16"
+  },
+  "elfquest-the-final-quest-2015": {
+   "status": "ok",
+   "checked": "2026-10-16",
+   "id": 12565,
+   "name": "ElfQuest: The Final Quest",
+   "desc": "A series that lasted for 24 issues.",
+   "genres": [
+    "Fantasy"
+   ],
+   "publisher": "Dark Horse Comics",
+   "seriesStatus": "Cancelled",
+   "yearBegan": 2014,
+   "yearEnd": 2018,
+   "url": "https://metron.cloud/series/elfquest-the-final-quest-2014/"
+  },
+  "emperor-aquaman-2026": {
+   "status": "ok",
+   "checked": "2026-10-16",
+   "id": 15367,
+   "name": "Emperor Aquaman",
+   "desc": "",
+   "genres": [
+    "Super-Hero"
+   ],
+   "publisher": "DC Comics",
+   "seriesStatus": "Ongoing",
+   "yearBegan": 2026,
+   "yearEnd": null,
+   "url": "https://metron.cloud/series/emperor-aquaman-2026/"
+  },
+  "empress-death-2026": {
+   "status": "none",
+   "checked": "2026-10-16"
+  },
+  "escape-from-new-york-escape-from-chicago-2026": {
+   "status": "ok",
+   "checked": "2026-10-16",
+   "id": 16664,
+   "name": "Escape from New York: Escape from Chicago",
+   "desc": "",
+   "genres": [],
+   "publisher": "Mad Cave Studios",
+   "seriesStatus": "Ongoing",
+   "yearBegan": 2026,
+   "yearEnd": null,
+   "url": "https://metron.cloud/series/escape-from-new-york-escape-from-chicago-2026/"
+  },
+  "exquisite-corpses-fox-mask-killer-2026": {
+   "status": "ok",
+   "checked": "2026-10-16",
+   "id": 16622,
+   "name": "Exquisite Corpses: Fox Mask Killer",
+   "desc": "",
+   "genres": [],
+   "publisher": "Image Comics",
+   "seriesStatus": "Ongoing",
+   "yearBegan": 2026,
+   "yearEnd": null,
+   "url": "https://metron.cloud/series/exquisite-corpses-fox-mask-killer-2026/"
+  },
+  "exquisite-corpses-rascal-randy-2026": {
+   "status": "ok",
+   "checked": "2026-10-16",
+   "id": 16182,
+   "name": "Exquisite Corpses: Rascal Randy",
+   "desc": "",
+   "genres": [],
+   "publisher": "Image Comics",
+   "seriesStatus": "Ongoing",
+   "yearBegan": 2026,
+   "yearEnd": null,
+   "url": "https://metron.cloud/series/exquisite-corpses-rascal-randy-2026/"
+  },
+  "fables-2002": {
+   "status": "ok",
+   "checked": "2026-10-16",
+   "id": 793,
+   "name": "Fables",
+   "desc": "When the Adversary conquered the lands of legends, the inhabitants were forced into exile. They form a secret society, a hidden enclave in modern-day New York. Bill Willingham's award-winning \"fractured-fairy-tale\" series explores the world of these beloved fables...one that exists within our own.",
+   "genres": [],
+   "publisher": "DC Comics",
+   "seriesStatus": "Cancelled",
+   "yearBegan": 2002,
+   "yearEnd": 2015,
+   "url": "https://metron.cloud/series/fables-2002/"
+  },
+  "faceless-and-the-family-maze-of-the-mechanical-aliens-2026": {
+   "status": "ok",
+   "checked": "2026-10-16",
+   "id": 16133,
+   "name": "Faceless and the Family: Maze of the Mechanical Aliens",
+   "desc": "",
+   "genres": [],
+   "publisher": "Oni Press",
+   "seriesStatus": "Ongoing",
+   "yearBegan": 2026,
+   "yearEnd": null,
+   "url": "https://metron.cloud/series/faceless-and-the-family-maze-of-the-mechanical-aliens-2026/"
+  },
+  "fantastic-four-2025": {
+   "status": "ok",
+   "checked": "2026-10-16",
+   "id": 12316,
+   "name": "Fantastic Four",
+   "desc": "Yet *another* new series of the Fantastic Four.",
+   "genres": [
+    "Super-Hero"
+   ],
+   "publisher": "Marvel",
+   "seriesStatus": "Ongoing",
+   "yearBegan": 2025,
+   "yearEnd": null,
+   "url": "https://metron.cloud/series/fantastic-four-2025/"
+  },
+  "fantastic-four-65-years-of-the-worlds-greatest-comic-covers-2026": {
+   "status": "ok",
+   "checked": "2026-10-16",
+   "id": 16392,
+   "name": "Fantastic Four: 65 Years of the World's Greatest Comic Covers",
+   "desc": "A one-shot.",
+   "genres": [],
+   "publisher": "Marvel",
+   "seriesStatus": "Completed",
+   "yearBegan": 2026,
+   "yearEnd": null,
+   "url": "https://metron.cloud/series/fantastic-four-65-years-of-the-worlds-greatest-comic-covers-2026/"
+  },
+  "fire-and-ice-darkwolf-2026": {
+   "status": "ok",
+   "checked": "2026-10-16",
+   "id": 16183,
+   "name": "Fire and Ice: Darkwolf",
+   "desc": "",
+   "genres": [
+    "Fantasy"
+   ],
+   "publisher": "Dynamite Entertainment",
+   "seriesStatus": "Ongoing",
+   "yearBegan": 2026,
+   "yearEnd": null,
+   "url": "https://metron.cloud/series/fire-and-ice-darkwolf-2026/"
+  },
+  "fire-power-2020": {
+   "status": "ok",
+   "checked": "2026-10-16",
+   "id": 1471,
+   "name": "Fire Power",
+   "desc": "",
+   "genres": [
+    "Crime",
+    "Fantasy",
+    "Horror"
+   ],
+   "publisher": "Skybound",
+   "seriesStatus": "Completed",
+   "yearBegan": 2020,
+   "yearEnd": 2024,
+   "url": "https://metron.cloud/series/fire-power-2020/"
+  },
+  "fixation-2026": {
+   "status": "ok",
+   "checked": "2026-10-16",
+   "id": 16614,
+   "name": "Fixation",
+   "desc": "",
+   "genres": [],
+   "publisher": "IDW Publishing",
+   "seriesStatus": "Ongoing",
+   "yearBegan": 2026,
+   "yearEnd": null,
+   "url": "https://metron.cloud/series/fixation-2026/"
+  },
+  "flux-house-presents-2026": {
+   "status": "ok",
+   "checked": "2026-10-16",
+   "id": 16913,
+   "name": "Flux House Presents",
+   "desc": "",
+   "genres": [],
+   "publisher": "Oni Press",
+   "seriesStatus": "Completed",
+   "yearBegan": 2026,
+   "yearEnd": null,
+   "url": "https://metron.cloud/series/flux-house-presents-2026/"
+  },
+  "forevr-2026": {
+   "status": "none",
+   "checked": "2026-10-16"
+  },
+  "fort-psycho-2026": {
+   "status": "ok",
+   "checked": "2026-10-16",
+   "id": 16348,
+   "name": "Fort Psycho",
+   "desc": "",
+   "genres": [],
+   "publisher": "Oni Press",
+   "seriesStatus": "Ongoing",
+   "yearBegan": 2026,
+   "yearEnd": null,
+   "url": "https://metron.cloud/series/fort-psycho-2026/"
+  },
+  "gambit-gone-2026": {
+   "status": "ok",
+   "checked": "2026-10-16",
+   "id": 16665,
+   "name": "Gambit Gone",
+   "desc": "",
+   "genres": [
+    "Super-Hero"
+   ],
+   "publisher": "Marvel",
+   "seriesStatus": "Ongoing",
+   "yearBegan": 2026,
+   "yearEnd": null,
+   "url": "https://metron.cloud/series/gambit-gone-2026/"
+  },
+  "gambit-wanted-2026": {
+   "status": "ok",
+   "checked": "2026-10-16",
+   "id": 16281,
+   "name": "Gambit: Wanted",
+   "desc": "",
+   "genres": [
+    "Super-Hero"
+   ],
+   "publisher": "Marvel",
+   "seriesStatus": "Ongoing",
+   "yearBegan": 2026,
+   "yearEnd": null,
+   "url": "https://metron.cloud/series/gambit-wanted-2026/"
+  },
+  "gangrene-2026": {
+   "status": "ok",
+   "checked": "2026-10-16",
+   "id": 16655,
+   "name": "Gangrene",
+   "desc": "",
+   "genres": [
+    "Science Fiction"
+   ],
+   "publisher": "Alien Books",
+   "seriesStatus": "Completed",
+   "yearBegan": 2026,
+   "yearEnd": null,
+   "url": "https://metron.cloud/series/gangrene-2026/"
+  },
+  "gargoyles-2026": {
+   "status": "ok",
+   "checked": "2026-10-16",
+   "id": 16456,
+   "name": "Gargoyles",
+   "desc": "",
+   "genres": [],
+   "publisher": "Dynamite Entertainment",
+   "seriesStatus": "Ongoing",
+   "yearBegan": 2026,
+   "yearEnd": null,
+   "url": "https://metron.cloud/series/gargoyles-2026/"
+  },
+  "gastronomique-2026": {
+   "status": "ok",
+   "checked": "2026-10-16",
+   "id": 16457,
+   "name": "Gastronomique",
+   "desc": "A 5 issue limited series.",
+   "genres": [
+    "Adult",
+    "Horror"
+   ],
+   "publisher": "Boom! Studios",
+   "seriesStatus": "Ongoing",
+   "yearBegan": 2026,
+   "yearEnd": null,
+   "url": "https://metron.cloud/series/gastronomique-2026/"
+  },
+  "geiger-2021": {
+   "status": "ok",
+   "checked": "2026-10-16",
+   "id": 2095,
+   "name": "Geiger",
+   "desc": "A 6 issue mini-series from Gary Frank and Geoff Johns.",
+   "genres": [],
+   "publisher": "Image Comics",
+   "seriesStatus": "Completed",
+   "yearBegan": 2021,
+   "yearEnd": 2021,
+   "url": "https://metron.cloud/series/geiger-2021/"
+  },
+  "generation-x23-2026": {
+   "status": "ok",
+   "checked": "2026-10-16",
+   "id": 15102,
+   "name": "Generation X-23",
+   "desc": "",
+   "genres": [
+    "Super-Hero"
+   ],
+   "publisher": "Marvel",
+   "seriesStatus": "Ongoing",
+   "yearBegan": 2026,
+   "yearEnd": null,
+   "url": "https://metron.cloud/series/generation-x-23-2026/"
+  },
+  "ghost-of-a-ghost-2026": {
+   "status": "ok",
+   "checked": "2026-10-16",
+   "id": 16658,
+   "name": "Ghost of a Ghost",
+   "desc": "A 4 issue limited series.",
+   "genres": [
+    "Science Fiction"
+   ],
+   "publisher": "Dark Horse Comics",
+   "seriesStatus": "Ongoing",
+   "yearBegan": 2026,
+   "yearEnd": null,
+   "url": "https://metron.cloud/series/ghost-of-a-ghost-2026/"
+  },
+  "gi-joe-a-real-american-hero-2011": {
+   "status": "ok",
+   "checked": "2026-10-16",
+   "id": 17355,
+   "name": "G.I. Joe: A Real American Hero",
+   "desc": "A series that continues from Marvel's G.I. Joe, A Real American Hero.",
+   "genres": [],
+   "publisher": "IDW Publishing",
+   "seriesStatus": "Cancelled",
+   "yearBegan": 2010,
+   "yearEnd": 2022,
+   "url": "https://metron.cloud/series/gi-joe-a-real-american-hero-2010/"
+  },
+  "gi-joe-a-real-american-hero-tomb-raider-2026": {
+   "status": "ok",
+   "checked": "2026-10-16",
+   "id": 16823,
+   "name": "G.I. Joe: A Real American Hero / Tomb Raider",
+   "desc": "A 5 issue limited series.",
+   "genres": [
+    "Action"
+   ],
+   "publisher": "Skybound",
+   "seriesStatus": "Ongoing",
+   "yearBegan": 2026,
+   "yearEnd": 2027,
+   "url": "https://metron.cloud/series/gi-joe-a-real-american-hero-tomb-raider-2026/"
+  },
+  "giant-robot-hellboy-returns-2026": {
+   "status": "ok",
+   "checked": "2026-10-16",
+   "id": 16243,
+   "name": "Giant Robot Hellboy Returns",
+   "desc": "A 2 issue limited series.",
+   "genres": [
+    "Horror",
+    "Science Fiction"
+   ],
+   "publisher": "Dark Horse Comics",
+   "seriesStatus": "Ongoing",
+   "yearBegan": 2026,
+   "yearEnd": null,
+   "url": "https://metron.cloud/series/giant-robot-hellboy-returns-2026/"
+  },
+  "gideon-falls-2018": {
+   "status": "ok",
+   "checked": "2026-10-16",
+   "id": 2159,
+   "name": "Gideon Falls",
+   "desc": "Twenty-seven issue series.",
+   "genres": [
+    "Horror"
+   ],
+   "publisher": "Image Comics",
+   "seriesStatus": "Cancelled",
+   "yearBegan": 2018,
+   "yearEnd": 2020,
+   "url": "https://metron.cloud/series/gideon-falls-2018/"
+  },
+  "godzilla-2025": {
+   "status": "none",
+   "checked": "2026-10-16"
+  },
+  "godzilla-conquers-the-multiverse-2026": {
+   "status": "ok",
+   "checked": "2026-10-16",
+   "id": 16282,
+   "name": "Godzilla Conquers the Multiverse",
+   "desc": "",
+   "genres": [
+    "Super-Hero"
+   ],
+   "publisher": "Marvel",
+   "seriesStatus": "Ongoing",
+   "yearBegan": 2026,
+   "yearEnd": null,
+   "url": "https://metron.cloud/series/godzilla-conquers-the-multiverse-2026/"
+  },
+  "godzilla-vs-america-san-diego-2026": {
+   "status": "ok",
+   "checked": "2026-10-16",
+   "id": 16245,
+   "name": "Godzilla vs. America: San Diego",
+   "desc": "A one-shot.",
+   "genres": [],
+   "publisher": "IDW Publishing",
+   "seriesStatus": "Completed",
+   "yearBegan": 2026,
+   "yearEnd": null,
+   "url": "https://metron.cloud/series/godzilla-vs-america-san-diego-2026/"
+  },
+  "godzillas-monsterpiece-theatre-presents-roar-of-the-worlds-2026": {
+   "status": "ok",
+   "checked": "2026-10-16",
+   "id": 16458,
+   "name": "Godzilla's Monsterpiece Theatre Presents: Roar of the Worlds",
+   "desc": "A one-shot.",
+   "genres": [],
+   "publisher": "IDW Publishing",
+   "seriesStatus": "Completed",
+   "yearBegan": 2026,
+   "yearEnd": null,
+   "url": "https://metron.cloud/series/godzillas-monsterpiece-theatre-presents-roar-of-the-worlds-2026/"
+  },
+  "godzillas-monsterpiece-theatre-presents-the-kaiju-of-oz-2026": {
+   "status": "ok",
+   "checked": "2026-10-16",
+   "id": 16904,
+   "name": "Godzilla's Monsterpiece Theatre Presents: The Kaiju of Oz",
+   "desc": "A one-shot.",
+   "genres": [],
+   "publisher": "IDW Publishing",
+   "seriesStatus": "Completed",
+   "yearBegan": 2026,
+   "yearEnd": null,
+   "url": "https://metron.cloud/series/godzillas-monsterpiece-theatre-presents-the-kaiju-of-oz-2026/"
+  },
+  "gotham-academy-second-semester-2016": {
+   "status": "ok",
+   "checked": "2026-10-16",
+   "id": 5101,
+   "name": "Gotham Academy: Second Semester",
+   "desc": "A 12 issue limited series.",
+   "genres": [],
+   "publisher": "DC Comics",
+   "seriesStatus": "Completed",
+   "yearBegan": 2016,
+   "yearEnd": 2017,
+   "url": "https://metron.cloud/series/gotham-academy-second-semester-2016/"
+  },
+  "green-lantern-corps-2025": {
+   "status": "ok",
+   "checked": "2026-10-16",
+   "id": 9867,
+   "name": "Green Lantern Corps",
+   "desc": "",
+   "genres": [
+    "Super-Hero"
+   ],
+   "publisher": "DC Comics",
+   "seriesStatus": "Ongoing",
+   "yearBegan": 2025,
+   "yearEnd": null,
+   "url": "https://metron.cloud/series/green-lantern-corps-2025/"
+  },
+  "green-valley-2016": {
+   "status": "ok",
+   "checked": "2026-10-16",
+   "id": 12395,
+   "name": "Green Valley",
+   "desc": "A 9 issue limited series.",
+   "genres": [
+    "Fantasy"
+   ],
+   "publisher": "Skybound",
+   "seriesStatus": "Completed",
+   "yearBegan": 2016,
+   "yearEnd": 2017,
+   "url": "https://metron.cloud/series/green-valley-2016/"
+  },
+  "grendel-devils-crucible-sedition-2026": {
+   "status": "ok",
+   "checked": "2026-10-16",
+   "id": 16326,
+   "name": "Grendel: Devil's Crucible – Sedition",
+   "desc": "A 4 issue limited series.",
+   "genres": [
+    "Action",
+    "Adventure",
+    "Science Fiction"
+   ],
+   "publisher": "Dark Horse Comics",
+   "seriesStatus": "Ongoing",
+   "yearBegan": 2026,
+   "yearEnd": null,
+   "url": "https://metron.cloud/series/grendel-devils-crucible-sedition-2026/"
+  },
+  "grimm-fairy-tales-2016": {
+   "status": "ok",
+   "checked": "2026-10-16",
+   "id": 5602,
+   "name": "Grimm Fairy Tales",
+   "desc": "Grimm Fairy Tales is Back!",
+   "genres": [
+    "Fantasy",
+    "Horror"
+   ],
+   "publisher": "Zenescope Entertainment",
+   "seriesStatus": "Ongoing",
+   "yearBegan": 2016,
+   "yearEnd": null,
+   "url": "https://metron.cloud/series/grimm-fairy-tales-2016/"
+  },
+  "grimm-fairy-tales-2026-cosplay-pinup-special": {
+   "status": "none",
+   "checked": "2026-10-16"
+  },
+  "grimm-fairy-tales-2026-dark-circus-pinup-special": {
+   "status": "none",
+   "checked": "2026-10-16"
+  },
+  "grit-2026": {
+   "status": "none",
+   "checked": "2026-10-16"
+  },
+  "halloween-trick-or-read-2026": {
+   "status": "none",
+   "checked": "2026-10-16"
+  },
+  "hammer-head-2026": {
+   "status": "ok",
+   "checked": "2026-10-16",
+   "id": 16932,
+   "name": "Hammer Head",
+   "desc": "",
+   "genres": [
+    "Horror"
+   ],
+   "publisher": "Mad Cave Studios",
+   "seriesStatus": "Ongoing",
+   "yearBegan": 2026,
+   "yearEnd": null,
+   "url": "https://metron.cloud/series/hammer-head-2026/"
+  },
+  "hammerfist-2026": {
+   "status": "ok",
+   "checked": "2026-10-16",
+   "id": 16595,
+   "name": "Hammerfist",
+   "desc": "",
+   "genres": [],
+   "publisher": "Image Comics",
+   "seriesStatus": "Ongoing",
+   "yearBegan": 2026,
+   "yearEnd": null,
+   "url": "https://metron.cloud/series/hammerfist-2026/"
+  },
+  "havana-split-2026": {
+   "status": "none",
+   "checked": "2026-10-16"
+  },
+  "heartthrob-season-3-2026": {
+   "status": "none",
+   "checked": "2026-10-16"
+  },
+  "heaven-2026": {
+   "status": "none",
+   "checked": "2026-10-16"
+  },
+  "hellboy-and-the-bprd-the-monster-of-nivola-2026": {
+   "status": "ok",
+   "checked": "2026-10-16",
+   "id": 16106,
+   "name": "Hellboy and the B.P.R.D.: The Monster of Nivola",
+   "desc": "A one-shot.",
+   "genres": [],
+   "publisher": "Dark Horse Comics",
+   "seriesStatus": "Completed",
+   "yearBegan": 2026,
+   "yearEnd": null,
+   "url": "https://metron.cloud/series/hellboy-and-the-bprd-the-monster-of-nivola-2026/"
+  },
+  "hellboy-in-hell-nothing-but-blood-2026": {
+   "status": "ok",
+   "checked": "2026-10-16",
+   "id": 16897,
+   "name": "Hellboy in Hell: Nothing But Blood",
+   "desc": "A 2 issue limited series.",
+   "genres": [
+    "Action",
+    "Fantasy",
+    "Horror"
+   ],
+   "publisher": "Dark Horse Comics",
+   "seriesStatus": "Ongoing",
+   "yearBegan": 2026,
+   "yearEnd": null,
+   "url": "https://metron.cloud/series/hellboy-in-hell-nothing-but-blood-2026/"
+  },
+  "hellboy-in-love-obsidian-2026": {
+   "status": "ok",
+   "checked": "2026-10-16",
+   "id": 15993,
+   "name": "Hellboy in Love: Obsidian",
+   "desc": "A 2 issue limited series.",
+   "genres": [],
+   "publisher": "Dark Horse Comics",
+   "seriesStatus": "Completed",
+   "yearBegan": 2026,
+   "yearEnd": 2026,
+   "url": "https://metron.cloud/series/hellboy-in-love-obsidian-2026/"
+  },
+  "hello-kitty-and-friends-hello-world-2026": {
+   "status": "ok",
+   "checked": "2026-10-16",
+   "id": 16459,
+   "name": "Hello Kitty and Friends: Hello World!",
+   "desc": "",
+   "genres": [],
+   "publisher": "IDW Publishing",
+   "seriesStatus": "Ongoing",
+   "yearBegan": 2026,
+   "yearEnd": null,
+   "url": "https://metron.cloud/series/hello-kitty-and-friends-hello-world-2026/"
+  },
+  "hellraiser-facsimile-edition-2026": {
+   "status": "none",
+   "checked": "2026-10-16"
+  },
+  "hellraiser-resurrections-hells-council-2026": {
+   "status": "ok",
+   "checked": "2026-10-16",
+   "id": 16654,
+   "name": "Hellraiser: Resurrections – Hell's Council",
+   "desc": "A one-shot.",
+   "genres": [
+    "Horror"
+   ],
+   "publisher": "Boom! Studios",
+   "seriesStatus": "Completed",
+   "yearBegan": 2026,
+   "yearEnd": null,
+   "url": "https://metron.cloud/series/hellraiser-resurrections-hells-council-2026/"
+  },
+  "hellraiser-resurrections-new-wounds-2026": {
+   "status": "ok",
+   "checked": "2026-10-16",
+   "id": 16606,
+   "name": "Hellraiser: Resurrections – New Wounds",
+   "desc": "A one-shot.",
+   "genres": [
+    "Horror"
+   ],
+   "publisher": "Boom! Studios",
+   "seriesStatus": "Completed",
+   "yearBegan": 2026,
+   "yearEnd": null,
+   "url": "https://metron.cloud/series/hellraiser-resurrections-new-wounds-2026/"
+  },
+  "hellraiser-resurrections-the-deep-gospel-2026": {
+   "status": "ok",
+   "checked": "2026-10-16",
+   "id": 16628,
+   "name": "Hellraiser: Resurrections – The Deep Gospel",
+   "desc": "",
+   "genres": [
+    "Horror"
+   ],
+   "publisher": "Boom! Studios",
+   "seriesStatus": "Completed",
+   "yearBegan": 2026,
+   "yearEnd": null,
+   "url": "https://metron.cloud/series/hellraiser-resurrections-the-deep-gospel-2026/"
+  },
+  "hellraiser-resurrections-the-onanistic-ritual-2026": {
+   "status": "ok",
+   "checked": "2026-10-16",
+   "id": 16617,
+   "name": "Hellraiser: Resurrections – The Onanistic Ritual",
+   "desc": "A one-shot.",
+   "genres": [
+    "Horror"
+   ],
+   "publisher": "Boom! Studios",
+   "seriesStatus": "Completed",
+   "yearBegan": 2026,
+   "yearEnd": null,
+   "url": "https://metron.cloud/series/hellraiser-resurrections-the-onanistic-ritual-2026/"
+  },
+  "hellraiser-resurrections-the-return-of-the-priest-2026": {
+   "status": "ok",
+   "checked": "2026-10-16",
+   "id": 16698,
+   "name": "Hellraiser: Resurrections – The Return of the Priest",
+   "desc": "A one-shot.",
+   "genres": [
+    "Horror"
+   ],
+   "publisher": "Boom! Studios",
+   "seriesStatus": "Completed",
+   "yearBegan": 2026,
+   "yearEnd": null,
+   "url": "https://metron.cloud/series/hellraiser-resurrections-the-return-of-the-priest-2026/"
+  },
+  "hillbilly-the-treason-of-twelve-toe-maggie-2026": {
+   "status": "ok",
+   "checked": "2026-10-16",
+   "id": 16694,
+   "name": "Hillbilly: The Treason of Twelve-Toe Maggie",
+   "desc": "A 3 issue limited series.",
+   "genres": [
+    "Fantasy"
+   ],
+   "publisher": "Dark Horse Comics",
+   "seriesStatus": "Ongoing",
+   "yearBegan": 2026,
+   "yearEnd": null,
+   "url": "https://metron.cloud/series/hillbilly-the-treason-of-twelve-toe-maggie-2026/"
+  },
+  "house-of-x-2019": {
+   "status": "ok",
+   "checked": "2026-10-16",
+   "id": 428,
+   "name": "House of X",
+   "desc": "A six issue mini-series by Jonathan Hickman and Pepe Larraz.",
+   "genres": [],
+   "publisher": "Marvel",
+   "seriesStatus": "Completed",
+   "yearBegan": 2019,
+   "yearEnd": 2019,
+   "url": "https://metron.cloud/series/house-x-2019/"
+  },
+  "ice-cream-man-2018": {
+   "status": "ok",
+   "checked": "2026-10-16",
+   "id": 4527,
+   "name": "Ice Cream Man",
+   "desc": "A horror anthology of loosely connected stories that all share the common link of a mysterious ice cream man named Rick (revealed to be Riccardus) who while a seemingly ordinary Ice Cream Man possesses inexplicable powers which he uses upon unsuspecting people. Rick's nemesis Caleb, a man dressed in an all black cowboy outfit, will sporadically appear in the series trying to thwart Rick's plans sometimes successfully and sometimes unsuccessfully.",
+   "genres": [
+    "Horror"
+   ],
+   "publisher": "Image Comics",
+   "seriesStatus": "Ongoing",
+   "yearBegan": 2018,
+   "yearEnd": null,
+   "url": "https://metron.cloud/series/ice-cream-man-2018/"
+  },
+  "ice-cream-man-chocolate-vanilla-twist-2026": {
+   "status": "ok",
+   "checked": "2026-10-16",
+   "id": 16926,
+   "name": "Ice Cream Man: Chocolate / Vanilla Twist",
+   "desc": "",
+   "genres": [
+    "Horror"
+   ],
+   "publisher": "Image Comics",
+   "seriesStatus": "Completed",
+   "yearBegan": 2026,
+   "yearEnd": null,
+   "url": "https://metron.cloud/series/ice-cream-man-chocolate-vanilla-twist-2026/"
+  },
+  "immortal-hulk-2018": {
+   "status": "ok",
+   "checked": "2026-10-16",
+   "id": 1708,
+   "name": "Immortal Hulk",
+   "desc": "In this new horror-filled series, Bruce Banners return from the dead is explored.",
+   "genres": [],
+   "publisher": "Marvel",
+   "seriesStatus": "Cancelled",
+   "yearBegan": 2018,
+   "yearEnd": 2021,
+   "url": "https://metron.cloud/series/immortal-hulk-2018/"
+  },
+  "inglorious-xforce-2026": {
+   "status": "ok",
+   "checked": "2026-10-16",
+   "id": 14431,
+   "name": "Inglorious X-Force",
+   "desc": "",
+   "genres": [
+    "Super-Hero"
+   ],
+   "publisher": "Marvel",
+   "seriesStatus": "Ongoing",
+   "yearBegan": 2026,
+   "yearEnd": null,
+   "url": "https://metron.cloud/series/inglorious-x-force-2026/"
+  },
+  "injustice-ground-zero-2016": {
+   "status": "ok",
+   "checked": "2026-10-16",
+   "id": 7495,
+   "name": "Injustice: Ground Zero",
+   "desc": "",
+   "genres": [
+    "Super-Hero"
+   ],
+   "publisher": "DC Comics",
+   "seriesStatus": "Cancelled",
+   "yearBegan": 2017,
+   "yearEnd": 2017,
+   "url": "https://metron.cloud/series/injustice-ground-zero-2017-1/"
+  },
+  "invincible-2005": {
+   "status": "none",
+   "checked": "2026-10-16"
+  },
+  "invincible-compendium-20112018": {
+   "status": "none",
+   "checked": "2026-10-16"
+  },
+  "iron-man-2026": {
+   "status": "ok",
+   "checked": "2026-10-16",
+   "id": 14660,
+   "name": "Iron Man",
+   "desc": "",
+   "genres": [
+    "Super-Hero"
+   ],
+   "publisher": "Marvel",
+   "seriesStatus": "Ongoing",
+   "yearBegan": 2026,
+   "yearEnd": null,
+   "url": "https://metron.cloud/series/iron-man-2026/"
+  },
+  "its-symbie-2026": {
+   "status": "ok",
+   "checked": "2026-10-16",
+   "id": 16162,
+   "name": "It's Symbie",
+   "desc": "A one-shot.",
+   "genres": [
+    "Humor",
+    "Super-Hero"
+   ],
+   "publisher": "Marvel",
+   "seriesStatus": "Completed",
+   "yearBegan": 2026,
+   "yearEnd": null,
+   "url": "https://metron.cloud/series/its-symbie-2026/"
+  },
+  "jeff-the-land-shark-superstar-2026": {
+   "status": "ok",
+   "checked": "2026-10-16",
+   "id": 16163,
+   "name": "Jeff the Land Shark: Superstar",
+   "desc": "",
+   "genres": [
+    "Humor",
+    "Super-Hero"
+   ],
+   "publisher": "Marvel",
+   "seriesStatus": "Ongoing",
+   "yearBegan": 2026,
+   "yearEnd": null,
+   "url": "https://metron.cloud/series/jeff-the-land-shark-superstar-2026/"
+  },
+  "jeff-week-infinity-comic-2026": {
+   "status": "none",
+   "checked": "2026-10-16"
+  },
+  "joe-kubert-100-years-a-life-in-covers-2026": {
+   "status": "ok",
+   "checked": "2026-10-16",
+   "id": 16653,
+   "name": "Joe Kubert: 100 Years – A Life in Covers",
+   "desc": "A one-shot.",
+   "genres": [],
+   "publisher": "DC Comics",
+   "seriesStatus": "Completed",
+   "yearBegan": 2026,
+   "yearEnd": null,
+   "url": "https://metron.cloud/series/joe-kubert-100-years-a-life-in-covers-2026/"
+  },
+  "jonah-hex-and-the-shadow-of-death-2026": {
+   "status": "ok",
+   "checked": "2026-10-16",
+   "id": 16895,
+   "name": "Jonah Hex and the Shadow of Death",
+   "desc": "A 6 issue limited series.",
+   "genres": [
+    "Horror",
+    "Western"
+   ],
+   "publisher": "DC Comics",
+   "seriesStatus": "Ongoing",
+   "yearBegan": 2026,
+   "yearEnd": null,
+   "url": "https://metron.cloud/series/jonah-hex-and-the-shadow-of-death-2026/"
+  },
+  "jsa-2024": {
+   "status": "ok",
+   "checked": "2026-10-16",
+   "id": 8749,
+   "name": "JSA",
+   "desc": "",
+   "genres": [
+    "Super-Hero"
+   ],
+   "publisher": "DC Comics",
+   "seriesStatus": "Completed",
+   "yearBegan": 2025,
+   "yearEnd": 2026,
+   "url": "https://metron.cloud/series/jsa-2025/"
+  },
+  "justice-league-2016": {
+   "status": "ok",
+   "checked": "2026-10-16",
+   "id": 2050,
+   "name": "Justice League",
+   "desc": "",
+   "genres": [
+    "Super-Hero"
+   ],
+   "publisher": "DC Comics",
+   "seriesStatus": "Cancelled",
+   "yearBegan": 2016,
+   "yearEnd": 2018,
+   "url": "https://metron.cloud/series/justice-league-2016/"
+  },
+  "justice-league-knight-vision-special-2026": {
+   "status": "ok",
+   "checked": "2026-10-16",
+   "id": 16219,
+   "name": "Justice League: Knight Vision Special",
+   "desc": "A one-shot.",
+   "genres": [
+    "Super-Hero"
+   ],
+   "publisher": "DC Comics",
+   "seriesStatus": "Completed",
+   "yearBegan": 2026,
+   "yearEnd": null,
+   "url": "https://metron.cloud/series/justice-league-knight-vision-special-2026/"
+  },
+  "kill-all-immortals-iii-2026": {
+   "status": "ok",
+   "checked": "2026-10-16",
+   "id": 16898,
+   "name": "Kill All Immortals III",
+   "desc": "With the Asvald family left fractured, wounded, and stripped of their absolute dominance, they discover that the world is teeming with rival immortal factions seeking their complete destruction. Having suffered immense hardship and loss, Frey fully embraces her internal Viking ruthlessness. As she prepares to face her most lethal adversaries yet, she must decide between finding true freedom from war or yielding to her ultimate desire for bloody vengeance.",
+   "genres": [
+    "Action",
+    "Crime"
+   ],
+   "publisher": "Dark Horse Comics",
+   "seriesStatus": "Ongoing",
+   "yearBegan": 2026,
+   "yearEnd": null,
+   "url": "https://metron.cloud/series/kill-all-immortals-iii-2026/"
+  },
+  "killer-influences-2026": {
+   "status": "ok",
+   "checked": "2026-10-16",
+   "id": 16134,
+   "name": "Killer Influences",
+   "desc": "A 3 issue limited series.",
+   "genres": [
+    "Crime"
+   ],
+   "publisher": "IDW Publishing",
+   "seriesStatus": "Completed",
+   "yearBegan": 2026,
+   "yearEnd": 2026,
+   "url": "https://metron.cloud/series/killer-influences-2026/"
+  },
+  "kingdom-come-2019": {
+   "status": "none",
+   "checked": "2026-10-16"
+  },
+  "kingdom-of-earth-2026": {
+   "status": "ok",
+   "checked": "2026-10-16",
+   "id": 16234,
+   "name": "Kingdom of Earth",
+   "desc": "A 4 issue limited series.",
+   "genres": [],
+   "publisher": "Dark Horse Comics",
+   "seriesStatus": "Ongoing",
+   "yearBegan": 2026,
+   "yearEnd": null,
+   "url": "https://metron.cloud/series/kingdom-of-earth-2026/"
+  },
+  "kodi-a-place-to-call-home-2026": {
+   "status": "none",
+   "checked": "2026-10-16"
+  },
+  "lady-death-pirate-queen-2026": {
+   "status": "none",
+   "checked": "2026-10-16"
+  },
+  "land-of-never-2026": {
+   "status": "ok",
+   "checked": "2026-10-16",
+   "id": 16001,
+   "name": "Land of Never",
+   "desc": "",
+   "genres": [],
+   "publisher": "Mad Cave Studios",
+   "seriesStatus": "Ongoing",
+   "yearBegan": 2026,
+   "yearEnd": null,
+   "url": "https://metron.cloud/series/land-of-never-2026/"
+  },
+  "lazarus-2013": {
+   "status": "ok",
+   "checked": "2026-10-16",
+   "id": 2101,
+   "name": "Lazarus",
+   "desc": "Series by Greg Rucka and Michael Lark.",
+   "genres": [],
+   "publisher": "Image Comics",
+   "seriesStatus": "Cancelled",
+   "yearBegan": 2013,
+   "yearEnd": 2018,
+   "url": "https://metron.cloud/series/lazarus-2013/"
+  },
+  "lazarus-order-2026": {
+   "status": "ok",
+   "checked": "2026-10-16",
+   "id": 16465,
+   "name": "Lazarus Order",
+   "desc": "A 3 issue limited series.",
+   "genres": [
+    "Fantasy"
+   ],
+   "publisher": "Mad Cave Studios",
+   "seriesStatus": "Ongoing",
+   "yearBegan": 2026,
+   "yearEnd": null,
+   "url": "https://metron.cloud/series/lazarus-order-2026/"
+  },
+  "legion-of-super-heroes-2026": {
+   "status": "ok",
+   "checked": "2026-10-16",
+   "id": 16591,
+   "name": "Legion of Super-Heroes",
+   "desc": "A new Legion of Super-Heroes by Joshua Williamson.",
+   "genres": [
+    "Super-Hero"
+   ],
+   "publisher": "DC Comics",
+   "seriesStatus": "Ongoing",
+   "yearBegan": 2026,
+   "yearEnd": null,
+   "url": "https://metron.cloud/series/legion-of-super-heroes-2026/"
+  },
+  "lex-luthor-diabolical-genius-2026": {
+   "status": "none",
+   "checked": "2026-10-16"
+  },
+  "magic-the-gathering-untold-stories-liliana-2026": {
+   "status": "ok",
+   "checked": "2026-10-16",
+   "id": 16933,
+   "name": "Magic: The Gathering: Untold Stories – Liliana",
+   "desc": "A 4 issue limited series.",
+   "genres": [
+    "Fantasy"
+   ],
+   "publisher": "Dark Horse Comics",
+   "seriesStatus": "Ongoing",
+   "yearBegan": 2026,
+   "yearEnd": null,
+   "url": "https://metron.cloud/series/magic-the-gathering-untold-stories-liliana-2026/"
+  },
+  "marvel-dimensions-2026": {
+   "status": "none",
+   "checked": "2026-10-16"
+  },
+  "marvel-gold-76-2026": {
+   "status": "ok",
+   "checked": "2026-10-16",
+   "id": 16641,
+   "name": "Marvel Gold '76",
+   "desc": "A one-shot.",
+   "genres": [
+    "Super-Hero"
+   ],
+   "publisher": "Marvel",
+   "seriesStatus": "Completed",
+   "yearBegan": 2026,
+   "yearEnd": null,
+   "url": "https://metron.cloud/series/marvel-gold-76-2026/"
+  },
+  "marvel-mangaverse-arcane-avengers-2026": {
+   "status": "ok",
+   "checked": "2026-10-16",
+   "id": 16651,
+   "name": "Marvel Mangaverse: Arcane Avengers",
+   "desc": "",
+   "genres": [
+    "Super-Hero"
+   ],
+   "publisher": "Marvel",
+   "seriesStatus": "Completed",
+   "yearBegan": 2026,
+   "yearEnd": null,
+   "url": "https://metron.cloud/series/marvel-mangaverse-arcane-avengers-2026/"
+  },
+  "marvel-mangaverse-ghostlocke-2026": {
+   "status": "ok",
+   "checked": "2026-10-16",
+   "id": 16667,
+   "name": "Marvel Mangaverse: Ghostlocke",
+   "desc": "",
+   "genres": [
+    "Super-Hero"
+   ],
+   "publisher": "Marvel",
+   "seriesStatus": "Completed",
+   "yearBegan": 2026,
+   "yearEnd": null,
+   "url": "https://metron.cloud/series/marvel-mangaverse-ghostlocke-2026/"
+  },
+  "marvel-mangaverse-iron-knight-2026": {
+   "status": "ok",
+   "checked": "2026-10-16",
+   "id": 16642,
+   "name": "Marvel Mangaverse: Iron Knight",
+   "desc": "A one-shot.",
+   "genres": [
+    "Super-Hero"
+   ],
+   "publisher": "Marvel",
+   "seriesStatus": "Completed",
+   "yearBegan": 2026,
+   "yearEnd": null,
+   "url": "https://metron.cloud/series/marvel-mangaverse-iron-knight-2026/"
+  },
+  "marvel-mangaverse-web-of-blood-2026": {
+   "status": "ok",
+   "checked": "2026-10-16",
+   "id": 16636,
+   "name": "Marvel Mangaverse: Web of Blood",
+   "desc": "A one-shot.",
+   "genres": [
+    "Super-Hero"
+   ],
+   "publisher": "Marvel",
+   "seriesStatus": "Completed",
+   "yearBegan": 2026,
+   "yearEnd": null,
+   "url": "https://metron.cloud/series/marvel-mangaverse-web-of-blood-2026/"
+  },
+  "marvel-mangaverse-web-of-destiny-2026": {
+   "status": "ok",
+   "checked": "2026-10-16",
+   "id": 16693,
+   "name": "Marvel Mangaverse: Web of Destiny",
+   "desc": "a one-shot.",
+   "genres": [
+    "Super-Hero"
+   ],
+   "publisher": "Marvel",
+   "seriesStatus": "Completed",
+   "yearBegan": 2026,
+   "yearEnd": null,
+   "url": "https://metron.cloud/series/marvel-mangaverse-web-of-destiny-2026/"
+  },
+  "marvel-meow-infinity-comic-2022": {
+   "status": "none",
+   "checked": "2026-10-16"
+  },
+  "marvel-rivals-infinity-comic-2024": {
+   "status": "none",
+   "checked": "2026-10-16"
+  },
+  "marvel-swimsuit-special-brand-new-beach-day-2026": {
+   "status": "ok",
+   "checked": "2026-10-16",
+   "id": 16080,
+   "name": "Marvel Swimsuit Special: Brand New Beach Day",
+   "desc": "A one-shot.",
+   "genres": [
+    "Super-Hero"
+   ],
+   "publisher": "Marvel",
+   "seriesStatus": "Completed",
+   "yearBegan": 2026,
+   "yearEnd": null,
+   "url": "https://metron.cloud/series/marvel-swimsuit-special-brand-new-beach-day-2026/"
+  },
+  "marvel-tokon-first-strike-2026": {
+   "status": "ok",
+   "checked": "2026-10-16",
+   "id": 16393,
+   "name": "Marvel Tōkon: First Strike",
+   "desc": "A one-shot.",
+   "genres": [],
+   "publisher": "Marvel",
+   "seriesStatus": "Completed",
+   "yearBegan": 2026,
+   "yearEnd": null,
+   "url": "https://metron.cloud/series/marvel-tokon-first-strike-2026/"
+  },
+  "marvel-zero-2026": {
+   "status": "ok",
+   "checked": "2026-10-16",
+   "id": 16214,
+   "name": "Marvel Zero",
+   "desc": "A one-shot.",
+   "genres": [
+    "Super-Hero"
+   ],
+   "publisher": "Marvel",
+   "seriesStatus": "Ongoing",
+   "yearBegan": 2026,
+   "yearEnd": null,
+   "url": "https://metron.cloud/series/marvel-zero-2026/"
+  },
+  "marvel-zombies-war-zone-2026": {
+   "status": "ok",
+   "checked": "2026-10-16",
+   "id": 16637,
+   "name": "Marvel Zombies: War Zone",
+   "desc": "",
+   "genres": [
+    "Horror",
+    "Super-Hero"
+   ],
+   "publisher": "Marvel",
+   "seriesStatus": "Ongoing",
+   "yearBegan": 2026,
+   "yearEnd": null,
+   "url": "https://metron.cloud/series/marvel-zombies-war-zone-2026/"
+  },
+  "mary-jane-face-it-tiger-2026": {
+   "status": "ok",
+   "checked": "2026-10-16",
+   "id": 16394,
+   "name": "Mary Jane: Face It, Tiger",
+   "desc": "A one-shot.",
+   "genres": [
+    "Super-Hero"
+   ],
+   "publisher": "Marvel",
+   "seriesStatus": "Completed",
+   "yearBegan": 2026,
+   "yearEnd": null,
+   "url": "https://metron.cloud/series/mary-jane-face-it-tiger-2026/"
+  },
+  "mask-origins-2026": {
+   "status": "ok",
+   "checked": "2026-10-16",
+   "id": 16596,
+   "name": "M.A.S.K. Origins",
+   "desc": "A one-shot.",
+   "genres": [
+    "Action"
+   ],
+   "publisher": "Skybound",
+   "seriesStatus": "Completed",
+   "yearBegan": 2026,
+   "yearEnd": null,
+   "url": "https://metron.cloud/series/mask-origins-2026/"
+  },
+  "masters-of-the-universe-genesis-2026": {
+   "status": "none",
+   "checked": "2026-10-16"
+  },
+  "meals-to-astonish-avengers-2026": {
+   "status": "ok",
+   "checked": "2026-10-16",
+   "id": 16920,
+   "name": "Meals to Astonish: Avengers",
+   "desc": "A one-shot.",
+   "genres": [
+    "Super-Hero"
+   ],
+   "publisher": "Marvel",
+   "seriesStatus": "Completed",
+   "yearBegan": 2026,
+   "yearEnd": null,
+   "url": "https://metron.cloud/series/meals-to-astonish-avengers-2026/"
+  },
+  "midnight-fantastic-four-2026": {
+   "status": "ok",
+   "checked": "2026-10-16",
+   "id": 16886,
+   "name": "Midnight Fantastic Four",
+   "desc": "",
+   "genres": [
+    "Action",
+    "Horror"
+   ],
+   "publisher": "Marvel",
+   "seriesStatus": "Ongoing",
+   "yearBegan": 2026,
+   "yearEnd": null,
+   "url": "https://metron.cloud/series/midnight-fantastic-four-2026/"
+  },
+  "midnight-spider-man-2026": {
+   "status": "ok",
+   "checked": "2026-10-16",
+   "id": 16885,
+   "name": "Midnight Spider-Man",
+   "desc": "",
+   "genres": [
+    "Action",
+    "Horror"
+   ],
+   "publisher": "Marvel",
+   "seriesStatus": "Ongoing",
+   "yearBegan": 2026,
+   "yearEnd": null,
+   "url": "https://metron.cloud/series/midnight-spider-man-2026/"
+  },
+  "midnight-universe-black-white-ashcan-edition-2026": {
+   "status": "none",
+   "checked": "2026-10-16"
+  },
+  "midnight-x-men-2026": {
+   "status": "ok",
+   "checked": "2026-10-16",
+   "id": 16884,
+   "name": "Midnight X-Men",
+   "desc": "",
+   "genres": [
+    "Action",
+    "Horror"
+   ],
+   "publisher": "Marvel",
+   "seriesStatus": "Ongoing",
+   "yearBegan": 2026,
+   "yearEnd": null,
+   "url": "https://metron.cloud/series/midnight-x-men-2026/"
+  },
+  "miles-morales-spider-man-2026": {
+   "status": "ok",
+   "checked": "2026-10-16",
+   "id": 16445,
+   "name": "Miles Morales: Spider-Man",
+   "desc": "",
+   "genres": [
+    "Super-Hero"
+   ],
+   "publisher": "Marvel",
+   "seriesStatus": "Ongoing",
+   "yearBegan": 2026,
+   "yearEnd": null,
+   "url": "https://metron.cloud/series/miles-morales-spider-man-2026/"
+  },
+  "mind-mgmt-new-improved-2026": {
+   "status": "ok",
+   "checked": "2026-10-16",
+   "id": 16107,
+   "name": "Mind MGMT: New & Improved",
+   "desc": "",
+   "genres": [],
+   "publisher": "Oni Press",
+   "seriesStatus": "Ongoing",
+   "yearBegan": 2026,
+   "yearEnd": null,
+   "url": "https://metron.cloud/series/mind-mgmt-new-improved-2026/"
+  },
+  "minor-arcana-2024": {
+   "status": "ok",
+   "checked": "2026-10-16",
+   "id": 8339,
+   "name": "Minor Arcana",
+   "desc": "",
+   "genres": [],
+   "publisher": "Boom! Studios",
+   "seriesStatus": "Ongoing",
+   "yearBegan": 2024,
+   "yearEnd": null,
+   "url": "https://metron.cloud/series/minor-arcana-2024/"
+  },
+  "mister-miracle-2017": {
+   "status": "ok",
+   "checked": "2026-10-16",
+   "id": 86,
+   "name": "Mister Miracle",
+   "desc": "",
+   "genres": [],
+   "publisher": "DC Comics",
+   "seriesStatus": "Completed",
+   "yearBegan": 2017,
+   "yearEnd": 2018,
+   "url": "https://metron.cloud/series/mister-miracle-2017/"
+  },
+  "mister-nemo-2026": {
+   "status": "ok",
+   "checked": "2026-10-16",
+   "id": 16236,
+   "name": "Mister Nemo",
+   "desc": "",
+   "genres": [],
+   "publisher": "Mad Cave Studios",
+   "seriesStatus": "Ongoing",
+   "yearBegan": 2026,
+   "yearEnd": null,
+   "url": "https://metron.cloud/series/mister-nemo-2026/"
+  },
+  "momo-2026": {
+   "status": "none",
+   "checked": "2026-10-16"
+  },
+  "monster-high-house-haunters-2026": {
+   "status": "ok",
+   "checked": "2026-10-16",
+   "id": 13146,
+   "name": "Monster High: House Haunters",
+   "desc": "A 5 issue limited series.",
+   "genres": [
+    "Horror"
+   ],
+   "publisher": "IDW Publishing",
+   "seriesStatus": "Completed",
+   "yearBegan": 2025,
+   "yearEnd": 2025,
+   "url": "https://metron.cloud/series/monster-high-house-haunters-2025/"
+  },
+  "monstress-2015": {
+   "status": "ok",
+   "checked": "2026-10-16",
+   "id": 4733,
+   "name": "Monstress",
+   "desc": "An ongoing series.\n\nCurrently on a hiatus until 2026.",
+   "genres": [
+    "Fantasy"
+   ],
+   "publisher": "Image Comics",
+   "seriesStatus": "Hiatus",
+   "yearBegan": 2015,
+   "yearEnd": null,
+   "url": "https://metron.cloud/series/monstress-2015/"
+  },
+  "moon-knight-2016": {
+   "status": "ok",
+   "checked": "2026-10-16",
+   "id": 2413,
+   "name": "Moon Knight",
+   "desc": "An All-New, All-Different Marvel series.",
+   "genres": [],
+   "publisher": "Marvel",
+   "seriesStatus": "Cancelled",
+   "yearBegan": 2016,
+   "yearEnd": 2018,
+   "url": "https://metron.cloud/series/moon-knight-2016/"
+  },
+  "nano-2026": {
+   "status": "ok",
+   "checked": "2026-10-16",
+   "id": 16329,
+   "name": "Nano",
+   "desc": "",
+   "genres": [],
+   "publisher": "Dark Horse Comics",
+   "seriesStatus": "Ongoing",
+   "yearBegan": 2026,
+   "yearEnd": null,
+   "url": "https://metron.cloud/series/nano-2026/"
+  },
+  "next-level-one-shot-2026": {
+   "status": "ok",
+   "checked": "2026-10-16",
+   "id": 16512,
+   "name": "Next Level: One Shot",
+   "desc": "A one-shot.",
+   "genres": [
+    "Super-Hero"
+   ],
+   "publisher": "DC Comics",
+   "seriesStatus": "Completed",
+   "yearBegan": 2026,
+   "yearEnd": null,
+   "url": "https://metron.cloud/series/next-level-one-shot-2026/"
+  },
+  "nickelodeon-avatar-the-last-airbender-jet-rebels-and-rhinos-2026": {
+   "status": "none",
+   "checked": "2026-10-16"
+  },
+  "nightwing-2016": {
+   "status": "ok",
+   "checked": "2026-10-16",
+   "id": 981,
+   "name": "Nightwing",
+   "desc": "",
+   "genres": [
+    "Super-Hero"
+   ],
+   "publisher": "DC Comics",
+   "seriesStatus": "Ongoing",
+   "yearBegan": 2016,
+   "yearEnd": null,
+   "url": "https://metron.cloud/series/nightwing-2016/"
+  },
+  "ninjak-2015": {
+   "status": "ok",
+   "checked": "2026-10-16",
+   "id": 11865,
+   "name": "Ninjak",
+   "desc": "",
+   "genres": [
+    "Espionage",
+    "Super-Hero"
+   ],
+   "publisher": "Valiant",
+   "seriesStatus": "Cancelled",
+   "yearBegan": 2015,
+   "yearEnd": 2017,
+   "url": "https://metron.cloud/series/ninjak-2015/"
+  },
+  "no-gods-no-masters-2026": {
+   "status": "ok",
+   "checked": "2026-10-16",
+   "id": 16605,
+   "name": "No Gods, No Masters",
+   "desc": "",
+   "genres": [
+    "Science Fiction"
+   ],
+   "publisher": "Boom! Studios",
+   "seriesStatus": "Ongoing",
+   "yearBegan": 2026,
+   "yearEnd": null,
+   "url": "https://metron.cloud/series/no-gods-no-masters-2026/"
+  },
+  "nova-return-of-the-rings-2026": {
+   "status": "ok",
+   "checked": "2026-10-16",
+   "id": 16921,
+   "name": "Nova: Return of the Rings",
+   "desc": "A one-shot.",
+   "genres": [
+    "Super-Hero"
+   ],
+   "publisher": "Marvel",
+   "seriesStatus": "Completed",
+   "yearBegan": 2026,
+   "yearEnd": null,
+   "url": "https://metron.cloud/series/nova-return-of-the-rings-2026/"
+  },
+  "ofiusa-2026": {
+   "status": "ok",
+   "checked": "2026-10-16",
+   "id": 16623,
+   "name": "Ofiusa",
+   "desc": "A 6 issue limited series.",
+   "genres": [],
+   "publisher": "Image Comics",
+   "seriesStatus": "Ongoing",
+   "yearBegan": 2026,
+   "yearEnd": null,
+   "url": "https://metron.cloud/series/ofiusa-2026/"
+  },
+  "operation-iron-coffin-2026": {
+   "status": "ok",
+   "checked": "2026-10-16",
+   "id": 16184,
+   "name": "Operation: Iron Coffin",
+   "desc": "",
+   "genres": [
+    "Horror"
+   ],
+   "publisher": "IDW Publishing",
+   "seriesStatus": "Ongoing",
+   "yearBegan": 2026,
+   "yearEnd": null,
+   "url": "https://metron.cloud/series/operation-iron-coffin-2026/"
+  },
+  "origins-of-the-hood-marvel-rivals-2026": {
+   "status": "ok",
+   "checked": "2026-10-16",
+   "id": 16395,
+   "name": "Origins of the Hood: Marvel Rivals",
+   "desc": "",
+   "genres": [
+    "Super-Hero"
+   ],
+   "publisher": "Marvel",
+   "seriesStatus": "Completed",
+   "yearBegan": 2026,
+   "yearEnd": null,
+   "url": "https://metron.cloud/series/origins-of-the-hood-marvel-rivals-2026/"
+  },
+  "orion-2026": {
+   "status": "none",
+   "checked": "2026-10-16"
+  },
+  "paper-girls-2015": {
+   "status": "ok",
+   "checked": "2026-10-16",
+   "id": 70,
+   "name": "Paper Girls",
+   "desc": "Paper Girls is an ongoing sci-fi adventure series following four newspaper delivery girls as they wind up in the middle of a time travel mystery.",
+   "genres": [],
+   "publisher": "Image Comics",
+   "seriesStatus": "Cancelled",
+   "yearBegan": 2015,
+   "yearEnd": 2019,
+   "url": "https://metron.cloud/series/paper-girls-2015/"
+  },
+  "peter-parker-spider-man-queens-finest-infinity-comic-2026": {
+   "status": "none",
+   "checked": "2026-10-16"
+  },
+  "pop-kill-big-candy-2026": {
+   "status": "none",
+   "checked": "2026-10-16"
+  },
+  "power-rangers-green-2026": {
+   "status": "ok",
+   "checked": "2026-10-16",
+   "id": 16401,
+   "name": "Power Rangers: Green",
+   "desc": "",
+   "genres": [],
+   "publisher": "Boom! Studios",
+   "seriesStatus": "Ongoing",
+   "yearBegan": 2026,
+   "yearEnd": null,
+   "url": "https://metron.cloud/series/power-rangers-green-2026/"
+  },
+  "power-rangers-unlimited-2026": {
+   "status": "ok",
+   "checked": "2026-10-16",
+   "id": 16136,
+   "name": "Power Rangers Unlimited",
+   "desc": "A 12 issue limited series.",
+   "genres": [],
+   "publisher": "Boom! Studios",
+   "seriesStatus": "Ongoing",
+   "yearBegan": 2026,
+   "yearEnd": null,
+   "url": "https://metron.cloud/series/power-rangers-unlimited-2026/"
+  },
+  "predator-vs-the-planet-of-the-apes-2026": {
+   "status": "ok",
+   "checked": "2026-10-16",
+   "id": 16315,
+   "name": "Predator vs. the Planet of the Apes",
+   "desc": "",
+   "genres": [
+    "Science Fiction"
+   ],
+   "publisher": "Marvel",
+   "seriesStatus": "Ongoing",
+   "yearBegan": 2026,
+   "yearEnd": null,
+   "url": "https://metron.cloud/series/predator-vs-the-planet-of-the-apes-2026/"
+  },
+  "punisher-vs-the-amazing-spider-man-2026": {
+   "status": "none",
+   "checked": "2026-10-16"
+  },
+  "queen-in-black-2026": {
+   "status": "ok",
+   "checked": "2026-10-16",
+   "id": 16316,
+   "name": "Queen in Black",
+   "desc": "",
+   "genres": [
+    "Super-Hero"
+   ],
+   "publisher": "Marvel",
+   "seriesStatus": "Ongoing",
+   "yearBegan": 2026,
+   "yearEnd": null,
+   "url": "https://metron.cloud/series/queen-in-black-2026/"
+  },
+  "queen-in-black-defenders-of-light-and-dark-2026": {
+   "status": "ok",
+   "checked": "2026-10-16",
+   "id": 16317,
+   "name": "Queen in Black: Defenders of Light and Dark",
+   "desc": "",
+   "genres": [
+    "Super-Hero"
+   ],
+   "publisher": "Marvel",
+   "seriesStatus": "Ongoing",
+   "yearBegan": 2026,
+   "yearEnd": null,
+   "url": "https://metron.cloud/series/queen-in-black-defenders-of-light-and-dark-2026/"
+  },
+  "queen-in-black-hela-2026": {
+   "status": "ok",
+   "checked": "2026-10-16",
+   "id": 16318,
+   "name": "Queen in Black: Hela",
+   "desc": "A one-shot.",
+   "genres": [
+    "Super-Hero"
+   ],
+   "publisher": "Marvel",
+   "seriesStatus": "Completed",
+   "yearBegan": 2026,
+   "yearEnd": null,
+   "url": "https://metron.cloud/series/queen-in-black-hela-2026/"
+  },
+  "queen-in-black-thor-2026": {
+   "status": "ok",
+   "checked": "2026-10-16",
+   "id": 16446,
+   "name": "Queen in Black: Thor",
+   "desc": "",
+   "genres": [
+    "Super-Hero"
+   ],
+   "publisher": "Marvel",
+   "seriesStatus": "Completed",
+   "yearBegan": 2026,
+   "yearEnd": null,
+   "url": "https://metron.cloud/series/queen-in-black-thor-2026/"
+  },
+  "queen-in-black-venom-unchained-2026": {
+   "status": "ok",
+   "checked": "2026-10-16",
+   "id": 16396,
+   "name": "Queen in Black: Venom Unchained",
+   "desc": "EDDIE BROCK: IMPRISONED! Eddie Brock is in prison after a failed bond with Carnage, and the Queen In Black is coming!!! Eddie wants to get back to Venom. But without a symbiote, how will he escape?!",
+   "genres": [
+    "Super-Hero"
+   ],
+   "publisher": "Marvel",
+   "seriesStatus": "Ongoing",
+   "yearBegan": 2026,
+   "yearEnd": null,
+   "url": "https://metron.cloud/series/queen-in-black-venom-unchained-2026/"
+  },
+  "radiant-black-2021": {
+   "status": "ok",
+   "checked": "2026-10-16",
+   "id": 2943,
+   "name": "Radiant Black",
+   "desc": "",
+   "genres": [
+    "Super-Hero"
+   ],
+   "publisher": "Image Comics",
+   "seriesStatus": "Ongoing",
+   "yearBegan": 2021,
+   "yearEnd": null,
+   "url": "https://metron.cloud/series/radiant-black-2021/"
+  },
+  "ran-revenge-of-the-warrior-2026": {
+   "status": "none",
+   "checked": "2026-10-16"
+  },
+  "realmguard-infinity-comic-2026": {
+   "status": "none",
+   "checked": "2026-10-16"
+  },
+  "red-hood-and-the-outlaws-2016": {
+   "status": "ok",
+   "checked": "2026-10-16",
+   "id": 1037,
+   "name": "Red Hood and the Outlaws",
+   "desc": "When a shocking encounter with Batman solidifies the Red Hood's status as a villain, Jason Todd goes deep undercover to take down Gotham City's criminal underworld from the inside. Along the way, Jason meets two unlikely allies: a disgraced Amazon warrior named Artemis and a half-baked Superman clone called Bizarro—and the DCU's \"Dark Trinity\" is born!",
+   "genres": [],
+   "publisher": "DC Comics",
+   "seriesStatus": "Cancelled",
+   "yearBegan": 2016,
+   "yearEnd": 2018,
+   "url": "https://metron.cloud/series/red-hood-and-outlaws-2016/"
+  },
+  "red-sonja-noir-the-plunder-the-princess-2026": {
+   "status": "ok",
+   "checked": "2026-10-16",
+   "id": 16137,
+   "name": "Red Sonja Noir: The Plunder & The Princess",
+   "desc": "A one-shot.",
+   "genres": [
+    "Fantasy"
+   ],
+   "publisher": "Dynamite Entertainment",
+   "seriesStatus": "Completed",
+   "yearBegan": 2026,
+   "yearEnd": null,
+   "url": "https://metron.cloud/series/red-sonja-noir-the-plunder-the-princess-2026/"
+  },
+  "redwing-independence-day-infinity-comic-2026": {
+   "status": "none",
+   "checked": "2026-10-16"
+  },
+  "regicide-2026": {
+   "status": "ok",
+   "checked": "2026-10-16",
+   "id": 16460,
+   "name": "Regicide",
+   "desc": "A 4 issue limited series.",
+   "genres": [
+    "Fantasy"
+   ],
+   "publisher": "Image Comics",
+   "seriesStatus": "Ongoing",
+   "yearBegan": 2026,
+   "yearEnd": null,
+   "url": "https://metron.cloud/series/regicide-2026/"
+  },
+  "robyn-hood-enter-the-sandman-2026": {
+   "status": "none",
+   "checked": "2026-10-16"
+  },
+  "rocket-raccoon-rocket-rewind-2026": {
+   "status": "ok",
+   "checked": "2026-10-16",
+   "id": 16319,
+   "name": "Rocket Raccoon: Rocket Rewind",
+   "desc": "",
+   "genres": [
+    "Super-Hero"
+   ],
+   "publisher": "Marvel",
+   "seriesStatus": "Completed",
+   "yearBegan": 2026,
+   "yearEnd": null,
+   "url": "https://metron.cloud/series/rocket-raccoon-rocket-rewind-2026/"
+  },
+  "rom-2026": {
+   "status": "none",
+   "checked": "2026-10-16"
+  },
+  "sabrina-the-teenage-witch-2026": {
+   "status": "ok",
+   "checked": "2026-10-16",
+   "id": 16914,
+   "name": "Sabrina the Teenage Witch",
+   "desc": "",
+   "genres": [],
+   "publisher": "Oni Press",
+   "seriesStatus": "Ongoing",
+   "yearBegan": 2026,
+   "yearEnd": null,
+   "url": "https://metron.cloud/series/sabrina-the-teenage-witch-2026/"
+  },
+  "saga-2012": {
+   "status": "ok",
+   "checked": "2026-10-16",
+   "id": 916,
+   "name": "Saga",
+   "desc": "Saga is an ongoing series and space opera from Brian K. Vaughan and Fiona Staples described as Romeo and Juliet meets Star Wars meets Game of Thrones.",
+   "genres": [
+    "Science Fiction"
+   ],
+   "publisher": "Image Comics",
+   "seriesStatus": "Ongoing",
+   "yearBegan": 2012,
+   "yearEnd": null,
+   "url": "https://metron.cloud/series/saga/"
+  },
+  "savage-dragon-1993": {
+   "status": "ok",
+   "checked": "2026-10-16",
+   "id": 5334,
+   "name": "Savage Dragon",
+   "desc": "",
+   "genres": [
+    "Super-Hero"
+   ],
+   "publisher": "Image Comics",
+   "seriesStatus": "Ongoing",
+   "yearBegan": 1993,
+   "yearEnd": null,
+   "url": "https://metron.cloud/series/savage-dragon-1993/"
+  },
+  "sci-fi-fantasy-illustrated-virtual-knight-2026": {
+   "status": "none",
+   "checked": "2026-10-16"
+  },
+  "scooby-apocalypse-2016": {
+   "status": "ok",
+   "checked": "2026-10-16",
+   "id": 2947,
+   "name": "Scooby Apocalypse",
+   "desc": "The comic was conceived by DC Comics co-publisher and artist, Jim Lee, as part of a major reboot using Hanna-Barbera characters, in order to create a new Hanna-Barbera comic book universe.",
+   "genres": [],
+   "publisher": "DC Comics",
+   "seriesStatus": "Cancelled",
+   "yearBegan": 2016,
+   "yearEnd": 2019,
+   "url": "https://metron.cloud/series/scooby-apocalypse-2016/"
+  },
+  "seven-to-eternity-2016": {
+   "status": "ok",
+   "checked": "2026-10-16",
+   "id": 368,
+   "name": "Seven To Eternity",
+   "desc": "",
+   "genres": [],
+   "publisher": "Image Comics",
+   "seriesStatus": "Cancelled",
+   "yearBegan": 2016,
+   "yearEnd": 2021,
+   "url": "https://metron.cloud/series/seven-eternity-2016/"
+  },
+  "shellshock-2026": {
+   "status": "ok",
+   "checked": "2026-10-16",
+   "id": 16467,
+   "name": "Shellshock",
+   "desc": "",
+   "genres": [
+    "War"
+   ],
+   "publisher": "Oni Press",
+   "seriesStatus": "Completed",
+   "yearBegan": 2026,
+   "yearEnd": null,
+   "url": "https://metron.cloud/series/shellshock-2026/"
+  },
+  "six-of-us-2026": {
+   "status": "ok",
+   "checked": "2026-10-16",
+   "id": 16613,
+   "name": "Six of Us",
+   "desc": "A 6 issue limited series.",
+   "genres": [],
+   "publisher": "Dark Horse Comics",
+   "seriesStatus": "Ongoing",
+   "yearBegan": 2026,
+   "yearEnd": null,
+   "url": "https://metron.cloud/series/six-of-us-2026/"
+  },
+  "smile-any-given-smile-2026": {
+   "status": "none",
+   "checked": "2026-10-16"
+  },
+  "something-is-killing-the-children-2019": {
+   "status": "ok",
+   "checked": "2026-10-16",
+   "id": 614,
+   "name": "Something Is Killing the Children",
+   "desc": "A 2019 ongoing comic book series created by writer James Tynion IV and artist Werther Dell'Edera and published monthly by Boom! Studios. The series follows Erica Slaughter as she hunts monsters that are killing children.",
+   "genres": [
+    "Horror"
+   ],
+   "publisher": "Boom! Studios",
+   "seriesStatus": "Ongoing",
+   "yearBegan": 2019,
+   "yearEnd": null,
+   "url": "https://metron.cloud/series/something-killing-children-2019/"
+  },
+  "sonic-the-hedgehog-2018": {
+   "status": "ok",
+   "checked": "2026-10-16",
+   "id": 7699,
+   "name": "Sonic the Hedgehog",
+   "desc": "",
+   "genres": [
+    "Humor"
+   ],
+   "publisher": "IDW Publishing",
+   "seriesStatus": "Ongoing",
+   "yearBegan": 2018,
+   "yearEnd": null,
+   "url": "https://metron.cloud/series/sonic-the-hedgehog-2018/"
+  },
+  "sonic-the-hedgehog-35th-anniversary-special-2026": {
+   "status": "ok",
+   "checked": "2026-10-16",
+   "id": 16258,
+   "name": "Sonic the Hedgehog: 35th Anniversary Special",
+   "desc": "A one-shot.",
+   "genres": [],
+   "publisher": "IDW Publishing",
+   "seriesStatus": "Completed",
+   "yearBegan": 2026,
+   "yearEnd": null,
+   "url": "https://metron.cloud/series/sonic-the-hedgehog-35th-anniversary-special-2026/"
+  },
+  "sonic-the-hedgehog-amys-anniversary-special-2026": {
+   "status": "none",
+   "checked": "2026-10-16"
+  },
+  "sonic-the-hedgehog-knuckles-anniversary-special-2026": {
+   "status": "none",
+   "checked": "2026-10-16"
+  },
+  "sonic-the-hedgehog-x-godzilla-2026": {
+   "status": "ok",
+   "checked": "2026-10-16",
+   "id": 16237,
+   "name": "Sonic the Hedgehog x Godzilla",
+   "desc": "",
+   "genres": [],
+   "publisher": "IDW Publishing",
+   "seriesStatus": "Ongoing",
+   "yearBegan": 2026,
+   "yearEnd": null,
+   "url": "https://metron.cloud/series/sonic-the-hedgehog-x-godzilla-2026/"
+  },
+  "space-ghost-vs-the-herculoids-2026": {
+   "status": "ok",
+   "checked": "2026-10-16",
+   "id": 16627,
+   "name": "Space Ghost vs. the Herculoids",
+   "desc": "",
+   "genres": [],
+   "publisher": "Dynamite Entertainment",
+   "seriesStatus": "Ongoing",
+   "yearBegan": 2026,
+   "yearEnd": null,
+   "url": "https://metron.cloud/series/space-ghost-vs-the-herculoids-2026/"
+  },
+  "spawn-1992": {
+   "status": "ok",
+   "checked": "2026-10-16",
+   "id": 4210,
+   "name": "Spawn",
+   "desc": "Long running series starring Spawn.",
+   "genres": [
+    "Super-Hero"
+   ],
+   "publisher": "Image Comics",
+   "seriesStatus": "Ongoing",
+   "yearBegan": 1992,
+   "yearEnd": null,
+   "url": "https://metron.cloud/series/spawn-1992/"
+  },
+  "spawn-77-2026": {
+   "status": "ok",
+   "checked": "2026-10-16",
+   "id": 16611,
+   "name": "Spawn '77",
+   "desc": "A 3 issue limited series.",
+   "genres": [
+    "Super-Hero"
+   ],
+   "publisher": "Image Comics",
+   "seriesStatus": "Ongoing",
+   "yearBegan": 2026,
+   "yearEnd": null,
+   "url": "https://metron.cloud/series/spawn-77-2026/"
+  },
+  "spectacular-spiderman-brand-new-day-2026": {
+   "status": "ok",
+   "checked": "2026-10-16",
+   "id": 15692,
+   "name": "Spectacular Spider-Man: Brand New Day",
+   "desc": "A 5 issue limited series that led into a new \"Spectacular Spider-Man\" series. It continued the numbering from the limited series.",
+   "genres": [
+    "Super-Hero"
+   ],
+   "publisher": "Marvel",
+   "seriesStatus": "Completed",
+   "yearBegan": 2026,
+   "yearEnd": 2026,
+   "url": "https://metron.cloud/series/spectacular-spider-man-brand-new-day-2026/"
+  },
+  "speed-racer-tales-from-the-road-frankensteins-dragster-2026": {
+   "status": "ok",
+   "checked": "2026-10-16",
+   "id": 16931,
+   "name": "Speed Racer: Tales from the Road – Frankenstein's Dragster",
+   "desc": "A one-shot.",
+   "genres": [],
+   "publisher": "Mad Cave Studios",
+   "seriesStatus": "Completed",
+   "yearBegan": 2026,
+   "yearEnd": null,
+   "url": "https://metron.cloud/series/speed-racer-tales-from-the-road-frankensteins-dragster-2026/"
+  },
+  "speed-racer-tales-from-the-road-the-rook-2026": {
+   "status": "ok",
+   "checked": "2026-10-16",
+   "id": 16330,
+   "name": "Speed Racer: Tales from the Road – The Rook",
+   "desc": "A one-shot.",
+   "genres": [],
+   "publisher": "Mad Cave Studios",
+   "seriesStatus": "Completed",
+   "yearBegan": 2026,
+   "yearEnd": null,
+   "url": "https://metron.cloud/series/speed-racer-tales-from-the-road-the-rook-2026/"
+  },
+  "spider-man-hulk-fire-and-brimstone-2026": {
+   "status": "ok",
+   "checked": "2026-10-16",
+   "id": 16550,
+   "name": "Spider-Man / Hulk: Fire and Brimstone",
+   "desc": "",
+   "genres": [
+    "Super-Hero"
+   ],
+   "publisher": "Marvel",
+   "seriesStatus": "Ongoing",
+   "yearBegan": 2026,
+   "yearEnd": null,
+   "url": "https://metron.cloud/series/spider-man-hulk-fire-and-brimstone-2026/"
+  },
+  "spider-man-long-way-home-2026": {
+   "status": "ok",
+   "checked": "2026-10-16",
+   "id": 16053,
+   "name": "Spider-Man: Long Way Home",
+   "desc": "",
+   "genres": [
+    "Super-Hero"
+   ],
+   "publisher": "Marvel",
+   "seriesStatus": "Ongoing",
+   "yearBegan": 2026,
+   "yearEnd": null,
+   "url": "https://metron.cloud/series/spider-man-long-way-home-2026/"
+  },
+  "spider-man-today-infinity-comic-2026": {
+   "status": "none",
+   "checked": "2026-10-16"
+  },
+  "spider-woman-50th-anniversary-special-2026": {
+   "status": "ok",
+   "checked": "2026-10-16",
+   "id": 16638,
+   "name": "Spider-Woman 50th Anniversary Special",
+   "desc": "A one-shot.",
+   "genres": [
+    "Super-Hero"
+   ],
+   "publisher": "Marvel",
+   "seriesStatus": "Completed",
+   "yearBegan": 2026,
+   "yearEnd": null,
+   "url": "https://metron.cloud/series/spider-woman-50th-anniversary-special-2026/"
+  },
+  "spiderman-2016": {
+   "status": "ok",
+   "checked": "2026-10-16",
+   "id": 2410,
+   "name": "Spider-Man",
+   "desc": "An All-New, All-Different Marvel series.",
+   "genres": [],
+   "publisher": "Marvel",
+   "seriesStatus": "Cancelled",
+   "yearBegan": 2016,
+   "yearEnd": 2018,
+   "url": "https://metron.cloud/series/spider-man-2016/"
+  },
+  "spread-2014": {
+   "status": "ok",
+   "checked": "2026-10-16",
+   "id": 7434,
+   "name": "Spread",
+   "desc": "",
+   "genres": [
+    "Horror"
+   ],
+   "publisher": "Image Comics",
+   "seriesStatus": "Cancelled",
+   "yearBegan": 2014,
+   "yearEnd": 2018,
+   "url": "https://metron.cloud/series/spread-2014/"
+  },
+  "star-crossed-2026": {
+   "status": "ok",
+   "checked": "2026-10-16",
+   "id": 16187,
+   "name": "Star-Crossed",
+   "desc": "",
+   "genres": [],
+   "publisher": "Dark Horse Comics",
+   "seriesStatus": "Ongoing",
+   "yearBegan": 2026,
+   "yearEnd": null,
+   "url": "https://metron.cloud/series/star-crossed-2026/"
+  },
+  "star-trek-2026": {
+   "status": "ok",
+   "checked": "2026-10-16",
+   "id": 16663,
+   "name": "Star Trek",
+   "desc": "",
+   "genres": [
+    "Science Fiction"
+   ],
+   "publisher": "IDW Publishing",
+   "seriesStatus": "Ongoing",
+   "yearBegan": 2026,
+   "yearEnd": null,
+   "url": "https://metron.cloud/series/star-trek-2026/"
+  },
+  "star-trek-60th-anniversary-special-2026": {
+   "status": "ok",
+   "checked": "2026-10-16",
+   "id": 16604,
+   "name": "Star Trek: 60th Anniversary Special",
+   "desc": "A one-shot.",
+   "genres": [
+    "Science Fiction"
+   ],
+   "publisher": "IDW Publishing",
+   "seriesStatus": "Completed",
+   "yearBegan": 2026,
+   "yearEnd": null,
+   "url": "https://metron.cloud/series/star-trek-60th-anniversary-special-2026/"
+  },
+  "star-trek-deviations-evermore-2026": {
+   "status": "ok",
+   "checked": "2026-10-16",
+   "id": 16615,
+   "name": "Star Trek: Deviations – Evermore",
+   "desc": "A one-shot.",
+   "genres": [
+    "Science Fiction"
+   ],
+   "publisher": "IDW Publishing",
+   "seriesStatus": "Completed",
+   "yearBegan": 2026,
+   "yearEnd": null,
+   "url": "https://metron.cloud/series/star-trek-deviations-evermore-2026/"
+  },
+  "star-trek-holo-ween-ii-2026": {
+   "status": "ok",
+   "checked": "2026-10-16",
+   "id": 16905,
+   "name": "Star Trek: Holo-ween II",
+   "desc": "",
+   "genres": [
+    "Science Fiction"
+   ],
+   "publisher": "IDW Publishing",
+   "seriesStatus": "Ongoing",
+   "yearBegan": 2026,
+   "yearEnd": null,
+   "url": "https://metron.cloud/series/star-trek-holo-ween-ii-2026/"
+  },
+  "star-trek-red-shirts-ghost-of-the-21st-century-2026": {
+   "status": "ok",
+   "checked": "2026-10-16",
+   "id": 16325,
+   "name": "Star Trek: Red Shirts –- Ghost of the 21st Century",
+   "desc": "",
+   "genres": [
+    "Science Fiction"
+   ],
+   "publisher": "IDW Publishing",
+   "seriesStatus": "Ongoing",
+   "yearBegan": 2026,
+   "yearEnd": null,
+   "url": "https://metron.cloud/series/star-trek-red-shirts-ghost-of-the-21st-century-2026/"
+  },
+  "star-trek-zero-point-2026": {
+   "status": "ok",
+   "checked": "2026-10-16",
+   "id": 16928,
+   "name": "Star Trek: Zero Point",
+   "desc": "",
+   "genres": [
+    "Science Fiction"
+   ],
+   "publisher": "IDW Publishing",
+   "seriesStatus": "Ongoing",
+   "yearBegan": 2026,
+   "yearEnd": null,
+   "url": "https://metron.cloud/series/star-trek-zero-point-2026/"
+  },
+  "star-wars-2015": {
+   "status": "ok",
+   "checked": "2026-10-16",
+   "id": 2220,
+   "name": "Star Wars",
+   "desc": "A long time ago, in a galaxy far, far away... Star Wars returns to Marvel Comics!",
+   "genres": [],
+   "publisher": "Marvel",
+   "seriesStatus": "Cancelled",
+   "yearBegan": 2015,
+   "yearEnd": 2020,
+   "url": "https://metron.cloud/series/star-wars-2015/"
+  },
+  "star-wars-darth-maul-2017": {
+   "status": "ok",
+   "checked": "2026-10-16",
+   "id": 5804,
+   "name": "Star Wars: Darth Maul",
+   "desc": "",
+   "genres": [
+    "Science Fiction"
+   ],
+   "publisher": "Marvel",
+   "seriesStatus": "Completed",
+   "yearBegan": 2017,
+   "yearEnd": 2017,
+   "url": "https://metron.cloud/series/star-wars-darth-maul-2017/"
+  },
+  "star-wars-darth-vader-2020": {
+   "status": "ok",
+   "checked": "2026-10-16",
+   "id": 3147,
+   "name": "Star Wars: Darth Vader",
+   "desc": "Series starring Darth Vader.",
+   "genres": [
+    "Science Fiction"
+   ],
+   "publisher": "Marvel",
+   "seriesStatus": "Cancelled",
+   "yearBegan": 2020,
+   "yearEnd": null,
+   "url": "https://metron.cloud/series/star-wars-darth-vader-2020/"
+  },
+  "star-wars-rogue-one-chirrut-baze-2026": {
+   "status": "ok",
+   "checked": "2026-10-16",
+   "id": 16922,
+   "name": "Star Wars: Rogue One – Chirrut & Baze",
+   "desc": "A one-shot.",
+   "genres": [
+    "Science Fiction"
+   ],
+   "publisher": "Marvel",
+   "seriesStatus": "Completed",
+   "yearBegan": 2026,
+   "yearEnd": null,
+   "url": "https://metron.cloud/series/star-wars-rogue-one-chirrut-baze-2026/"
+  },
+  "star-wars-rogue-one-saw-gerrera-2026": {
+   "status": "ok",
+   "checked": "2026-10-16",
+   "id": 16081,
+   "name": "Star Wars: Rogue One – Saw Gerrera",
+   "desc": "A one-shot.",
+   "genres": [
+    "Science Fiction"
+   ],
+   "publisher": "Marvel",
+   "seriesStatus": "Completed",
+   "yearBegan": 2026,
+   "yearEnd": null,
+   "url": "https://metron.cloud/series/star-wars-rogue-one-saw-gerrera-2026/"
+  },
+  "star-wars-the-book-of-boba-fett-2026": {
+   "status": "ok",
+   "checked": "2026-10-16",
+   "id": 16643,
+   "name": "Star Wars: The Book of Boba Fett",
+   "desc": "",
+   "genres": [
+    "Science Fiction"
+   ],
+   "publisher": "Marvel",
+   "seriesStatus": "Ongoing",
+   "yearBegan": 2026,
+   "yearEnd": null,
+   "url": "https://metron.cloud/series/star-wars-the-book-of-boba-fett-2026/"
+  },
+  "star-wars-the-fall-of-kylo-ren-2026": {
+   "status": "ok",
+   "checked": "2026-10-16",
+   "id": 16447,
+   "name": "Star Wars: The Fall of Kylo Ren",
+   "desc": "",
+   "genres": [
+    "Science Fiction"
+   ],
+   "publisher": "Marvel",
+   "seriesStatus": "Ongoing",
+   "yearBegan": 2026,
+   "yearEnd": null,
+   "url": "https://metron.cloud/series/star-wars-the-fall-of-kylo-ren-2026/"
+  },
+  "star-wars-the-mandalorian-grogu-danger-in-the-dark-2026": {
+   "status": "ok",
+   "checked": "2026-10-16",
+   "id": 16247,
+   "name": "Star Wars: The Mandalorian & Grogu – Danger in the Dark",
+   "desc": "A one-shot.",
+   "genres": [
+    "Science Fiction"
+   ],
+   "publisher": "Mad Cave Studios",
+   "seriesStatus": "Completed",
+   "yearBegan": 2026,
+   "yearEnd": null,
+   "url": "https://metron.cloud/series/star-wars-the-mandalorian-grogu-danger-in-the-dark-2026/"
+  },
+  "starhenge-book-two-a-kiss-for-atticus-2026": {
+   "status": "ok",
+   "checked": "2026-10-16",
+   "id": 16139,
+   "name": "Starhenge, Book Two: A Kiss for Atticus",
+   "desc": "A 4 issue limited series.",
+   "genres": [],
+   "publisher": "Image Comics",
+   "seriesStatus": "Ongoing",
+   "yearBegan": 2026,
+   "yearEnd": null,
+   "url": "https://metron.cloud/series/starhenge-book-two-a-kiss-for-atticus-2026/"
+  },
+  "starship-godzilla-invasion-2026": {
+   "status": "none",
+   "checked": "2026-10-16"
+  },
+  "street-fighter-vs-the-valiant-universe-special-special-2026": {
+   "status": "none",
+   "checked": "2026-10-16"
+  },
+  "stuff-of-nightmares-the-cat-in-the-coffin-2026": {
+   "status": "ok",
+   "checked": "2026-10-16",
+   "id": 16599,
+   "name": "Stuff of Nightmares: The Cat in the Coffin",
+   "desc": "A one-shot.",
+   "genres": [
+    "Horror"
+   ],
+   "publisher": "Boom! Studios",
+   "seriesStatus": "Completed",
+   "yearBegan": 2026,
+   "yearEnd": null,
+   "url": "https://metron.cloud/series/stuff-of-nightmares-the-cat-in-the-coffin-2026/"
+  },
+  "summer-of-supergirl-special-2026": {
+   "status": "ok",
+   "checked": "2026-10-16",
+   "id": 15985,
+   "name": "Summer of Supergirl Special",
+   "desc": "A one-shot.",
+   "genres": [
+    "Super-Hero"
+   ],
+   "publisher": "DC Comics",
+   "seriesStatus": "Completed",
+   "yearBegan": 2026,
+   "yearEnd": null,
+   "url": "https://metron.cloud/series/summer-of-supergirl-special-2026/"
+  },
+  "sunder-2026": {
+   "status": "ok",
+   "checked": "2026-10-16",
+   "id": 16701,
+   "name": "Sunder",
+   "desc": "",
+   "genres": [
+    "Action",
+    "Adventure",
+    "Fantasy",
+    "Science Fiction"
+   ],
+   "publisher": "Mad Cave Studios",
+   "seriesStatus": "Completed",
+   "yearBegan": 2026,
+   "yearEnd": null,
+   "url": "https://metron.cloud/series/sunder-2026/"
+  },
+  "super-mondo-mega-mutts": {
+   "status": "ok",
+   "checked": "2026-10-16",
+   "id": 16238,
+   "name": "Super Mondo Mega Mutts",
+   "desc": "",
+   "genres": [],
+   "publisher": "Oni Press",
+   "seriesStatus": "Ongoing",
+   "yearBegan": 2026,
+   "yearEnd": null,
+   "url": "https://metron.cloud/series/super-mondo-mega-mutts-2026/"
+  },
+  "super-sons-2017": {
+   "status": "ok",
+   "checked": "2026-10-16",
+   "id": 930,
+   "name": "Super Sons",
+   "desc": "",
+   "genres": [],
+   "publisher": "DC Comics",
+   "seriesStatus": "Cancelled",
+   "yearBegan": 2017,
+   "yearEnd": 2018,
+   "url": "https://metron.cloud/series/super-sons-2017/"
+  },
+  "supergirl-2025": {
+   "status": "ok",
+   "checked": "2026-10-16",
+   "id": 11642,
+   "name": "Supergirl",
+   "desc": "",
+   "genres": [
+    "Super-Hero"
+   ],
+   "publisher": "DC Comics",
+   "seriesStatus": "Ongoing",
+   "yearBegan": 2025,
+   "yearEnd": null,
+   "url": "https://metron.cloud/series/supergirl-2025/"
+  },
+  "superman-2023": {
+   "status": "ok",
+   "checked": "2026-10-16",
+   "id": 4158,
+   "name": "Superman",
+   "desc": "",
+   "genres": [
+    "Super-Hero"
+   ],
+   "publisher": "DC Comics",
+   "seriesStatus": "Ongoing",
+   "yearBegan": 2023,
+   "yearEnd": null,
+   "url": "https://metron.cloud/series/superman-2023/"
+  },
+  "superman-father-of-tomorrow-2026": {
+   "status": "ok",
+   "checked": "2026-10-16",
+   "id": 15702,
+   "name": "Superman: Father of Tomorrow",
+   "desc": "",
+   "genres": [
+    "Super-Hero"
+   ],
+   "publisher": "DC Comics",
+   "seriesStatus": "Ongoing",
+   "yearBegan": 2026,
+   "yearEnd": null,
+   "url": "https://metron.cloud/series/superman-father-of-tomorrow-2026/"
+  },
+  "superman-kingdom-of-zod-special-2026": {
+   "status": "ok",
+   "checked": "2026-10-16",
+   "id": 16697,
+   "name": "Superman: Kingdom of Zod Special",
+   "desc": "A one-shot.",
+   "genres": [
+    "Super-Hero"
+   ],
+   "publisher": "DC Comics",
+   "seriesStatus": "Completed",
+   "yearBegan": 2026,
+   "yearEnd": null,
+   "url": "https://metron.cloud/series/superman-kingdom-of-zod-special-2026/"
+  },
+  "superman-the-stranger-2026": {
+   "status": "ok",
+   "checked": "2026-10-16",
+   "id": 16593,
+   "name": "Superman: The Stranger",
+   "desc": "",
+   "genres": [
+    "Super-Hero"
+   ],
+   "publisher": "DC Comics",
+   "seriesStatus": "Ongoing",
+   "yearBegan": 2026,
+   "yearEnd": null,
+   "url": "https://metron.cloud/series/superman-the-stranger-2026/"
+  },
+  "supermans-good-guy-gang-follow-the-leader-2026": {
+   "status": "none",
+   "checked": "2026-10-16"
+  },
+  "supernatural-dean-winchester-2026": {
+   "status": "ok",
+   "checked": "2026-10-16",
+   "id": 16950,
+   "name": "Supernatural: Dean Winchester",
+   "desc": "",
+   "genres": [],
+   "publisher": "Dynamite Entertainment",
+   "seriesStatus": "Ongoing",
+   "yearBegan": 2026,
+   "yearEnd": null,
+   "url": "https://metron.cloud/series/supernatural-dean-winchester-2026/"
+  },
+  "supernatural-sam-winchester-2026": {
+   "status": "ok",
+   "checked": "2026-10-16",
+   "id": 16951,
+   "name": "Supernatural: Sam Winchester",
+   "desc": "",
+   "genres": [],
+   "publisher": "Dynamite Entertainment",
+   "seriesStatus": "Ongoing",
+   "yearBegan": 2026,
+   "yearEnd": null,
+   "url": "https://metron.cloud/series/supernatural-sam-winchester-2026/"
+  },
+  "supernatural-special-wayward-2026": {
+   "status": "none",
+   "checked": "2026-10-16"
+  },
+  "tales-of-the-teenage-mutant-ninja-turtles-coastal-chaos-2026": {
+   "status": "ok",
+   "checked": "2026-10-16",
+   "id": 16616,
+   "name": "Tales of the Teenage Mutant Ninja Turtles: Coastal Chaos",
+   "desc": "",
+   "genres": [],
+   "publisher": "IDW Publishing",
+   "seriesStatus": "Ongoing",
+   "yearBegan": 2026,
+   "yearEnd": null,
+   "url": "https://metron.cloud/series/tales-of-the-teenage-mutant-ninja-turtles-coastal-chaos-2026/"
+  },
+  "tales-of-wonder-2026": {
+   "status": "ok",
+   "checked": "2026-10-16",
+   "id": 16602,
+   "name": "Tales of Wonder",
+   "desc": "A 5 issue limited series.",
+   "genres": [
+    "Fantasy",
+    "Super-Hero"
+   ],
+   "publisher": "Image Comics",
+   "seriesStatus": "Ongoing",
+   "yearBegan": 2026,
+   "yearEnd": null,
+   "url": "https://metron.cloud/series/tales-of-wonder-2026/"
+  },
+  "talespin-2026": {
+   "status": "ok",
+   "checked": "2026-10-16",
+   "id": 16468,
+   "name": "TaleSpin",
+   "desc": "",
+   "genres": [],
+   "publisher": "Dynamite Entertainment",
+   "seriesStatus": "Ongoing",
+   "yearBegan": 2026,
+   "yearEnd": null,
+   "url": "https://metron.cloud/series/talespin-2026/"
+  },
+  "teen-titans-2026": {
+   "status": "ok",
+   "checked": "2026-10-16",
+   "id": 16594,
+   "name": "Teen Titans",
+   "desc": "",
+   "genres": [
+    "Super-Hero"
+   ],
+   "publisher": "DC Comics",
+   "seriesStatus": "Ongoing",
+   "yearBegan": 2026,
+   "yearEnd": null,
+   "url": "https://metron.cloud/series/teen-titans-2026/"
+  },
+  "teen-titans-together-2026": {
+   "status": "none",
+   "checked": "2026-10-16"
+  },
+  "teenage-mutant-ninja-turtles-2011": {
+   "status": "ok",
+   "checked": "2026-10-16",
+   "id": 5785,
+   "name": "Teenage Mutant Ninja Turtles",
+   "desc": "Teenage Mutant Ninja Turtles is a comic book series by IDW Publishing.",
+   "genres": [
+    "Espionage",
+    "Fantasy",
+    "Science Fiction",
+    "Super-Hero"
+   ],
+   "publisher": "IDW Publishing",
+   "seriesStatus": "Cancelled",
+   "yearBegan": 2011,
+   "yearEnd": 2024,
+   "url": "https://metron.cloud/series/teenage-mutant-ninja-turtles-2011/"
+  },
+  "teenage-mutant-ninja-turtles-2024": {
+   "status": "ok",
+   "checked": "2026-10-16",
+   "id": 7881,
+   "name": "Teenage Mutant Ninja Turtles",
+   "desc": "",
+   "genres": [
+    "Super-Hero"
+   ],
+   "publisher": "IDW Publishing",
+   "seriesStatus": "Ongoing",
+   "yearBegan": 2024,
+   "yearEnd": null,
+   "url": "https://metron.cloud/series/teenage-mutant-ninja-turtles-2024/"
+  },
+  "teenage-mutant-ninja-turtles-journeys-2025": {
+   "status": "ok",
+   "checked": "2026-10-16",
+   "id": 12763,
+   "name": "Teenage Mutant Ninja Turtles: Journeys",
+   "desc": "Note: Indicia lists title as \"Teenage Mutant Ninja Turtles: Journeys\", changed in idicia of Issue #2 to \"TMNT: Journeys\"",
+   "genres": [],
+   "publisher": "IDW Publishing",
+   "seriesStatus": "Ongoing",
+   "yearBegan": 2025,
+   "yearEnd": null,
+   "url": "https://metron.cloud/series/tmnt-journeys-2025/"
+  },
+  "teenage-mutant-ninja-turtles-mirage-facsimile-2026": {
+   "status": "none",
+   "checked": "2026-10-16"
+  },
+  "teenage-mutant-ninja-turtles-secret-of-the-ooze-35th-anniversary": {
+   "status": "none",
+   "checked": "2026-10-16"
+  },
+  "teenage-mutant-ninja-turtles-the-hunger-2026": {
+   "status": "ok",
+   "checked": "2026-10-16",
+   "id": 16700,
+   "name": "Teenage Mutant Ninja Turtles: The Hunger",
+   "desc": "A one-shot.",
+   "genres": [],
+   "publisher": "IDW Publishing",
+   "seriesStatus": "Completed",
+   "yearBegan": 2026,
+   "yearEnd": null,
+   "url": "https://metron.cloud/series/teenage-mutant-ninja-turtles-the-hunger-2026/"
+  },
+  "teenage-mutant-ninja-turtles-the-last-ronin-training-day-2026": {
+   "status": "ok",
+   "checked": "2026-10-16",
+   "id": 16239,
+   "name": "Teenage Mutant Ninja Turtles: The Last Ronin – Training Day",
+   "desc": "",
+   "genres": [],
+   "publisher": "IDW Publishing",
+   "seriesStatus": "Completed",
+   "yearBegan": 2026,
+   "yearEnd": null,
+   "url": "https://metron.cloud/series/teenage-mutant-ninja-turtles-the-last-ronin-training-day-2026/"
+  },
+  "terminal-2026": {
+   "status": "ok",
+   "checked": "2026-10-16",
+   "id": 16248,
+   "name": "Terminal",
+   "desc": "",
+   "genres": [],
+   "publisher": "Skybound",
+   "seriesStatus": "Ongoing",
+   "yearBegan": 2026,
+   "yearEnd": null,
+   "url": "https://metron.cloud/series/terminal-2026/"
+  },
+  "that-texas-blood-hell-comes-to-allison-ranch-2026": {
+   "status": "ok",
+   "checked": "2026-10-16",
+   "id": 16231,
+   "name": "That Texas Blood: Hell Comes to Allison Ranch",
+   "desc": "",
+   "genres": [
+    "Crime"
+   ],
+   "publisher": "Image Comics",
+   "seriesStatus": "Ongoing",
+   "yearBegan": 2026,
+   "yearEnd": null,
+   "url": "https://metron.cloud/series/that-texas-blood-hell-comes-to-allison-ranch-2026/"
+  },
+  "the-amazing-spider-man-amazing-visions-2026": {
+   "status": "none",
+   "checked": "2026-10-16"
+  },
+  "the-amazing-spiderman-2022": {
+   "status": "ok",
+   "checked": "2026-10-16",
+   "id": 3249,
+   "name": "The Amazing Spider-Man",
+   "desc": "",
+   "genres": [
+    "Super-Hero"
+   ],
+   "publisher": "Marvel",
+   "seriesStatus": "Cancelled",
+   "yearBegan": 2022,
+   "yearEnd": 2025,
+   "url": "https://metron.cloud/series/the-amazing-spider-man-2022/"
+  },
+  "the-amazing-spiderman-2025": {
+   "status": "ok",
+   "checked": "2026-10-16",
+   "id": 10958,
+   "name": "The Amazing Spider-Man",
+   "desc": "",
+   "genres": [
+    "Super-Hero"
+   ],
+   "publisher": "Marvel",
+   "seriesStatus": "Ongoing",
+   "yearBegan": 2025,
+   "yearEnd": null,
+   "url": "https://metron.cloud/series/the-amazing-spider-man-2025/"
+  },
+  "the-amazing-spiderman-spiderversity-2026": {
+   "status": "none",
+   "checked": "2026-10-16"
+  },
+  "the-amazing-venom-2026": {
+   "status": "ok",
+   "checked": "2026-10-16",
+   "id": 16692,
+   "name": "The Amazing Venom",
+   "desc": "",
+   "genres": [
+    "Super-Hero"
+   ],
+   "publisher": "Marvel",
+   "seriesStatus": "Ongoing",
+   "yearBegan": 2026,
+   "yearEnd": null,
+   "url": "https://metron.cloud/series/the-amazing-venom-2026/"
+  },
+  "the-author-immortal-2025": {
+   "status": "ok",
+   "checked": "2026-10-16",
+   "id": 13221,
+   "name": "The Author Immortal",
+   "desc": "",
+   "genres": [],
+   "publisher": "Image Comics",
+   "seriesStatus": "Ongoing",
+   "yearBegan": 2025,
+   "yearEnd": null,
+   "url": "https://metron.cloud/series/the-author-immortal-2025/"
+  },
+  "the-batman-who-laughs-2018": {
+   "status": "ok",
+   "checked": "2026-10-16",
+   "id": 57,
+   "name": "The Batman Who Laughs",
+   "desc": "A 7 issue mini-series.",
+   "genres": [
+    "Super-Hero"
+   ],
+   "publisher": "DC Comics",
+   "seriesStatus": "Completed",
+   "yearBegan": 2019,
+   "yearEnd": 2019,
+   "url": "https://metron.cloud/series/the-batman-who-laughs-2019/"
+  },
+  "the-beast-of-boriken-2026": {
+   "status": "none",
+   "checked": "2026-10-16"
+  },
+  "the-big-shakedown-2026": {
+   "status": "ok",
+   "checked": "2026-10-16",
+   "id": 16625,
+   "name": "The Big Shakedown",
+   "desc": "",
+   "genres": [
+    "Crime"
+   ],
+   "publisher": "Dark Horse Comics",
+   "seriesStatus": "Ongoing",
+   "yearBegan": 2026,
+   "yearEnd": null,
+   "url": "https://metron.cloud/series/the-big-shakedown-2026/"
+  },
+  "the-boys-20062012": {
+   "status": "ok",
+   "checked": "2026-10-16",
+   "id": 3607,
+   "name": "The Boys",
+   "desc": "The first six issues of The Boys were published by Wildstorm, starting in 2006. On January 24, 2007, the series was abruptly canceled with issue 6. Ennis later explained that this was because DC Comics (of which Wildstorm was an imprint before it was disbanded) were uneasy with the anti-superhero tone of the work.",
+   "genres": [
+    "Super-Hero"
+   ],
+   "publisher": "DC Comics",
+   "seriesStatus": "Cancelled",
+   "yearBegan": 2006,
+   "yearEnd": 2007,
+   "url": "https://metron.cloud/series/the-boys-2006/"
+  },
+  "the-cimmerian-xuthal-of-the-dusk-2026": {
+   "status": "none",
+   "checked": "2026-10-16"
+  },
+  "the-demon-2026": {
+   "status": "ok",
+   "checked": "2026-10-16",
+   "id": 16896,
+   "name": "The Demon",
+   "desc": "",
+   "genres": [
+    "Adventure",
+    "Horror",
+    "Super-Hero"
+   ],
+   "publisher": "DC Comics",
+   "seriesStatus": "Ongoing",
+   "yearBegan": 2026,
+   "yearEnd": null,
+   "url": "https://metron.cloud/series/the-demon-2026/"
+  },
+  "the-department-of-truth-2020": {
+   "status": "ok",
+   "checked": "2026-10-16",
+   "id": 1556,
+   "name": "The Department of Truth",
+   "desc": "",
+   "genres": [],
+   "publisher": "Image Comics",
+   "seriesStatus": "Ongoing",
+   "yearBegan": 2020,
+   "yearEnd": null,
+   "url": "https://metron.cloud/series/department-truth-2020/"
+  },
+  "the-dirt-beneath-the-devil-2026": {
+   "status": "ok",
+   "checked": "2026-10-16",
+   "id": 16327,
+   "name": "The Dirt Beneath the Devil",
+   "desc": "",
+   "genres": [
+    "Western"
+   ],
+   "publisher": "Mad Cave Studios",
+   "seriesStatus": "Ongoing",
+   "yearBegan": 2026,
+   "yearEnd": null,
+   "url": "https://metron.cloud/series/the-dirt-beneath-the-devil-2026/"
+  },
+  "the-doom-patrol-2026": {
+   "status": "ok",
+   "checked": "2026-10-16",
+   "id": 16592,
+   "name": "The Doom Patrol",
+   "desc": "",
+   "genres": [
+    "Super-Hero"
+   ],
+   "publisher": "DC Comics",
+   "seriesStatus": "Ongoing",
+   "yearBegan": 2026,
+   "yearEnd": null,
+   "url": "https://metron.cloud/series/the-doom-patrol-2026/"
+  },
+  "the-eye-collector-2026": {
+   "status": "ok",
+   "checked": "2026-10-16",
+   "id": 16104,
+   "name": "The Eye Collector",
+   "desc": "",
+   "genres": [],
+   "publisher": "Image Comics",
+   "seriesStatus": "Ongoing",
+   "yearBegan": 2026,
+   "yearEnd": null,
+   "url": "https://metron.cloud/series/the-eye-collector-2026/"
+  },
+  "the-fantastic-four-first-foes-dragon-man-2026": {
+   "status": "ok",
+   "checked": "2026-10-16",
+   "id": 16668,
+   "name": "The Fantastic Four: First Foes – Dragon Man",
+   "desc": "A one-shot.",
+   "genres": [
+    "Super-Hero"
+   ],
+   "publisher": "Marvel",
+   "seriesStatus": "Completed",
+   "yearBegan": 2026,
+   "yearEnd": null,
+   "url": "https://metron.cloud/series/the-fantastic-four-first-foes-dragon-man-2026/"
+  },
+  "the-fantastic-four-first-foes-shalla-bal-2026": {
+   "status": "none",
+   "checked": "2026-10-16"
+  },
+  "the-flash-2016": {
+   "status": "ok",
+   "checked": "2026-10-16",
+   "id": 143,
+   "name": "The Flash",
+   "desc": "",
+   "genres": [],
+   "publisher": "DC Comics",
+   "seriesStatus": "Cancelled",
+   "yearBegan": 2016,
+   "yearEnd": 2023,
+   "url": "https://metron.cloud/series/flash-2016/"
+  },
+  "the-forever-home-2026": {
+   "status": "ok",
+   "checked": "2026-10-16",
+   "id": 16620,
+   "name": "The Forever Home",
+   "desc": "",
+   "genres": [],
+   "publisher": "Oni Press",
+   "seriesStatus": "Ongoing",
+   "yearBegan": 2026,
+   "yearEnd": null,
+   "url": "https://metron.cloud/series/the-forever-home-2026/"
+  },
+  "the-foundry-2026": {
+   "status": "ok",
+   "checked": "2026-10-16",
+   "id": 16455,
+   "name": "The Foundry",
+   "desc": "",
+   "genres": [],
+   "publisher": "Dark Horse Comics",
+   "seriesStatus": "Ongoing",
+   "yearBegan": 2026,
+   "yearEnd": null,
+   "url": "https://metron.cloud/series/the-foundry-2026/"
+  },
+  "the-harrowers-facsimile-edition-2026": {
+   "status": "none",
+   "checked": "2026-10-16"
+  },
+  "the-hellblazer-2016": {
+   "status": "ok",
+   "checked": "2026-10-16",
+   "id": 3603,
+   "name": "The Hellblazer",
+   "desc": "A 24 issue series starring John Constantine.",
+   "genres": [
+    "Horror"
+   ],
+   "publisher": "DC Comics",
+   "seriesStatus": "Cancelled",
+   "yearBegan": 2016,
+   "yearEnd": 2018,
+   "url": "https://metron.cloud/series/hellbalzer-2016/"
+  },
+  "the-horror-of-godzilla-2026": {
+   "status": "none",
+   "checked": "2026-10-16"
+  },
+  "the-infernal-hulk-vs-fantastic-four-2026": {
+   "status": "none",
+   "checked": "2026-10-16"
+  },
+  "the-infernal-hulk-vs-wolverine-2026": {
+   "status": "none",
+   "checked": "2026-10-16"
+  },
+  "the-karman-blade-2026": {
+   "status": "ok",
+   "checked": "2026-10-16",
+   "id": 16612,
+   "name": "The Karman Blade",
+   "desc": "A 4 issue limited series.",
+   "genres": [],
+   "publisher": "Image Comics",
+   "seriesStatus": "Ongoing",
+   "yearBegan": 2026,
+   "yearEnd": null,
+   "url": "https://metron.cloud/series/the-karman-blade-2026/"
+  },
+  "the-last-driver-2026": {
+   "status": "ok",
+   "checked": "2026-10-16",
+   "id": 16464,
+   "name": "The Last Driver",
+   "desc": "A 5 issue limited series.",
+   "genres": [
+    "Science Fiction"
+   ],
+   "publisher": "Image Comics",
+   "seriesStatus": "Ongoing",
+   "yearBegan": 2026,
+   "yearEnd": null,
+   "url": "https://metron.cloud/series/the-last-driver-2026/"
+  },
+  "the-last-human-in-a-crowded-galaxy-2026": {
+   "status": "none",
+   "checked": "2026-10-16"
+  },
+  "the-last-starfighter-2026": {
+   "status": "ok",
+   "checked": "2026-10-16",
+   "id": 16135,
+   "name": "The Last Starfighter",
+   "desc": "A 3 issue limited series.",
+   "genres": [
+    "Science Fiction"
+   ],
+   "publisher": "Mad Cave Studios",
+   "seriesStatus": "Ongoing",
+   "yearBegan": 2026,
+   "yearEnd": null,
+   "url": "https://metron.cloud/series/the-last-starfighter-2026/"
+  },
+  "the-last-starfighter-movie-adaptation-2026": {
+   "status": "none",
+   "checked": "2026-10-16"
+  },
+  "the-mortal-thor-2025": {
+   "status": "none",
+   "checked": "2026-10-16"
+  },
+  "the-muppets-take-the-marvel-universe-2026": {
+   "status": "none",
+   "checked": "2026-10-16"
+  },
+  "the-nameless-kingdom-2026": {
+   "status": "none",
+   "checked": "2026-10-16"
+  },
+  "the-nice-house-on-the-lake-2021": {
+   "status": "ok",
+   "checked": "2026-10-16",
+   "id": 2233,
+   "name": "The Nice House On The Lake",
+   "desc": "A 12 issue maxi-series.",
+   "genres": [],
+   "publisher": "DC Comics",
+   "seriesStatus": "Completed",
+   "yearBegan": 2021,
+   "yearEnd": 2022,
+   "url": "https://metron.cloud/series/the-nice-house-on-the-lake-2021/"
+  },
+  "the-omega-book-2026": {
+   "status": "ok",
+   "checked": "2026-10-16",
+   "id": 16350,
+   "name": "The Omega Book",
+   "desc": "",
+   "genres": [],
+   "publisher": "Mad Cave Studios",
+   "seriesStatus": "Ongoing",
+   "yearBegan": 2026,
+   "yearEnd": null,
+   "url": "https://metron.cloud/series/the-omega-book-2026/"
+  },
+  "the-perfectly-monstrous-life-of-adam-frankenstein-2026": {
+   "status": "ok",
+   "checked": "2026-10-16",
+   "id": 16603,
+   "name": "The Perfectly Monstrous Life of Adam Frankenstein",
+   "desc": "A one-shot.",
+   "genres": [
+    "Fantasy"
+   ],
+   "publisher": "Dark Horse Comics",
+   "seriesStatus": "Completed",
+   "yearBegan": 2026,
+   "yearEnd": null,
+   "url": "https://metron.cloud/series/the-perfectly-monstrous-life-of-adam-frankenstein-2026/"
+  },
+  "the-phantom-vs-the-red-dragons-2026": {
+   "status": "ok",
+   "checked": "2026-10-16",
+   "id": 16004,
+   "name": "The Phantom vs. the Red Dragons",
+   "desc": "A one-shot.",
+   "genres": [],
+   "publisher": "Mad Cave Studios",
+   "seriesStatus": "Completed",
+   "yearBegan": 2026,
+   "yearEnd": null,
+   "url": "https://metron.cloud/series/the-phantom-vs-the-red-dragons-2026/"
+  },
+  "the-phantom-vs-the-singh-brotherhood-2026": {
+   "status": "ok",
+   "checked": "2026-10-16",
+   "id": 16466,
+   "name": "The Phantom vs. the Singh Brotherhood",
+   "desc": "A one-shot.",
+   "genres": [],
+   "publisher": "Mad Cave Studios",
+   "seriesStatus": "Completed",
+   "yearBegan": 2026,
+   "yearEnd": null,
+   "url": "https://metron.cloud/series/the-phantom-vs-the-singh-brotherhood-2026/"
+  },
+  "the-rising-2026": {
+   "status": "ok",
+   "checked": "2026-10-16",
+   "id": 16656,
+   "name": "The Rising",
+   "desc": "",
+   "genres": [],
+   "publisher": "AWA Studios",
+   "seriesStatus": "Completed",
+   "yearBegan": 2026,
+   "yearEnd": null,
+   "url": "https://metron.cloud/series/the-rising-2026/"
+  },
+  "the-rocketeer-infiltrator-2026": {
+   "status": "none",
+   "checked": "2026-10-16"
+  },
+  "the-shaolin-cowboy-staying-ailive-2026": {
+   "status": "none",
+   "checked": "2026-10-16"
+  },
+  "the-smart-division-2026": {
+   "status": "ok",
+   "checked": "2026-10-16",
+   "id": 16351,
+   "name": "The Smart Division",
+   "desc": "",
+   "genres": [
+    "Science Fiction"
+   ],
+   "publisher": "Dark Horse Comics",
+   "seriesStatus": "Ongoing",
+   "yearBegan": 2026,
+   "yearEnd": null,
+   "url": "https://metron.cloud/series/the-smart-division-2026/"
+  },
+  "the-toxic-avenger-vs-the-noxious-offender-2026": {
+   "status": "ok",
+   "checked": "2026-10-16",
+   "id": 16915,
+   "name": "The Toxic Avenger vs. the Noxious Offender",
+   "desc": "",
+   "genres": [],
+   "publisher": "Ahoy Comics",
+   "seriesStatus": "Ongoing",
+   "yearBegan": 2026,
+   "yearEnd": null,
+   "url": "https://metron.cloud/series/the-toxic-avenger-vs-the-noxious-offender-2026/"
+  },
+  "the-trillion-dollar-kid-2026": {
+   "status": "ok",
+   "checked": "2026-10-16",
+   "id": 15476,
+   "name": "The Trillion Dollar Kid",
+   "desc": "A 2 issue limited series.",
+   "genres": [],
+   "publisher": "Image Comics",
+   "seriesStatus": "Completed",
+   "yearBegan": 2026,
+   "yearEnd": 2026,
+   "url": "https://metron.cloud/series/the-trillion-dollar-kid-2026/"
+  },
+  "the-twilight-zone-stories-from-the-fifth-dimension-2026": {
+   "status": "none",
+   "checked": "2026-10-16"
+  },
+  "the-unbelievable-gwenpool-2016": {
+   "status": "ok",
+   "checked": "2026-10-16",
+   "id": 2614,
+   "name": "The Unbelievable Gwenpool",
+   "desc": "A 25 issue series starring Gwenpool.",
+   "genres": [],
+   "publisher": "Marvel",
+   "seriesStatus": "Cancelled",
+   "yearBegan": 2016,
+   "yearEnd": 2018,
+   "url": "https://metron.cloud/series/the-unbelievable-gwenpool-2016/"
+  },
+  "the-walking-dead-2003": {
+   "status": "ok",
+   "checked": "2026-10-16",
+   "id": 376,
+   "name": "The Walking Dead",
+   "desc": "An American post-apocalyptic comic book series created by writer Robert Kirkman and artist Tony Moore – who was the artist on the first six issues and cover artist for the first twenty-four – with art on the remainder of the series by Charlie Adlard. Beginning in 2003 and published by Image Comics, the series ran for 193 issues, with Kirkman unexpectedly ending the series in 2019.\n\nThe comic book series focuses on Rick Grimes, a Kentucky deputy who is shot in the line of duty and awakens from a coma in a zombie apocalypse that has resulted in a state-wide quarantine. After joining with some other survivors, he gradually takes on the role of leader of a community as it struggles to survive the zombie apocalypse. The Walking Dead received the 2007 and 2010 Eisner Award for Best Continuing Series at San Diego Comic-Con International.",
+   "genres": [
+    "Horror"
+   ],
+   "publisher": "Image Comics",
+   "seriesStatus": "Cancelled",
+   "yearBegan": 2003,
+   "yearEnd": 2019,
+   "url": "https://metron.cloud/series/walking-dead-2003/"
+  },
+  "the-walking-dead-deluxe-2020": {
+   "status": "ok",
+   "checked": "2026-10-16",
+   "id": 5869,
+   "name": "The Walking Dead Deluxe",
+   "desc": "Read it again! It's time to revisit the historic independent series that took the entertainment world by storm 17 years ago! Follow Rick Grimes's journey again, from the very beginning, but this time in STUNNING FULL COLOR by the masterful DAVE McCAIG. This deluxe version will feature a memorable array of variant covers commemorating major character introductions and the series’ most memorable twists and turns. Each issue will include a new installment of “The Cutting Room Floor,” featuring ROBERT KIRKMAN's original handwritten plots along with commentary on abandoned storylines and things that may have changed along the way. This deluxe, definitive presentation of the story in full color will NOT be collected any time soon, so these single issues will be the only way to experience this.",
+   "genres": [
+    "Adult",
+    "Horror"
+   ],
+   "publisher": "Skybound",
+   "seriesStatus": "Ongoing",
+   "yearBegan": 2020,
+   "yearEnd": null,
+   "url": "https://metron.cloud/series/the-walking-dead-deluxe-2020/"
+  },
+  "the-witcher-the-last-wish-2026": {
+   "status": "none",
+   "checked": "2026-10-16"
+  },
+  "thor-2026": {
+   "status": "ok",
+   "checked": "2026-10-16",
+   "id": 12881,
+   "name": "Thor",
+   "desc": "Note: Cover title is \"The Mortal Thor\", but the indicia title \"Thor\". Legacy number became the indicia number from #800. Sigh...",
+   "genres": [
+    "Super-Hero"
+   ],
+   "publisher": "Marvel",
+   "seriesStatus": "Ongoing",
+   "yearBegan": 2025,
+   "yearEnd": null,
+   "url": "https://metron.cloud/series/thor-2025/"
+  },
+  "three-worlds-three-moons-foundations-2026": {
+   "status": "ok",
+   "checked": "2026-10-16",
+   "id": 16240,
+   "name": "Three Worlds / Three Moons: Foundations",
+   "desc": "",
+   "genres": [
+    "Science Fiction"
+   ],
+   "publisher": "Dark Horse Comics",
+   "seriesStatus": "Completed",
+   "yearBegan": 2026,
+   "yearEnd": null,
+   "url": "https://metron.cloud/series/three-worlds-three-moons-foundations-2026/"
+  },
+  "three-worlds-three-moons-shift-2026": {
+   "status": "ok",
+   "checked": "2026-10-16",
+   "id": 16695,
+   "name": "Three Worlds / Three Moons: Shift",
+   "desc": "",
+   "genres": [
+    "Science Fiction"
+   ],
+   "publisher": "Dark Horse Comics",
+   "seriesStatus": "Completed",
+   "yearBegan": 2026,
+   "yearEnd": null,
+   "url": "https://metron.cloud/series/three-worlds-three-moons-shift-2026/"
+  },
+  "thundercats-cheetara-2026": {
+   "status": "ok",
+   "checked": "2026-10-16",
+   "id": 16618,
+   "name": "ThunderCats: Cheetara",
+   "desc": "",
+   "genres": [],
+   "publisher": "Dynamite Entertainment",
+   "seriesStatus": "Ongoing",
+   "yearBegan": 2026,
+   "yearEnd": null,
+   "url": "https://metron.cloud/series/thundercats-cheetara-2026/"
+  },
+  "tomb-of-apocalypse-2026": {
+   "status": "ok",
+   "checked": "2026-10-16",
+   "id": 16631,
+   "name": "Tomb of Apocalypse",
+   "desc": "",
+   "genres": [
+    "Super-Hero"
+   ],
+   "publisher": "Marvel",
+   "seriesStatus": "Ongoing",
+   "yearBegan": 2026,
+   "yearEnd": null,
+   "url": "https://metron.cloud/series/tomb-of-apocalypse-2026/"
+  },
+  "transformers-2023": {
+   "status": "ok",
+   "checked": "2026-10-16",
+   "id": 5801,
+   "name": "Transformers",
+   "desc": "",
+   "genres": [
+    "Science Fiction"
+   ],
+   "publisher": "Skybound",
+   "seriesStatus": "Ongoing",
+   "yearBegan": 2023,
+   "yearEnd": null,
+   "url": "https://metron.cloud/series/transformers-2023/"
+  },
+  "transformers-worst-bot-ever-bot-swap-2026": {
+   "status": "none",
+   "checked": "2026-10-16"
+  },
+  "ultimate-black-panther-2024": {
+   "status": "ok",
+   "checked": "2026-10-16",
+   "id": 6895,
+   "name": "Ultimate Black Panther",
+   "desc": "",
+   "genres": [
+    "Science Fiction"
+   ],
+   "publisher": "Marvel",
+   "seriesStatus": "Completed",
+   "yearBegan": 2024,
+   "yearEnd": 2024,
+   "url": "https://metron.cloud/series/ultimate-black-panther-2024/"
+  },
+  "ultimate-endgame-2025": {
+   "status": "ok",
+   "checked": "2026-10-16",
+   "id": 14179,
+   "name": "Ultimate Endgame",
+   "desc": "",
+   "genres": [
+    "Super-Hero"
+   ],
+   "publisher": "Marvel",
+   "seriesStatus": "Completed",
+   "yearBegan": 2026,
+   "yearEnd": null,
+   "url": "https://metron.cloud/series/ultimate-endgame-2026/"
+  },
+  "ultimate-impact-reborn-2026": {
+   "status": "ok",
+   "checked": "2026-10-16",
+   "id": 15722,
+   "name": "Ultimate Impact: Reborn",
+   "desc": "A 5 issue limited series.",
+   "genres": [
+    "Super-Hero"
+   ],
+   "publisher": "Marvel",
+   "seriesStatus": "Completed",
+   "yearBegan": 2026,
+   "yearEnd": null,
+   "url": "https://metron.cloud/series/ultimate-impact-reborn-2026/"
+  },
+  "ultimate-spiderman-2024": {
+   "status": "ok",
+   "checked": "2026-10-16",
+   "id": 6600,
+   "name": "Ultimate Spider-Man",
+   "desc": "THE NEW ULTIMATE SPIDER-MAN FOR A NEW ULTIMATE UNIVERSE! Visionary writer Jonathan Hickman (HOUSE OF X/POWERS OF X) and acclaimed artist Marco Checchetto (DAREDEVIL) bring you a bold new take on Spider-Man, with this, the debut title of the new line of Ultimate Comics! After the events of ULTIMATE INVASION, the world needs a hero…who will rise up to take on that responsibility? Prepare to be entangled in a web of mystery and excitement as the all-new ULTIMATE SPIDER-MAN comic redefines the wall-crawler for the 21st Century!",
+   "genres": [
+    "Super-Hero"
+   ],
+   "publisher": "Marvel",
+   "seriesStatus": "Completed",
+   "yearBegan": 2024,
+   "yearEnd": null,
+   "url": "https://metron.cloud/series/ultimate-spider-man-2024/"
+  },
+  "ultimate-universe-finale-2026": {
+   "status": "ok",
+   "checked": "2026-10-16",
+   "id": 16077,
+   "name": "Ultimate Universe: Finale",
+   "desc": "A one-shot.",
+   "genres": [
+    "Super-Hero"
+   ],
+   "publisher": "Marvel",
+   "seriesStatus": "Completed",
+   "yearBegan": 2026,
+   "yearEnd": null,
+   "url": "https://metron.cloud/series/ultimate-universe-finale-2026/"
+  },
+  "ultimate-wolverine-2025": {
+   "status": "ok",
+   "checked": "2026-10-16",
+   "id": 9799,
+   "name": "Ultimate Wolverine",
+   "desc": "",
+   "genres": [
+    "Super-Hero"
+   ],
+   "publisher": "Marvel",
+   "seriesStatus": "Completed",
+   "yearBegan": 2025,
+   "yearEnd": null,
+   "url": "https://metron.cloud/series/ultimate-wolverine-2025/"
+  },
+  "ultimate-xmen-2024": {
+   "status": "ok",
+   "checked": "2026-10-16",
+   "id": 7104,
+   "name": "Ultimate X-Men",
+   "desc": "",
+   "genres": [
+    "Super-Hero"
+   ],
+   "publisher": "Marvel",
+   "seriesStatus": "Cancelled",
+   "yearBegan": 2024,
+   "yearEnd": 2026,
+   "url": "https://metron.cloud/series/ultimate-x-men-2024/"
+  },
+  "uncanny-xmen-2024": {
+   "status": "ok",
+   "checked": "2026-10-16",
+   "id": 8106,
+   "name": "Uncanny X-Men",
+   "desc": "",
+   "genres": [
+    "Super-Hero"
+   ],
+   "publisher": "Marvel",
+   "seriesStatus": "Ongoing",
+   "yearBegan": 2024,
+   "yearEnd": null,
+   "url": "https://metron.cloud/series/uncanny-x-men-2024/"
+  },
+  "universal-monsters-blood-of-the-wolf-man-2026": {
+   "status": "ok",
+   "checked": "2026-10-16",
+   "id": 16109,
+   "name": "Universal Monsters: Blood of the Wolf Man",
+   "desc": "",
+   "genres": [
+    "Horror"
+   ],
+   "publisher": "Skybound",
+   "seriesStatus": "Ongoing",
+   "yearBegan": 2026,
+   "yearEnd": null,
+   "url": "https://metron.cloud/series/universal-monsters-blood-of-the-wolf-man-2026/"
+  },
+  "valhallaw-2026": {
+   "status": "none",
+   "checked": "2026-10-16"
+  },
+  "valiant-beyond-all-new-harbinger-risen-2026": {
+   "status": "ok",
+   "checked": "2026-10-16",
+   "id": 16331,
+   "name": "Valiant Beyond: All-New Harbinger – Risen",
+   "desc": "",
+   "genres": [],
+   "publisher": "Valiant",
+   "seriesStatus": "Completed",
+   "yearBegan": 2026,
+   "yearEnd": 2026,
+   "url": "https://metron.cloud/series/valiant-beyond-all-new-harbinger-risen-2026/"
+  },
+  "valiant-beyond-bloodshot-man-made-hell-2026": {
+   "status": "ok",
+   "checked": "2026-10-16",
+   "id": 16164,
+   "name": "Valiant Beyond: Bloodshot – Man Made Hell",
+   "desc": "A 3 issue limited series.",
+   "genres": [],
+   "publisher": "Valiant",
+   "seriesStatus": "Ongoing",
+   "yearBegan": 2026,
+   "yearEnd": null,
+   "url": "https://metron.cloud/series/valiant-beyond-bloodshot-man-made-hell-2026/"
+  },
+  "vampirella-summer-special-2026": {
+   "status": "ok",
+   "checked": "2026-10-16",
+   "id": 16142,
+   "name": "Vampirella Summer Special 2026",
+   "desc": "A one-shot.",
+   "genres": [],
+   "publisher": "Dynamite Entertainment",
+   "seriesStatus": "Completed",
+   "yearBegan": 2026,
+   "yearEnd": null,
+   "url": "https://metron.cloud/series/vampirella-summer-special-2026-2026/"
+  },
+  "vampirella-vs-red-sonja-red-city-2026": {
+   "status": "ok",
+   "checked": "2026-10-16",
+   "id": 16405,
+   "name": "Vampirella vs. Red Sonja: Red City",
+   "desc": "A one-shot.",
+   "genres": [
+    "Fantasy"
+   ],
+   "publisher": "Dynamite Entertainment",
+   "seriesStatus": "Completed",
+   "yearBegan": 2026,
+   "yearEnd": null,
+   "url": "https://metron.cloud/series/vampirella-vs-red-sonja-red-city-2026/"
+  },
+  "vampirella-x-witchblade-special-2026": {
+   "status": "ok",
+   "checked": "2026-10-16",
+   "id": 16660,
+   "name": "Vampirella x Witchblade Special",
+   "desc": "A one-shot.",
+   "genres": [],
+   "publisher": "Dynamite Entertainment",
+   "seriesStatus": "Completed",
+   "yearBegan": 2026,
+   "yearEnd": null,
+   "url": "https://metron.cloud/series/vampirella-x-witchblade-special-2026/"
+  },
+  "vampyrates-2026": {
+   "status": "ok",
+   "checked": "2026-10-16",
+   "id": 16188,
+   "name": "Vampyrates!",
+   "desc": "A 5 issue limited series.",
+   "genres": [
+    "Horror"
+   ],
+   "publisher": "Boom! Studios",
+   "seriesStatus": "Ongoing",
+   "yearBegan": 2026,
+   "yearEnd": null,
+   "url": "https://metron.cloud/series/vampyrates-2026/"
+  },
+  "van-helsing-annual-2026-blood-ties-2026": {
+   "status": "none",
+   "checked": "2026-10-16"
+  },
+  "venom-2018": {
+   "status": "ok",
+   "checked": "2026-10-16",
+   "id": 2300,
+   "name": "Venom",
+   "desc": "",
+   "genres": [],
+   "publisher": "Marvel",
+   "seriesStatus": "Cancelled",
+   "yearBegan": 2018,
+   "yearEnd": 2021,
+   "url": "https://metron.cloud/series/venom-2018/"
+  },
+  "venom-2026": {
+   "status": "ok",
+   "checked": "2026-10-16",
+   "id": 16923,
+   "name": "Venom",
+   "desc": "",
+   "genres": [
+    "Super-Hero"
+   ],
+   "publisher": "Marvel",
+   "seriesStatus": "Ongoing",
+   "yearBegan": 2026,
+   "yearEnd": null,
+   "url": "https://metron.cloud/series/venom-2026/"
+  },
+  "wade-wilson-deadpool-2026": {
+   "status": "ok",
+   "checked": "2026-10-16",
+   "id": 14961,
+   "name": "Wade Wilson: Deadpool",
+   "desc": "",
+   "genres": [
+    "Super-Hero"
+   ],
+   "publisher": "Marvel",
+   "seriesStatus": "Ongoing",
+   "yearBegan": 2026,
+   "yearEnd": null,
+   "url": "https://metron.cloud/series/wade-wilson-deadpool-2026/"
+  },
+  "walt-disneys-comics-stories-1940": {
+   "status": "none",
+   "checked": "2026-10-16"
+  },
+  "warbird-2026": {
+   "status": "ok",
+   "checked": "2026-10-16",
+   "id": 17260,
+   "name": "Warbird",
+   "desc": "",
+   "genres": [],
+   "publisher": "Bad Idea",
+   "seriesStatus": "Ongoing",
+   "yearBegan": 2026,
+   "yearEnd": null,
+   "url": "https://metron.cloud/series/warbird-2026/"
+  },
+  "what-if-captain-america-2026": {
+   "status": "ok",
+   "checked": "2026-10-16",
+   "id": 16397,
+   "name": "What If...? Captain America",
+   "desc": "A one-shot.",
+   "genres": [
+    "Super-Hero"
+   ],
+   "publisher": "Marvel",
+   "seriesStatus": "Completed",
+   "yearBegan": 2026,
+   "yearEnd": null,
+   "url": "https://metron.cloud/series/what-if-captain-america-2026/"
+  },
+  "what-if-jessica-jones-2026": {
+   "status": "ok",
+   "checked": "2026-10-16",
+   "id": 16213,
+   "name": "What If...? Jessica Jones",
+   "desc": "A one-shot.",
+   "genres": [
+    "Super-Hero"
+   ],
+   "publisher": "Marvel",
+   "seriesStatus": "Completed",
+   "yearBegan": 2026,
+   "yearEnd": null,
+   "url": "https://metron.cloud/series/what-if-jessica-jones-2026/"
+  },
+  "what-if-runaways-2026": {
+   "status": "ok",
+   "checked": "2026-10-16",
+   "id": 16551,
+   "name": "What If...? Runaways",
+   "desc": "A one-shot.",
+   "genres": [
+    "Super-Hero"
+   ],
+   "publisher": "Marvel",
+   "seriesStatus": "Completed",
+   "yearBegan": 2026,
+   "yearEnd": null,
+   "url": "https://metron.cloud/series/what-if-runaways-2026/"
+  },
+  "what-if-secret-wars-2026": {
+   "status": "ok",
+   "checked": "2026-10-16",
+   "id": 16082,
+   "name": "What If...? Secret Wars",
+   "desc": "A one-shot.",
+   "genres": [
+    "Super-Hero"
+   ],
+   "publisher": "Marvel",
+   "seriesStatus": "Completed",
+   "yearBegan": 2026,
+   "yearEnd": null,
+   "url": "https://metron.cloud/series/what-if-secret-wars-2026/"
+  },
+  "what-if-spider-man-2026": {
+   "status": "ok",
+   "checked": "2026-10-16",
+   "id": 16320,
+   "name": "What If...? Spider-Man",
+   "desc": "",
+   "genres": [
+    "Super-Hero"
+   ],
+   "publisher": "Marvel",
+   "seriesStatus": "Completed",
+   "yearBegan": 2026,
+   "yearEnd": null,
+   "url": "https://metron.cloud/series/what-if-spider-man-2026/"
+  },
+  "what-if-thor-2026": {
+   "status": "ok",
+   "checked": "2026-10-16",
+   "id": 16054,
+   "name": "What If...? Thor",
+   "desc": "A one-shot.",
+   "genres": [
+    "Super-Hero"
+   ],
+   "publisher": "Marvel",
+   "seriesStatus": "Completed",
+   "yearBegan": 2026,
+   "yearEnd": null,
+   "url": "https://metron.cloud/series/what-if-thor-2026/"
+  },
+  "what-if-x-men-2026": {
+   "status": "ok",
+   "checked": "2026-10-16",
+   "id": 16632,
+   "name": "What If...? X-Men",
+   "desc": "A one-shot.",
+   "genres": [
+    "Super-Hero"
+   ],
+   "publisher": "Marvel",
+   "seriesStatus": "Completed",
+   "yearBegan": 2026,
+   "yearEnd": null,
+   "url": "https://metron.cloud/series/what-if-x-men-2026/"
+  },
+  "witchblade-vampirella-2026": {
+   "status": "ok",
+   "checked": "2026-10-16",
+   "id": 16597,
+   "name": "Witchblade / Vampirella",
+   "desc": "A one-shot.",
+   "genres": [],
+   "publisher": "Image Comics",
+   "seriesStatus": "Completed",
+   "yearBegan": 2026,
+   "yearEnd": null,
+   "url": "https://metron.cloud/series/witchblade-vampirella-2026/"
+  },
+  "witness-point-2026": {
+   "status": "ok",
+   "checked": "2026-10-16",
+   "id": 16189,
+   "name": "Witness Point",
+   "desc": "A 4 issue limited series.",
+   "genres": [],
+   "publisher": "Dark Horse Comics",
+   "seriesStatus": "Ongoing",
+   "yearBegan": 2026,
+   "yearEnd": null,
+   "url": "https://metron.cloud/series/witness-point-2026/"
+  },
+  "wolverine-2024": {
+   "status": "ok",
+   "checked": "2026-10-16",
+   "id": 8331,
+   "name": "Wolverine",
+   "desc": "",
+   "genres": [
+    "Super-Hero"
+   ],
+   "publisher": "Marvel",
+   "seriesStatus": "Ongoing",
+   "yearBegan": 2024,
+   "yearEnd": null,
+   "url": "https://metron.cloud/series/wolverine-2024/"
+  },
+  "wolverine-paradise-2026": {
+   "status": "ok",
+   "checked": "2026-10-16",
+   "id": 16924,
+   "name": "Wolverine: Paradise",
+   "desc": "",
+   "genres": [
+    "Super-Hero"
+   ],
+   "publisher": "Marvel",
+   "seriesStatus": "Ongoing",
+   "yearBegan": 2026,
+   "yearEnd": null,
+   "url": "https://metron.cloud/series/wolverine-paradise-2026/"
+  },
+  "wolverine-prequel-infinity-comic-2026": {
+   "status": "none",
+   "checked": "2026-10-16"
+  },
+  "wonder-woman-2016": {
+   "status": "ok",
+   "checked": "2026-10-16",
+   "id": 20,
+   "name": "Wonder Woman",
+   "desc": "The Fifth Volume of Wonder Woman is one of the ongoing series published under the DC Rebirth initiative.",
+   "genres": [
+    "Super-Hero"
+   ],
+   "publisher": "DC Comics",
+   "seriesStatus": "Cancelled",
+   "yearBegan": 2016,
+   "yearEnd": 2023,
+   "url": "https://metron.cloud/series/wonder-woman-2016/"
+  },
+  "wynd-2020": {
+   "status": "ok",
+   "checked": "2026-10-16",
+   "id": 1357,
+   "name": "Wynd",
+   "desc": "",
+   "genres": [
+    "Fantasy"
+   ],
+   "publisher": "Boom! Studios",
+   "seriesStatus": "Cancelled",
+   "yearBegan": 2020,
+   "yearEnd": 2021,
+   "url": "https://metron.cloud/series/wynd-2020/"
+  },
+  "x-men-97-strike-files-infinity-comic-2026": {
+   "status": "none",
+   "checked": "2026-10-16"
+  },
+  "x-men-elsewhen-2026": {
+   "status": "none",
+   "checked": "2026-10-16"
+  },
+  "x-men-of-apocalypse-omega-2026": {
+   "status": "ok",
+   "checked": "2026-10-16",
+   "id": 16174,
+   "name": "X-Men of Apocalypse Omega",
+   "desc": "A one-shot.",
+   "genres": [
+    "Super-Hero"
+   ],
+   "publisher": "Marvel",
+   "seriesStatus": "Completed",
+   "yearBegan": 2026,
+   "yearEnd": null,
+   "url": "https://metron.cloud/series/x-men-of-apocalypse-omega-2026/"
+  },
+  "x-men-omega-red-dawn-2026": {
+   "status": "ok",
+   "checked": "2026-10-16",
+   "id": 16639,
+   "name": "X-Men: Omega Red Dawn",
+   "desc": "A one-shot.",
+   "genres": [
+    "Super-Hero"
+   ],
+   "publisher": "Marvel",
+   "seriesStatus": "Completed",
+   "yearBegan": 2026,
+   "yearEnd": null,
+   "url": "https://metron.cloud/series/x-men-omega-red-dawn-2026/"
+  },
+  "x-men-outback-2026": {
+   "status": "ok",
+   "checked": "2026-10-16",
+   "id": 16078,
+   "name": "X-Men: Outback",
+   "desc": "",
+   "genres": [
+    "Super-Hero"
+   ],
+   "publisher": "Marvel",
+   "seriesStatus": "Ongoing",
+   "yearBegan": 2026,
+   "yearEnd": null,
+   "url": "https://metron.cloud/series/x-men-outback-2026/"
+  },
+  "x-men-the-hellfire-murder-2026": {
+   "status": "ok",
+   "checked": "2026-10-16",
+   "id": 16284,
+   "name": "X-Men: The Hellfire Murder",
+   "desc": "A one-shot.",
+   "genres": [
+    "Super-Hero"
+   ],
+   "publisher": "Marvel",
+   "seriesStatus": "Completed",
+   "yearBegan": 2026,
+   "yearEnd": null,
+   "url": "https://metron.cloud/series/x-men-the-hellfire-murder-2026/"
+  },
+  "xmen-2024": {
+   "status": "ok",
+   "checked": "2026-10-16",
+   "id": 7914,
+   "name": "X-Men",
+   "desc": "",
+   "genres": [
+    "Super-Hero"
+   ],
+   "publisher": "Marvel",
+   "seriesStatus": "Ongoing",
+   "yearBegan": 2024,
+   "yearEnd": null,
+   "url": "https://metron.cloud/series/x-men-2024/"
+  },
+  "xmen-united-2026": {
+   "status": "ok",
+   "checked": "2026-10-16",
+   "id": 15370,
+   "name": "X-Men United",
+   "desc": "",
+   "genres": [
+    "Super-Hero"
+   ],
+   "publisher": "Marvel",
+   "seriesStatus": "Ongoing",
+   "yearBegan": 2026,
+   "yearEnd": null,
+   "url": "https://metron.cloud/series/x-men-united-2026/"
+  },
+  "xo-manowar-2012": {
+   "status": "ok",
+   "checked": "2026-10-16",
+   "id": 15663,
+   "name": "X-O Manowar",
+   "desc": "The brand new Valiant Universe kicks off with a new series of X-O Manowar featuring Aric of Dacia as the title character with a brand new origin story.\n\nBorn into battle, Aric of Dacia — heir to the throne of the Visigoth people — has never known peace. After a brutal encounter with a mysterious enemy known as The Vine leaves him a prisoner on an alien world, the only hope Aric has of returning to his family and saving them from slavery is to seize an armored suit capable of incalculable destruction and become X-O Manowar! The Vine destroyed Aric's world. Now he will give them war.",
+   "genres": [
+    "Historical",
+    "Science Fiction",
+    "War"
+   ],
+   "publisher": "Valiant",
+   "seriesStatus": "Completed",
+   "yearBegan": 2012,
+   "yearEnd": 2016,
+   "url": "https://metron.cloud/series/x-o-manowar-2012/"
+  },
+  "you-are-on-native-land-a-charity-comic-for-indigenous-rights-2026": {
+   "status": "none",
+   "checked": "2026-10-16"
+  },
+  "youll-never-leave-this-place-alive-2026": {
+   "status": "ok",
+   "checked": "2026-10-16",
+   "id": 16930,
+   "name": "You'll Never Leave This Place Alive",
+   "desc": "",
+   "genres": [
+    "Horror"
+   ],
+   "publisher": "IDW Publishing",
+   "seriesStatus": "Ongoing",
+   "yearBegan": 2026,
+   "yearEnd": null,
+   "url": "https://metron.cloud/series/youll-never-leave-this-place-alive-2026/"
+  },
+  "yumi-00ex-2026": {
+   "status": "ok",
+   "checked": "2026-10-16",
+   "id": 16462,
+   "name": "Yumi: 00EX",
+   "desc": "Yumi: 00EX is an anti-spy comic book miniseries published by Image Comics written by Doug Wagner and illustrated by Hoyt Silva.\n\nThe story follows a lethal hacker named Yumi who launches a one-woman war against MI6 after her secret-agent boyfriend disappears. Along the way, she teams up with her unusual first ally: a fully sentient, AI-powered Lamborghini built like a weapon of mass destruction.\n\nA 4 issue limited series.",
+   "genres": [
+    "Science Fiction"
+   ],
+   "publisher": "Image Comics",
+   "seriesStatus": "Ongoing",
+   "yearBegan": 2026,
+   "yearEnd": null,
+   "url": "https://metron.cloud/series/yumi-00ex-2026/"
+  },
+  "zorros-legacy-2026": {
+   "status": "ok",
+   "checked": "2026-10-16",
+   "id": 16259,
+   "name": "Zorro's Legacy",
+   "desc": "",
+   "genres": [],
+   "publisher": "Alien Books",
+   "seriesStatus": "Ongoing",
+   "yearBegan": 2026,
+   "yearEnd": null,
+   "url": "https://metron.cloud/series/zorros-legacy-2026/"
+  }
+ }
 }
