@@ -169,6 +169,11 @@
    "checked": "2026-10-23",
    "mv": 2
   },
+  "2000ad-summer-scifi-special-2022-2022": {
+   "status": "none",
+   "checked": "2026-10-24",
+   "mv": 2
+  },
   "2000ad-villains-special-2020": {
    "status": "none",
    "checked": "2026-10-18",
@@ -471,6 +476,21 @@
    "status": "none",
    "checked": "2026-10-24",
    "mv": 2
+  },
+  "7174-presents-2022": {
+   "status": "ok",
+   "checked": "2026-10-24",
+   "mv": 2,
+   "id": 3620,
+   "name": "7174 Presents",
+   "desc": "Following the artistic showcase that was 7174 ANNUAL 01, ASHLEY WOOD is back with this comic-sized 48-pager that showcases his ongoing and continuously evolving love affair with art styles that captivate, titillate, and motivate...you, to keep coming back for more!",
+   "descSource": "issue1",
+   "genres": [],
+   "publisher": "Image Comics",
+   "seriesStatus": "Completed",
+   "yearBegan": 2022,
+   "yearEnd": null,
+   "url": "https://metron.cloud/series/7174-presents-2022/"
   },
   "7174ad-2024": {
    "status": "none",
@@ -843,6 +863,11 @@
    "yearBegan": 2022,
    "yearEnd": 2022,
    "url": "https://metron.cloud/series/above-snakes-2022/"
+  },
+  "abraham-lincoln-civil-war-president-2021": {
+   "status": "none",
+   "checked": "2026-10-24",
+   "mv": 2
   },
   "absolute-batman-2024": {
    "status": "ok",
@@ -1302,6 +1327,11 @@
   "accell-2017": {
    "status": "none",
    "checked": "2026-10-19",
+   "mv": 2
+  },
+  "acid-chimp-vs-business-dog-2024": {
+   "status": "none",
+   "checked": "2026-10-24",
    "mv": 2
   },
   "across-the-widest-sea-2026": {
@@ -2141,6 +2171,11 @@
    "yearBegan": 2008,
    "yearEnd": 2009,
    "url": "https://metron.cloud/series/aldebaran-2008/"
+  },
+  "aleister-adolf-2020": {
+   "status": "none",
+   "checked": "2026-10-24",
+   "mv": 2
   },
   "alexandria-ocasiocortez-and-the-freshman-force-squad-special-2019": {
    "status": "none",
@@ -3686,6 +3721,11 @@
    "checked": "2026-10-22",
    "mv": 2
   },
+  "an-enemy-of-the-people-2022": {
+   "status": "none",
+   "checked": "2026-10-24",
+   "mv": 2
+  },
   "an-english-trilogy-2021": {
    "status": "none",
    "checked": "2026-10-23",
@@ -3784,6 +3824,11 @@
    "yearBegan": 2022,
    "yearEnd": 2022,
    "url": "https://metron.cloud/series/angel-2022/"
+  },
+  "angel-city-2016": {
+   "status": "none",
+   "checked": "2026-10-24",
+   "mv": 2
   },
   "angel-of-death-2021": {
    "status": "none",
@@ -3892,6 +3937,21 @@
    "status": "none",
    "checked": "2026-10-24",
    "mv": 2
+  },
+  "animal-jam-2017": {
+   "status": "ok",
+   "checked": "2026-10-24",
+   "mv": 2,
+   "id": 14073,
+   "name": "Animal Jam",
+   "desc": "Hey Kids, it’s Animal Jam! The world’s largest online playground for kids where they can learn about the natural world is now a new and exciting comic! Join in on the fun for all new adventures with all of your favorite characters!",
+   "descSource": "issue1",
+   "genres": [],
+   "publisher": "Dynamite Entertainment",
+   "seriesStatus": "Completed",
+   "yearBegan": 2017,
+   "yearEnd": 2017,
+   "url": "https://metron.cloud/series/animal-jam-2017/"
   },
   "animal-man-20112014-new-52": {
    "status": "none",
@@ -4704,6 +4764,28 @@
    "checked": "2026-10-23",
    "mv": 2
   },
+  "archie-and-friends-thrills-and-chills-2022": {
+   "status": "none",
+   "checked": "2026-10-24",
+   "mv": 2
+  },
+  "archie-christmas-spectacular-2020": {
+   "status": "ok",
+   "checked": "2026-10-24",
+   "mv": 2,
+   "id": 6210,
+   "name": "Archie Christmas Spectacular",
+   "desc": "Get ready for yuletide fun and holiday cheer in this special collection of Christmas tales!",
+   "descSource": "issue1",
+   "genres": [
+    "Humor"
+   ],
+   "publisher": "Archie Comics",
+   "seriesStatus": "Completed",
+   "yearBegan": 2019,
+   "yearEnd": null,
+   "url": "https://metron.cloud/series/archie-christmas-spectacular-2019/"
+  },
   "archie-christmas-spectacular-2021": {
    "status": "ok",
    "checked": "2026-10-22",
@@ -4720,6 +4802,23 @@
    "yearBegan": 2021,
    "yearEnd": null,
    "url": "https://metron.cloud/series/archie-christmas-spectacular-2021/"
+  },
+  "archie-christmas-spectacular-2022": {
+   "status": "ok",
+   "checked": "2026-10-24",
+   "mv": 2,
+   "id": 6212,
+   "name": "Archie Christmas Spectacular",
+   "desc": "NEW CLASSIC-STYLE STORY: “Jingles Jangled!” It wouldn't be Christmas without a visit from Jingles the Elf! Jingles wants to be part of the Riverdale High Christmas Ball, so he \"disguises\" himself in human form. He makes quite a splash at the dance, but as the night goes on he ends up in over his head juggling all his different disguises! What will happen to Jingles and exactly how much trouble is he in? You'll have to read to find out!",
+   "descSource": "issue1",
+   "genres": [
+    "Humor"
+   ],
+   "publisher": "Archie Comics",
+   "seriesStatus": "Completed",
+   "yearBegan": 2022,
+   "yearEnd": null,
+   "url": "https://metron.cloud/series/archie-christmas-spectacular-2022/"
   },
   "archie-comics-85th-anniversary-presents-archie-american-allstars-2026": {
    "status": "ok",
@@ -4861,12 +4960,32 @@
    "checked": "2026-10-21",
    "mv": 2
   },
+  "archie-friends-christmas-calamity-2021": {
+   "status": "none",
+   "checked": "2026-10-24",
+   "mv": 2
+  },
   "archie-friends-digital-digest-2018": {
    "status": "none",
    "checked": "2026-10-23",
    "mv": 2
   },
+  "archie-friends-endless-summer-2020": {
+   "status": "none",
+   "checked": "2026-10-24",
+   "mv": 2
+  },
   "archie-friends-fall-festival-2020": {
+   "status": "none",
+   "checked": "2026-10-24",
+   "mv": 2
+  },
+  "archie-friends-geeks-games-2020": {
+   "status": "none",
+   "checked": "2026-10-24",
+   "mv": 2
+  },
+  "archie-friends-guide-to-dating-2021": {
    "status": "none",
    "checked": "2026-10-24",
    "mv": 2
@@ -4877,6 +4996,16 @@
    "mv": 2
   },
   "archie-friends-hot-summer-movies-2023": {
+   "status": "none",
+   "checked": "2026-10-24",
+   "mv": 2
+  },
+  "archie-friends-level-up-2025": {
+   "status": "none",
+   "checked": "2026-10-24",
+   "mv": 2
+  },
+  "archie-friends-music-jam-2019": {
    "status": "none",
    "checked": "2026-10-24",
    "mv": 2
@@ -4901,6 +5030,11 @@
    "checked": "2026-10-23",
    "mv": 2
   },
+  "archie-friends-winter-wonderland-2020": {
+   "status": "none",
+   "checked": "2026-10-24",
+   "mv": 2
+  },
   "archie-giant-comics-bash-2018": {
    "status": "none",
    "checked": "2026-10-19",
@@ -4922,6 +5056,11 @@
    "yearBegan": 2020,
    "yearEnd": null,
    "url": "https://metron.cloud/series/archie-halloween-spectacular-2020/"
+  },
+  "archie-halloween-spectacular-2021": {
+   "status": "none",
+   "checked": "2026-10-24",
+   "mv": 2
   },
   "archie-halloween-spectacular-2022": {
    "status": "none",
@@ -4966,6 +5105,11 @@
    "yearBegan": 2026,
    "yearEnd": null,
    "url": "https://metron.cloud/series/archie-jumbo-comic-magazine-2026/"
+  },
+  "archie-love-heartbreak-special-2022": {
+   "status": "none",
+   "checked": "2026-10-24",
+   "mv": 2
   },
   "archie-meets-batman-66-2018": {
    "status": "ok",
@@ -5039,6 +5183,23 @@
    "yearEnd": null,
    "url": "https://metron.cloud/series/archie-showcase-digest-2020/"
   },
+  "archie-the-decision-2024": {
+   "status": "ok",
+   "checked": "2026-10-24",
+   "mv": 2,
+   "id": 8220,
+   "name": "Archie: The Decision",
+   "desc": "Archie. Finally. Decides. At long last, the answer to the question generations of fans have asked will be answered. Who will Archie choose? Betty or Veronica? Written by Eisner Award-winning comics scribe TOM KING and illustrated by Archie legend and fan-favorite artist DAN PARENT, this is the tale only they can tell. Everyone in Riverdale is waiting for his choice, and all of your favorites, from Josie & The Pussycats to Sabrina the Teenage Witch (and even Hot Dog!), are joining in the fun. No matter who you want him to choose, you DEFINITELY don’t want to miss this ALL-NEW, FULL-LENGTH story!",
+   "descSource": "issue1",
+   "genres": [
+    "Humor"
+   ],
+   "publisher": "Archie Comics",
+   "seriesStatus": "Completed",
+   "yearBegan": 2024,
+   "yearEnd": null,
+   "url": "https://metron.cloud/series/archie-the-decision-2024/"
+  },
   "archie-the-married-life-10th-anniversary-2019": {
    "status": "none",
    "checked": "2026-10-19",
@@ -5060,6 +5221,23 @@
    "yearBegan": 2023,
    "yearEnd": null,
    "url": "https://metron.cloud/series/archie-valentines-spectacular-2023/"
+  },
+  "archie-valentines-spectacular-2024": {
+   "status": "ok",
+   "checked": "2026-10-24",
+   "mv": 2,
+   "id": 6944,
+   "name": "Archie Valentine's Spectacular",
+   "desc": "The spirits of Valentines are after Betty and Veronica, but will they bring about love or war?",
+   "descSource": "issue1",
+   "genres": [
+    "Humor"
+   ],
+   "publisher": "Archie Comics",
+   "seriesStatus": "Completed",
+   "yearBegan": 2024,
+   "yearEnd": null,
+   "url": "https://metron.cloud/series/archie-valentines-spectacular-2024/"
   },
   "archie-vs-minor-threats-2025": {
    "status": "ok",
@@ -5118,6 +5296,11 @@
   "archie-x-army-of-darkness-2026": {
    "status": "none",
    "checked": "2026-10-20",
+   "mv": 2
+  },
+  "archies-christmas-spectacular-2017": {
+   "status": "none",
+   "checked": "2026-10-24",
    "mv": 2
   },
   "archies-christmas-spectacular-2018": {
@@ -5203,6 +5386,21 @@
    "yearEnd": null,
    "url": "https://metron.cloud/series/archies-halloween-spectacular-2026/"
   },
+  "archies-holiday-magic-special-2021": {
+   "status": "ok",
+   "checked": "2026-10-24",
+   "mv": 2,
+   "id": 2983,
+   "name": "Archie's Holiday Magic Special",
+   "desc": "AN ALL-NEW HOLIDAY ANTHOLOGY PERFECT FOR FANS OF ARCHIE’S MODERN COMIC SERIES!\n\nIt’s Christmas Eve in Riverdale, and it’s almost time for the annual Snow Ball, but Archie still can’t choose who should be his date: Betty or Veronica? Has he always been this indecisive? Will he always be? Will his flaws leave him all alone? Everything changes when a spirit guide appears to help him navigate these questions, and explore his past, present, and future in three distinct tales. This heartfelt and humorous holiday tale harkens back to classic holiday stories like It’s a Wonderful Life, mixed with the over-the-top sentimentality of a Hallmark Christmas film.",
+   "descSource": "issue1",
+   "genres": [],
+   "publisher": "Archie Comics",
+   "seriesStatus": "Completed",
+   "yearBegan": 2022,
+   "yearEnd": null,
+   "url": "https://metron.cloud/series/archies-holiday-magic-special-2022/"
+  },
   "archies-superteens-versus-crusaders-2018": {
    "status": "none",
    "checked": "2026-10-22",
@@ -5266,6 +5464,11 @@
    "yearBegan": 2021,
    "yearEnd": null,
    "url": "https://metron.cloud/series/are-you-afraid-of-darkseid-2021/"
+  },
+  "area-510-2022": {
+   "status": "none",
+   "checked": "2026-10-24",
+   "mv": 2
   },
   "ares-aphrodite-2015": {
    "status": "none",
@@ -6241,6 +6444,11 @@
    "yearEnd": null,
    "url": "https://metron.cloud/series/avengers-armageddon-2026/"
   },
+  "avengers-assault-on-armor-city-2020": {
+   "status": "none",
+   "checked": "2026-10-24",
+   "mv": 2
+  },
   "avengers-assemble-2024": {
    "status": "ok",
    "checked": "2026-10-19",
@@ -6524,6 +6732,11 @@
    "yearBegan": 2018,
    "yearEnd": null,
    "url": "https://metron.cloud/series/avengers-shards-of-infinity-2018/"
+  },
+  "avengers-start-here-sampler-2019": {
+   "status": "none",
+   "checked": "2026-10-24",
+   "mv": 2
   },
   "avengers-subterranean-wars-2020": {
    "status": "none",
@@ -6815,6 +7028,11 @@
    "yearEnd": null,
    "url": "https://metron.cloud/series/babs-the-black-road-south-2026/"
   },
+  "baby-badass-2018": {
+   "status": "none",
+   "checked": "2026-10-24",
+   "mv": 2
+  },
   "baby-garfield-2026": {
    "status": "ok",
    "checked": "2026-10-17",
@@ -6960,6 +7178,21 @@
    "yearEnd": 2019,
    "url": "https://metron.cloud/series/bad-luck-chuck-2019/"
   },
+  "bad-mother-2020": {
+   "status": "ok",
+   "checked": "2026-10-24",
+   "mv": 2,
+   "id": 1470,
+   "name": "Bad Mother",
+   "desc": "A nerve-racking thriller from crime writer Christa Faust and blockbuster artist Mike Deodato Jr. (The Resistance, Infinity Wars). April Walters is a hit-and-run victim of life – a middle-aged soccer mom whose inner fire has been snuffed out by her dreary suburban existence. When her teenaged daughter goes missing under mysterious circumstances, April embarks on a harrowing mission to find her; a journey that takes her through the underbelly of her suburban community and sets her on a collision course with a massive crime syndicate and its lethal matriarch. Tested to her limits and beyond, April discovers that hell hath no fury like a mother scorned.",
+   "descSource": "issue1",
+   "genres": [],
+   "publisher": "AWA Studios",
+   "seriesStatus": "Completed",
+   "yearBegan": 2020,
+   "yearEnd": 2020,
+   "url": "https://metron.cloud/series/bad-mother-2020/"
+  },
   "bad-reception-2019": {
    "status": "ok",
    "checked": "2026-10-23",
@@ -7059,6 +7292,11 @@
    "checked": "2026-10-23",
    "mv": 2
   },
+  "bankshot-2021": {
+   "status": "none",
+   "checked": "2026-10-24",
+   "mv": 2
+  },
   "barbalien-red-planet-2020": {
    "status": "ok",
    "checked": "2026-10-23",
@@ -7143,6 +7381,11 @@
    "yearBegan": 2024,
    "yearEnd": 2025,
    "url": "https://metron.cloud/series/barbarella-2024/"
+  },
+  "barbarella-holiday-special-2018": {
+   "status": "none",
+   "checked": "2026-10-24",
+   "mv": 2
   },
   "barbarella-the-center-cannot-hold-2023": {
    "status": "ok",
@@ -9529,6 +9772,11 @@
    "checked": "2026-10-22",
    "mv": 2
   },
+  "battlestar-galactica-gods-monsters-2016": {
+   "status": "none",
+   "checked": "2026-10-24",
+   "mv": 2
+  },
   "battlestar-galactica-vs-battlestar-galactica-2018": {
    "status": "none",
    "checked": "2026-10-22",
@@ -9712,6 +9960,11 @@
    "yearEnd": 2018,
    "url": "https://metron.cloud/series/beasts-of-burden-wise-dogs-and-eldritch-men-2018/"
   },
+  "beautiful-canvas-2017": {
+   "status": "none",
+   "checked": "2026-10-24",
+   "mv": 2
+  },
   "becstar-2021": {
    "status": "none",
    "checked": "2026-10-23",
@@ -9816,6 +10069,11 @@
    "checked": "2026-10-17",
    "mv": 2
   },
+  "belle-ancient-instincts-2023": {
+   "status": "none",
+   "checked": "2026-10-24",
+   "mv": 2
+  },
   "belle-beast-hunter-2018": {
    "status": "none",
    "checked": "2026-10-21",
@@ -9824,6 +10082,16 @@
   "belle-deep-freeze-2022": {
    "status": "none",
    "checked": "2026-10-22",
+   "mv": 2
+  },
+  "belle-from-beyond-2023": {
+   "status": "none",
+   "checked": "2026-10-24",
+   "mv": 2
+  },
+  "belle-ghosts-goblins-2020": {
+   "status": "none",
+   "checked": "2026-10-24",
    "mv": 2
   },
   "belle-hearts-minds-2020": {
@@ -9854,6 +10122,11 @@
   "belle-return-of-scylla-2022": {
    "status": "none",
    "checked": "2026-10-23",
+   "mv": 2
+  },
+  "belle-shape-of-fear-2023": {
+   "status": "none",
+   "checked": "2026-10-24",
    "mv": 2
   },
   "belle-vs-the-black-knight-2020": {
@@ -10121,6 +10394,28 @@
    "yearEnd": 2019,
    "url": "https://metron.cloud/series/bettie-page-2018/"
   },
+  "bettie-page-2019-halloween-special": {
+   "status": "none",
+   "checked": "2026-10-24",
+   "mv": 2
+  },
+  "bettie-page-2020": {
+   "status": "ok",
+   "checked": "2026-10-24",
+   "mv": 2,
+   "id": 5500,
+   "name": "Bettie Page",
+   "desc": "ALL-NEW SERIES from writer KARLA PACHECO (Spider-Woman) and artist VINCENZO FEDERICI (Army of Darkness/Bubba Ho-Tep)!\n\nStunning starlet Bettie Page has signed on to a new “tastefully sensual” fantasy film, shooting on a secluded tropical island. But when one of her cast members is MURDERED, everyone on the island is a suspect! WHO is the killer? WHAT is the film’s producer hiding? HOW do they get off the island? You’ll have to read to discover WHODUNNIT…!",
+   "descSource": "issue1",
+   "genres": [
+    "Adult"
+   ],
+   "publisher": "Dynamite Entertainment",
+   "seriesStatus": "Completed",
+   "yearBegan": 2020,
+   "yearEnd": 2021,
+   "url": "https://metron.cloud/series/bettie-page-2020/"
+  },
   "bettie-page-2023": {
    "status": "ok",
    "checked": "2026-10-21",
@@ -10188,6 +10483,21 @@
    "checked": "2026-10-24",
    "mv": 2
   },
+  "betty-and-veronica-friends-forever-sleepover-2024": {
+   "status": "none",
+   "checked": "2026-10-24",
+   "mv": 2
+  },
+  "betty-and-veronica-friends-forever-summer-surf-party-2022": {
+   "status": "none",
+   "checked": "2026-10-24",
+   "mv": 2
+  },
+  "betty-and-veronica-summer-spectacular-2024": {
+   "status": "none",
+   "checked": "2026-10-24",
+   "mv": 2
+  },
   "betty-boop-2016": {
    "status": "ok",
    "checked": "2026-10-23",
@@ -10216,6 +10526,41 @@
   "betty-veronica-2018": {
    "status": "none",
    "checked": "2026-10-23",
+   "mv": 2
+  },
+  "betty-veronica-a-year-in-the-life-2024": {
+   "status": "none",
+   "checked": "2026-10-24",
+   "mv": 2
+  },
+  "betty-veronica-best-friends-digest-2010": {
+   "status": "none",
+   "checked": "2026-10-24",
+   "mv": 2
+  },
+  "betty-veronica-best-friends-forever-at-movies-2018": {
+   "status": "none",
+   "checked": "2026-10-24",
+   "mv": 2
+  },
+  "betty-veronica-friends-forever-go-to-work-2019": {
+   "status": "none",
+   "checked": "2026-10-24",
+   "mv": 2
+  },
+  "betty-veronica-friends-forever-pets-2019": {
+   "status": "none",
+   "checked": "2026-10-24",
+   "mv": 2
+  },
+  "betty-veronica-friends-forever-return-to-storybook-land-2019": {
+   "status": "none",
+   "checked": "2026-10-24",
+   "mv": 2
+  },
+  "betty-veronica-friends-forever-travel-2018": {
+   "status": "none",
+   "checked": "2026-10-24",
    "mv": 2
   },
   "betty-veronica-vixens-2017": {
@@ -10387,6 +10732,23 @@
    "checked": "2026-10-22",
    "mv": 2
   },
+  "big-moose-2017": {
+   "status": "ok",
+   "checked": "2026-10-24",
+   "mv": 2,
+   "id": 11362,
+   "name": "Big Moose",
+   "desc": "Riverdale's resident jock gets the spotlight in this special one-shot where everything's Moose! Stories by Sean Ryan, Ryan Cady and Gorf with art by Cory Smith, Thomas Pitilli and Wilfredo Torres!",
+   "descSource": "issue1",
+   "genres": [
+    "Humor"
+   ],
+   "publisher": "Archie Comics",
+   "seriesStatus": "Completed",
+   "yearBegan": 2017,
+   "yearEnd": null,
+   "url": "https://metron.cloud/series/big-moose-2017/"
+  },
   "big-trouble-in-little-china-escape-from-new-york-2016": {
    "status": "none",
    "checked": "2026-10-23",
@@ -10462,6 +10824,21 @@
    "checked": "2026-10-23",
    "mv": 2
   },
+  "bill-ted-save-the-universe-2017": {
+   "status": "ok",
+   "checked": "2026-10-24",
+   "mv": 2,
+   "id": 13953,
+   "name": "Bill & Ted Save The Universe",
+   "desc": "The Wyld Stallyns are back, and this time they’re travelling across the whole universe!\n\nBill and Ted have been kidnapped by a bodacious alien and are handed over to…their long-lost family?!\n\nBrian Joines and Bachan (Bill & Ted Go to Hell) team up once more for an all-new Bill & Ted adventure.",
+   "descSource": "issue1",
+   "genres": [],
+   "publisher": "Boom! Studios",
+   "seriesStatus": "Completed",
+   "yearBegan": 2017,
+   "yearEnd": 2017,
+   "url": "https://metron.cloud/series/bill-ted-save-the-universe-2017/"
+  },
   "billie-bang-bang-2022": {
    "status": "none",
    "checked": "2026-10-18",
@@ -10522,6 +10899,11 @@
   "bingo-love-2018": {
    "status": "none",
    "checked": "2026-10-22",
+   "mv": 2
+  },
+  "bird-2020": {
+   "status": "none",
+   "checked": "2026-10-24",
    "mv": 2
   },
   "birdking-2022": {
@@ -10823,6 +11205,11 @@
    "checked": "2026-10-17",
    "mv": 2
   },
+  "black-af-widows-and-orphans-2018": {
+   "status": "none",
+   "checked": "2026-10-24",
+   "mv": 2
+  },
   "black-angel-2021": {
    "status": "none",
    "checked": "2026-10-18",
@@ -10842,6 +11229,26 @@
    "yearBegan": 2018,
    "yearEnd": 2019,
    "url": "https://metron.cloud/series/black-badge-2018/"
+  },
+  "black-bag-tpb-2016": {
+   "status": "none",
+   "checked": "2026-10-24",
+   "mv": 2
+  },
+  "black-beacon-2022": {
+   "status": "ok",
+   "checked": "2026-10-24",
+   "mv": 2,
+   "id": 3268,
+   "name": "Black Beacon",
+   "desc": "There's an intergalactic space station out there bigger than our solar system where wants everyone to come along and meet up. The beacon made it sound like a utopia, but what Niko finds upon her arrival is a lawless expanse where everyone is out for themselves and she's so late she doesn't even have a seat at the table. A story of survival, truth, and experience lies in front of Niko if she can figure out who to trust and what to do before the secret of her journey catches up with her.",
+   "descSource": "issue1",
+   "genres": [],
+   "publisher": "Heavy Metal",
+   "seriesStatus": "Completed",
+   "yearBegan": 2021,
+   "yearEnd": 2022,
+   "url": "https://metron.cloud/series/black-beacon-2021/"
   },
   "black-betty-2018": {
    "status": "ok",
@@ -12038,6 +12445,11 @@
    "checked": "2026-10-16",
    "mv": 2
   },
+  "blood-blister-2017": {
+   "status": "none",
+   "checked": "2026-10-24",
+   "mv": 2
+  },
   "blood-brothers-mother-2024": {
    "status": "ok",
    "checked": "2026-10-22",
@@ -12808,6 +13220,23 @@
    "yearEnd": 2024,
    "url": "https://metron.cloud/series/borealis-2023/"
   },
+  "boris-karloffs-gold-key-mysteries-2023": {
+   "status": "ok",
+   "checked": "2026-10-24",
+   "mv": 2,
+   "id": 5901,
+   "name": "Boris Karloff's Gold Key Mysteries",
+   "desc": "Witness the dawn of new era in horror! When a gothic mansion infested with arcane power appears from the mist, Boris Karloff is the world's last hope against dark forces led by a malevolent government agent bent on harnessing the house's power. Boris Karloff is back with a new ongoing horror anthology.",
+   "descSource": "issue1",
+   "genres": [
+    "Horror"
+   ],
+   "publisher": "Gold Key Entertainment",
+   "seriesStatus": "Ongoing",
+   "yearBegan": 2023,
+   "yearEnd": null,
+   "url": "https://metron.cloud/series/boris-karloff-gold-key-mysteries-2023/"
+  },
   "bountiful-garden-2021": {
    "status": "none",
    "checked": "2026-10-24",
@@ -12838,6 +13267,11 @@
   "brancusi-v-united-states-2023": {
    "status": "none",
    "checked": "2026-10-23",
+   "mv": 2
+  },
+  "brave-chef-brianna-2017": {
+   "status": "none",
+   "checked": "2026-10-24",
    "mv": 2
   },
   "break-out-2022": {
@@ -12876,6 +13310,24 @@
    "status": "none",
    "checked": "2026-10-22",
    "mv": 2
+  },
+  "breathless-2018": {
+   "status": "ok",
+   "checked": "2026-10-24",
+   "mv": 2,
+   "id": 7092,
+   "name": "Breathless",
+   "desc": "It’s Buffy the Vampire Slayer if the villains were big pharma. Scout Turner works as a cryptozoologist, examining and cataloguing supernatural creatures for scientific purposes. When she discovers the cure for asthma in the venom of a new breed of monster, she quickly finds herself on the run from Kenilworth Pharmaceuticals and the monsters that they’ve hired to kill her. With no one by her side but her clueless assistant, a morally ambiguous succubus, and her geriatric dog, Scout goes on the run… but in a world controlled by money and drugs, can she escape the reaching claws of a medical monopoly? From Pat Shand (Destiny NY, Guardians of the Galaxy) and Renzo Rodriguez (Hellchild) comes this healthcare horror story about the monsters creeping in the dark… human or otherwise.",
+   "descSource": "series",
+   "genres": [
+    "Horror",
+    "Science Fiction"
+   ],
+   "publisher": "Black Mask Studios",
+   "seriesStatus": "Completed",
+   "yearBegan": 2018,
+   "yearEnd": 2018,
+   "url": "https://metron.cloud/series/breathless-2018/"
   },
   "briar-2022": {
    "status": "ok",
@@ -12959,6 +13411,11 @@
    "yearBegan": 2017,
    "yearEnd": 2017,
    "url": "https://metron.cloud/series/briggs-land-lone-wolves-2017/"
+  },
+  "brik-2016": {
+   "status": "none",
+   "checked": "2026-10-24",
+   "mv": 2
   },
   "brilliant-2022": {
    "status": "none",
@@ -13157,9 +13614,31 @@
    "checked": "2026-10-21",
    "mv": 2
   },
+  "brothers-dracul-2018": {
+   "status": "ok",
+   "checked": "2026-10-24",
+   "mv": 2,
+   "id": 12817,
+   "name": "Brothers Dracul",
+   "desc": "The legend of Vlad the Impaler is the stuff of nightmares. The inspiration for the most iconic of monsters-Dracula-Vlad tortured and murdered thousands of victims. But what turned him into such a depraved killer? The truth lies in his teenage years, when Vlad and his brother Radu were held hostage by the Ottoman Empire. During this time, the brothers learned many things-archery, riding, the art of combat, matters of court...and how to stalk and slay vampires. From writer Cullen Bunn (DARK ARK, UNHOLY GRAIL, X-Men Blue, Deadpool, Venom) and artist Mirko Colak (UNHOLY GRAIL,The Punisher) comes a tale of brothers and blood that HAD to be told at AfterShock Comics.",
+   "descSource": "issue1",
+   "genres": [
+    "Horror"
+   ],
+   "publisher": "AfterShock Comics",
+   "seriesStatus": "Completed",
+   "yearBegan": 2018,
+   "yearEnd": 2018,
+   "url": "https://metron.cloud/series/brothers-dracul-2018/"
+  },
   "bruce-lee-the-dragon-rises-2016": {
    "status": "none",
    "checked": "2026-10-21",
+   "mv": 2
+  },
+  "bruce-lee-the-walk-of-the-dragon-2018": {
+   "status": "none",
+   "checked": "2026-10-24",
    "mv": 2
   },
   "bruce-wayne-not-super-2023": {
@@ -13613,6 +14092,21 @@
    "yearEnd": null,
    "url": "https://metron.cloud/series/bug-wars-the-spyder-wytch-special-2026/"
   },
+  "bulletproof-coffin-the-thousand-yard-stare-2017": {
+   "status": "ok",
+   "checked": "2026-10-24",
+   "mv": 2,
+   "id": 11418,
+   "name": "Bulletproof Coffin: The Thousand Yard Stare",
+   "desc": "The long-awaited sequel to THE BULLETPROOF COFFIN!\n\nWhen indie publisher Image Nation hires Shaky Kane to write and draw his own comic book, the artist finally finds himself free from the tedium of visualizing the geriatric ramblings of washed-up hack, David Hine. See the awful consequences as jealous rivalry leads to a bloody showdown on the convention floor.",
+   "descSource": "issue1",
+   "genres": [],
+   "publisher": "Image Comics",
+   "seriesStatus": "Completed",
+   "yearBegan": 2017,
+   "yearEnd": null,
+   "url": "https://metron.cloud/series/bulletproof-coffin-the-thousand-yard-stare-2017/"
+  },
   "bulls-of-beacon-hill-2023": {
    "status": "ok",
    "checked": "2026-10-22",
@@ -14007,6 +14501,24 @@
    "yearBegan": 2023,
    "yearEnd": 2024,
    "url": "https://metron.cloud/series/canary-2023/"
+  },
+  "cannibal-2016": {
+   "status": "ok",
+   "checked": "2026-10-24",
+   "mv": 2,
+   "id": 11430,
+   "name": "Cannibal",
+   "desc": "A BRAND NEW SERIES!\n\nFrom New York Times bestselling writer BRIAN BUCCELLATO & JENNIFER YOUNG, CANNIBAL is about the denizens of a small Everglades town desperately trying to hold onto their everyday lives at the dawn of a cannibal pandemic. With no cure in sight, the region has become split over what to do with the victims, though for Cash and Grady Hansen the answer is simple: Kill them. But all of that changes when the virus begins to infect people they love.",
+   "descSource": "issue1",
+   "genres": [
+    "Adult",
+    "Horror"
+   ],
+   "publisher": "Image Comics",
+   "seriesStatus": "Completed",
+   "yearBegan": 2016,
+   "yearEnd": 2017,
+   "url": "https://metron.cloud/series/cannibal-2016/"
   },
   "canopus-20202021": {
    "status": "none",
@@ -14699,6 +15211,11 @@
    "checked": "2026-10-19",
    "mv": 2
   },
+  "care-bears-unlock-the-magic-2019": {
+   "status": "none",
+   "checked": "2026-10-24",
+   "mv": 2
+  },
   "carmen-red-claw-belly-of-the-beast-2026": {
    "status": "ok",
    "checked": "2026-10-20",
@@ -14882,6 +15399,11 @@
    "checked": "2026-10-24",
    "mv": 2
   },
+  "caspers-ghostland-2018": {
+   "status": "none",
+   "checked": "2026-10-24",
+   "mv": 2
+  },
   "cassie-2026": {
    "status": "ok",
    "checked": "2026-10-16",
@@ -14985,9 +15507,19 @@
    "checked": "2026-10-22",
    "mv": 2
   },
+  "catalyst-prime-incidentals-2017": {
+   "status": "none",
+   "checked": "2026-10-24",
+   "mv": 2
+  },
   "catalyst-prime-seven-days-2020": {
    "status": "none",
    "checked": "2026-10-22",
+   "mv": 2
+  },
+  "catalyst-prime-summit-2017": {
+   "status": "none",
+   "checked": "2026-10-24",
    "mv": 2
   },
   "catalyst-prime-superb-2017": {
@@ -15175,6 +15707,36 @@
    "status": "none",
    "checked": "2026-10-24",
    "mv": 2
+  },
+  "cemetery-beach-2018": {
+   "status": "ok",
+   "checked": "2026-10-24",
+   "mv": 2,
+   "id": 3462,
+   "name": "Cemetery Beach",
+   "desc": "From the creators of the acclaimed TREES graphic novels, which are currently being adapted for television, comes something completely different. A professional pathfinder, his only ally a disaffected young murderess, breaks out of a torture cell in pursuit of his worst extraction scenario ever: escaping on foot across a sprawling and secret off-world colony established a hundred years ago and filled with generations of lunatics. WARREN ELLIS & JASON HOWARD ignite a high-speed new action serial.",
+   "descSource": "issue1",
+   "genres": [],
+   "publisher": "Image Comics",
+   "seriesStatus": "Completed",
+   "yearBegan": 2018,
+   "yearEnd": 2019,
+   "url": "https://metron.cloud/series/cemetery-beach-2018/"
+  },
+  "cemetery-kids-dont-die-2024": {
+   "status": "ok",
+   "checked": "2026-10-24",
+   "mv": 2,
+   "id": 6863,
+   "name": "Cemetery Kids Don't Die",
+   "desc": "Experience the exhilarating, terrifying adventure from critically acclaimed writer Zac Thompson (Hunt for Skinwalker, The Dregs) and blockbuster artist Daniel Irizarri (XINO, Judge Dredd)! The 21st century sucks hard, but it's made somewhat tolerable by the latest and greatest media innovations. Enter the Dreamwave: the first gaming console played entirely while you sleep. The obsession of millions around the globe, it's also the one point of solace for four friends known as the \"Cemetery Kids,\" who spend their nights roaming the endless maps of the most brutal horror game ever created as they seek to dethrone the \"King of Sleep\"-the Dreamwave's biggest, baddest, and most mysterious boss. Which was fun . . . until one of them doesn't wake up and finds their consciousness locked inside a horror game that is anything but imaginary. Now, the three remaining Cemetery Kids must navigate a forbidden landscape to rescue their friend-and pray that the secret lurking at its center doesn't follow them home. At the farthest edge of human perception-where science fiction and horror collide-experience 2024's most exhilarating, terrifying adventure, downloading from critically acclaimed writer Zac Thompson (Hunt for the Skinwalker, The Dregs) and blockbuster artist Daniel Irizarri (XINO, Judge Dredd)!",
+   "descSource": "issue1",
+   "genres": [],
+   "publisher": "Oni Press",
+   "seriesStatus": "Completed",
+   "yearBegan": 2024,
+   "yearEnd": 2024,
+   "url": "https://metron.cloud/series/cemetery-kids-dont-die-2024/"
   },
   "cemetery-kids-run-rabid-2025": {
    "status": "ok",
@@ -15700,6 +16262,11 @@
    "checked": "2026-10-17",
    "mv": 2
   },
+  "chilling-adventures-presents-madam-satan-hell-on-earth-2023": {
+   "status": "none",
+   "checked": "2026-10-24",
+   "mv": 2
+  },
   "chilling-adventures-presents-pops-chocklit-shoppe-of-horrors-2023": {
    "status": "ok",
    "checked": "2026-10-23",
@@ -15783,6 +16350,11 @@
    "checked": "2026-10-20",
    "mv": 2
   },
+  "chim-chum-portly-samurai-2018": {
+   "status": "none",
+   "checked": "2026-10-24",
+   "mv": 2
+  },
   "chivalry-2022": {
    "status": "none",
    "checked": "2026-10-24",
@@ -15823,6 +16395,11 @@
   "chronicles-of-the-dragon-knights-2016": {
    "status": "none",
    "checked": "2026-10-22",
+   "mv": 2
+  },
+  "chronocat-there-and-back-again-2025": {
+   "status": "none",
+   "checked": "2026-10-24",
    "mv": 2
   },
   "chrononauts-futureshock-2019": {
@@ -16130,6 +16707,21 @@
    "yearEnd": 2017,
    "url": "https://metron.cloud/series/clean-room-2015/"
   },
+  "clear-2023": {
+   "status": "ok",
+   "checked": "2026-10-24",
+   "mv": 2,
+   "id": 2784,
+   "name": "Clear",
+   "desc": "A sci-fi mystery thrill-ride into a strange dystopian future, where a neurological internet connection is transforming reality.\n\nBatman writer SCOTT SNYDER and Detective Comics artist FRANCIS MANAPUL unite to take readers on this hard-boiled sci-fi journey.",
+   "descSource": "issue1",
+   "genres": [],
+   "publisher": "ComiXology Originals",
+   "seriesStatus": "Completed",
+   "yearBegan": 2021,
+   "yearEnd": 2022,
+   "url": "https://metron.cloud/series/clear-2021/"
+  },
   "clementine-2022": {
    "status": "none",
    "checked": "2026-10-22",
@@ -16303,6 +16895,11 @@
    "checked": "2026-10-20",
    "mv": 2
   },
+  "cocaine-coast-2021": {
+   "status": "none",
+   "checked": "2026-10-24",
+   "mv": 2
+  },
   "coda-2018": {
    "status": "ok",
    "checked": "2026-10-17",
@@ -16373,6 +16970,21 @@
    "yearBegan": 2021,
    "yearEnd": 2021,
    "url": "https://metron.cloud/series/cojacaru-the-skinner-2021/"
+  },
+  "cold-blood-samurai-2019": {
+   "status": "ok",
+   "checked": "2026-10-24",
+   "mv": 2,
+   "id": 11620,
+   "name": "Cold Blood Samurai",
+   "desc": "\"We are the last warriors, the last pacifists of that school, and I leave her inheritance in your hands ... you are a Gaijin.\" A feudal Japan with anthropomorphic and samurai animals inspired by Homer's poem on \"War of Mice and Frogs\", Batrachomyomachia. As in the classic poem, one tells of the futility of war and the desire for peace by GAIJIN, a foreign salamander in a Japan of frogs invaded by lizards.",
+   "descSource": "issue1",
+   "genres": [],
+   "publisher": "Action Lab Comics",
+   "seriesStatus": "Completed",
+   "yearBegan": 2019,
+   "yearEnd": 2019,
+   "url": "https://metron.cloud/series/cold-blood-samurai-2019/"
   },
   "cold-bodies-2022": {
    "status": "none",
@@ -16476,6 +17088,11 @@
   "comic-book-history-of-comics-2016": {
    "status": "none",
    "checked": "2026-10-21",
+   "mv": 2
+  },
+  "comic-book-history-of-comics-comics-for-all-2017": {
+   "status": "none",
+   "checked": "2026-10-24",
    "mv": 2
   },
   "comixology-originals-2018-preview-book": {
@@ -16629,6 +17246,11 @@
    "yearEnd": null,
    "url": "https://metron.cloud/series/concrete-stars-over-sand-2026/"
   },
+  "confetti-realms-2023": {
+   "status": "none",
+   "checked": "2026-10-24",
+   "mv": 2
+  },
   "conquest-2099-2024": {
    "status": "ok",
    "checked": "2026-10-19",
@@ -16645,6 +17267,11 @@
    "yearBegan": 2024,
    "yearEnd": null,
    "url": "https://metron.cloud/series/conquest-2099-2024/"
+  },
+  "conspiracy-2020": {
+   "status": "none",
+   "checked": "2026-10-24",
+   "mv": 2
   },
   "constantine-distorted-illusions-2022": {
    "status": "none",
@@ -16692,6 +17319,11 @@
    "yearBegan": 2024,
    "yearEnd": 2024,
    "url": "https://metron.cloud/series/convert-2024/"
+  },
+  "cookie-and-the-kid-2019": {
+   "status": "none",
+   "checked": "2026-10-24",
+   "mv": 2
   },
   "copernicus-jones-robot-detective-2014": {
    "status": "none",
@@ -16826,6 +17458,16 @@
    "yearBegan": 2019,
    "yearEnd": 2019,
    "url": "https://metron.cloud/series/cosmic-ghost-rider-destroys-marvel-history-2019/"
+  },
+  "cosmic-scoundrels-2017": {
+   "status": "none",
+   "checked": "2026-10-24",
+   "mv": 2
+  },
+  "cosmo-2017": {
+   "status": "none",
+   "checked": "2026-10-24",
+   "mv": 2
   },
   "cosmo-the-mighty-martian-2019": {
    "status": "none",
@@ -17558,6 +18200,21 @@
    "yearEnd": 2026,
    "url": "https://metron.cloud/series/crownsville-2025/"
   },
+  "crude-2018": {
+   "status": "ok",
+   "checked": "2026-10-24",
+   "mv": 2,
+   "id": 888,
+   "name": "Crude",
+   "desc": "Killers once feared Piotr Petrovich. Now, they’ve sent his son home to him—in a body bag. Haunted by his failures, Piotr journeys across Russia to learn what type of man his son really was, while hunting the bastards who killed him. And once Piotr finds them, they will learn to fear him once more…. GLAAD Media Award-nominated writer STEVE ORLANDO (VIRGIL, Midnighter) and artist GARRY BROWN (BLACK ROAD) deliver an emotional, bone-shattering account of murder, masculinity, and mayhem.",
+   "descSource": "issue1",
+   "genres": [],
+   "publisher": "Skybound",
+   "seriesStatus": "Completed",
+   "yearBegan": 2018,
+   "yearEnd": 2018,
+   "url": "https://metron.cloud/series/crude-2018/"
+  },
   "cruel-kingdom-2025": {
    "status": "ok",
    "checked": "2026-10-18",
@@ -17745,6 +18402,11 @@
    "yearBegan": 2024,
    "yearEnd": null,
    "url": "https://metron.cloud/series/crypt-of-shadows-2024/"
+  },
+  "cthulhu-cat-2024": {
+   "status": "none",
+   "checked": "2026-10-24",
+   "mv": 2
   },
   "cuisine-chinoise-tales-of-food-and-life-2020": {
    "status": "none",
@@ -18180,6 +18842,11 @@
    "yearBegan": 2017,
    "yearEnd": 2017,
    "url": "https://metron.cloud/series/d4veocracy-2017/"
+  },
+  "daddy-daughter-day-2020": {
+   "status": "none",
+   "checked": "2026-10-24",
+   "mv": 2
   },
   "dahlia-in-the-dark-2022": {
    "status": "none",
@@ -19830,6 +20497,11 @@
    "checked": "2026-10-23",
    "mv": 2
   },
+  "dc-comics-secret-hero-society-science-fair-crisis-2019": {
+   "status": "none",
+   "checked": "2026-10-24",
+   "mv": 2
+  },
   "dc-comics-supervillains-the-complete-visual-history-2014": {
    "status": "none",
    "checked": "2026-10-21",
@@ -21252,6 +21924,23 @@
    "checked": "2026-10-23",
    "mv": 2
   },
+  "dead-kings-2018": {
+   "status": "ok",
+   "checked": "2026-10-24",
+   "mv": 2,
+   "id": 4879,
+   "name": "Dead Kings",
+   "desc": "Thrice-Nine took Sasha's brother, and it took Maria's heart.\n\nPlagued by the ramifications of a techno-magic world now thirty years gone, Thrice-Nine is a dirty folklore world that limps along, degenerating into a place filled with par-anoia and poison. Sasha Vasnetsov thought he’d escaped all that, but when news comes that his younger brother has been kidnapped by the secret police, he finds him-self dragged back into the madness with a simple goal—to find his brother.\n\nBut Sasha is going to need help to do this, and he enlists Maria Kamenaya, a former warrior with hundreds of enemy kills to her name, who was betrayed by the very coun-try she served. This quest is how they get both of those things back, in the lawless land of decapitated states...the land of DEAD KINGS.",
+   "descSource": "issue1",
+   "genres": [
+    "Science Fiction"
+   ],
+   "publisher": "AfterShock Comics",
+   "seriesStatus": "Completed",
+   "yearBegan": 2018,
+   "yearEnd": 2019,
+   "url": "https://metron.cloud/series/dead-kings-2018/"
+  },
   "dead-mall-2022": {
    "status": "ok",
    "checked": "2026-10-21",
@@ -21969,6 +22658,11 @@
    "yearEnd": 2026,
    "url": "https://metron.cloud/series/death-fight-forever-2026/"
   },
+  "death-force-the-fires-of-vengeance-2017": {
+   "status": "none",
+   "checked": "2026-10-24",
+   "mv": 2
+  },
   "death-of-copra-2025": {
    "status": "ok",
    "checked": "2026-10-22",
@@ -22601,9 +23295,19 @@
    "checked": "2026-10-23",
    "mv": 2
   },
+  "dellec-vol-2-2018": {
+   "status": "none",
+   "checked": "2026-10-24",
+   "mv": 2
+  },
   "delta-13-2018": {
    "status": "none",
    "checked": "2026-10-22",
+   "mv": 2
+  },
+  "demigod-2018": {
+   "status": "none",
+   "checked": "2026-10-24",
    "mv": 2
   },
   "demon-days-blood-feud-2022": {
@@ -22791,6 +23495,11 @@
    "yearBegan": 2016,
    "yearEnd": 2018,
    "url": "https://metron.cloud/series/dept-h-2016/"
+  },
+  "descendants-twisted-field-trip-2019": {
+   "status": "none",
+   "checked": "2026-10-24",
+   "mv": 2
   },
   "descendent-2019": {
    "status": "ok",
@@ -23401,6 +24110,11 @@
    "yearEnd": 2019,
    "url": "https://metron.cloud/series/disney-afternoon-giant-2018/"
   },
+  "disney-aladdin-four-tales-of-agrabah-2019": {
+   "status": "none",
+   "checked": "2026-10-24",
+   "mv": 2
+  },
   "disney-comics-and-stories-2018": {
    "status": "none",
    "checked": "2026-10-17",
@@ -23444,6 +24158,11 @@
   "disney-kingdoms-haunted-mansion-2020": {
    "status": "none",
    "checked": "2026-10-22",
+   "mv": 2
+  },
+  "disney-magic-kingdom-comics-2017": {
+   "status": "none",
+   "checked": "2026-10-24",
    "mv": 2
   },
   "disney-mirrorverse-2024": {
@@ -24220,6 +24939,11 @@
    "yearEnd": 2023,
    "url": "https://metron.cloud/series/dont-spit-in-the-wind-2023/"
   },
+  "doodlepool-infinity-comic-2024": {
+   "status": "none",
+   "checked": "2026-10-24",
+   "mv": 2
+  },
   "doom-2024": {
    "status": "ok",
    "checked": "2026-10-17",
@@ -24443,6 +25167,11 @@
    "checked": "2026-10-22",
    "mv": 2
   },
+  "downcast-2020": {
+   "status": "none",
+   "checked": "2026-10-24",
+   "mv": 2
+  },
   "dr-atomic-the-pipe-and-dope-book-2023": {
    "status": "none",
    "checked": "2026-10-22",
@@ -24583,6 +25312,21 @@
    "status": "none",
    "checked": "2026-10-23",
    "mv": 2
+  },
+  "dread-gods-2017": {
+   "status": "ok",
+   "checked": "2026-10-24",
+   "mv": 2,
+   "id": 14984,
+   "name": "Dread Gods",
+   "desc": "Ominous Press launches with the first of three limited series set in a science-fiction/fantasy universe of epic heroes and insidious villains. In DREAD GODS, gods in a fantasy world discover they're actually monsters in a post-apocalyptic landscape. Acclaimed creators Ron Marz and Tom Raney join with art master Bart Sears to usher in adventure like no other! Includes a backup tale by Bart Sears, and a wealth of added content.",
+   "descSource": "issue1",
+   "genres": [],
+   "publisher": "IDW Publishing",
+   "seriesStatus": "Completed",
+   "yearBegan": 2017,
+   "yearEnd": 2018,
+   "url": "https://metron.cloud/series/dread-gods-2017/"
   },
   "dread-the-hall-h-2025": {
    "status": "ok",
@@ -24827,6 +25571,23 @@
    "yearEnd": null,
    "url": "https://metron.cloud/series/ducktales-valentines-day-special-2026-2026/"
   },
+  "dudley-datson-and-the-forever-machine-2024": {
+   "status": "ok",
+   "checked": "2026-10-24",
+   "mv": 2,
+   "id": 7314,
+   "name": "Dudley Datson and the Forever Machine",
+   "desc": "From New York Times bestselling creators Scott Snyder and Jamal Igle comes this rollicking sci-fi adventure story about a boy, his dog, and a machine that controls time and space! What could go wrong? Have you ever wondered why all the great figures in history had a pet companion, and if they were all running from the same mysterious threat? Such questions have never crossed the mind of Dudley Datson, a fifteen year-old with a penchant for invention. But when dastardly foes turn his world upside down, Dudley is going to have to start facing things beyond his wildest imagination in this modern day fable.",
+   "descSource": "issue1",
+   "genres": [
+    "Science Fiction"
+   ],
+   "publisher": "Dark Horse Comics",
+   "seriesStatus": "Completed",
+   "yearBegan": 2024,
+   "yearEnd": 2024,
+   "url": "https://metron.cloud/series/dudley-datson-and-the-forever-machine-2024/"
+  },
   "duke-2023": {
    "status": "ok",
    "checked": "2026-10-18",
@@ -24989,6 +25750,11 @@
   "dungeons-and-dragons-the-thief-of-many-things-2024": {
    "status": "none",
    "checked": "2026-10-17",
+   "mv": 2
+  },
+  "dungeons-dragons-annual-2022": {
+   "status": "none",
+   "checked": "2026-10-24",
    "mv": 2
   },
   "dungeons-dragons-at-the-spine-of-the-world-2020": {
@@ -25408,6 +26174,24 @@
    "yearEnd": 2024,
    "url": "https://metron.cloud/series/edenwood-2023/"
   },
+  "edgar-allan-poes-snifter-of-blood-2020": {
+   "status": "ok",
+   "checked": "2026-10-24",
+   "mv": 2,
+   "id": 1593,
+   "name": "Edgar Allan Poe's Snifter of Blood",
+   "desc": "The Snifter of Terror returns with an all-star snark-fest under a bloody new title! Paul Cornell (Doctor Who) and Russell Braun (The Boys) reimagine Poe's \"Black Cat\" - as a dog! In \"Atlas Shrugged\" (no relation), Mr. X creator Dean Motter settles the science vs. religion debate once and for all! Plus: prose, pix, and a jaunty cover by Scary Godmother's Jill Thompson!",
+   "descSource": "issue1",
+   "genres": [
+    "Horror",
+    "Humor"
+   ],
+   "publisher": "Ahoy Comics",
+   "seriesStatus": "Completed",
+   "yearBegan": 2020,
+   "yearEnd": 2021,
+   "url": "https://metron.cloud/series/edgar-allan-poes-snifter-blood-2020/"
+  },
   "edgar-allan-poes-snifter-of-death-2021": {
    "status": "ok",
    "checked": "2026-10-24",
@@ -25440,6 +26224,11 @@
    "yearBegan": 2018,
    "yearEnd": 2019,
    "url": "https://metron.cloud/series/edgar-allan-poes-snifter-terror-2018/"
+  },
+  "edgar-allan-poes-snifter-of-terror-season-2-2019": {
+   "status": "none",
+   "checked": "2026-10-24",
+   "mv": 2
   },
   "edgar-rice-burroughs-sketchbook-2021": {
    "status": "none",
@@ -25601,6 +26390,11 @@
   "ekho-2016": {
    "status": "none",
    "checked": "2026-10-19",
+   "mv": 2
+  },
+  "eleanor-and-the-egret-2017": {
+   "status": "none",
+   "checked": "2026-10-24",
    "mv": 2
   },
   "elecboy-2021": {
@@ -25866,6 +26660,11 @@
    "yearEnd": null,
    "url": "https://metron.cloud/series/emilies-inheritance-2024/"
   },
+  "emma-2012-tpb": {
+   "status": "none",
+   "checked": "2026-10-24",
+   "mv": 2
+  },
   "emma-frost-the-white-queen-2025": {
    "status": "ok",
    "checked": "2026-10-17",
@@ -25913,6 +26712,11 @@
   "empowered-omnibus-2020": {
    "status": "none",
    "checked": "2026-10-20",
+   "mv": 2
+  },
+  "empress-charlotte-2018": {
+   "status": "none",
+   "checked": "2026-10-24",
    "mv": 2
   },
   "empress-death-2026": {
@@ -26219,6 +27023,11 @@
    "yearBegan": 2022,
    "yearEnd": 2022,
    "url": "https://metron.cloud/series/e-ratic-recharged-2022/"
+  },
+  "ernest-rebecca-2020": {
+   "status": "none",
+   "checked": "2026-10-24",
+   "mv": 2
   },
   "eros-psyche-2021": {
    "status": "none",
@@ -26572,6 +27381,11 @@
    "yearEnd": 2023,
    "url": "https://metron.cloud/series/etheres-2023/"
   },
+  "eugenic-2017": {
+   "status": "none",
+   "checked": "2026-10-24",
+   "mv": 2
+  },
   "eve-2021": {
    "status": "ok",
    "checked": "2026-10-17",
@@ -26879,6 +27693,11 @@
    "yearBegan": 2017,
    "yearEnd": 2019,
    "url": "https://metron.cloud/series/evolution-2017/"
+  },
+  "evolution-darwin-god-and-the-horsepeople-2022": {
+   "status": "none",
+   "checked": "2026-10-24",
+   "mv": 2
   },
   "excalibur-2019": {
    "status": "ok",
@@ -27373,6 +28192,11 @@
    "yearEnd": null,
    "url": "https://metron.cloud/series/faceless-and-the-family-maze-of-the-mechanical-aliens-2026/"
   },
+  "fafhrd-and-the-gray-mouser-2024-": {
+   "status": "none",
+   "checked": "2026-10-24",
+   "mv": 2
+  },
   "failsafe-2017": {
    "status": "ok",
    "checked": "2026-10-24",
@@ -27674,6 +28498,16 @@
    "yearBegan": 2019,
    "yearEnd": 2021,
    "url": "https://metron.cloud/series/family-tree-2019/"
+  },
+  "fann-club-batman-squad-2023": {
+   "status": "none",
+   "checked": "2026-10-24",
+   "mv": 2
+  },
+  "fantasima-2024": {
+   "status": "none",
+   "checked": "2026-10-24",
+   "mv": 2
   },
   "fantastic-four-2018": {
    "status": "ok",
@@ -28012,6 +28846,11 @@
    "yearBegan": 2023,
    "yearEnd": 2024,
    "url": "https://metron.cloud/series/fantasy-comics-2023/"
+  },
+  "fantomah-2017": {
+   "status": "none",
+   "checked": "2026-10-24",
+   "mv": 2
   },
   "far-cry-esperanzas-tears-2022": {
    "status": "ok",
@@ -28912,6 +29751,21 @@
    "checked": "2026-10-19",
    "mv": 2
   },
+  "flavor-2018": {
+   "status": "ok",
+   "checked": "2026-10-24",
+   "mv": 2,
+   "id": 12182,
+   "name": "Flavor",
+   "desc": "Within a strange walled city, an unlicensed chef discovers a mystery that threatens to end it all. Join JOSEPH KEATINGE (GLORY, SHUTTER) and WOOK JIN CLARK (Adventure Time: The Flip Side) on this culinary epic adventure—FLAVOR—where chefs are the ultimate celebrity and food is the most valued commodity. The high-stakes competition of Hunger Games collides with the lush, MIYAZAKI-esque worldbuilding in this delectable new ongoing series featuring culinary consulting and bonus content by ALI BOUZARI, renowned food scientist and author of the IACP Award-winning cookbook Ingredient: Unveiling the Essential Elements of Food.",
+   "descSource": "issue1",
+   "genres": [],
+   "publisher": "Image Comics",
+   "seriesStatus": "Completed",
+   "yearBegan": 2018,
+   "yearEnd": 2018,
+   "url": "https://metron.cloud/series/flavor-2018/"
+  },
   "flavor-girls-2022": {
    "status": "ok",
    "checked": "2026-10-17",
@@ -29096,6 +29950,11 @@
    "checked": "2026-10-21",
    "mv": 2
   },
+  "fortune-and-glory-a-true-hollywood-comic-book-story-2019": {
+   "status": "none",
+   "checked": "2026-10-24",
+   "mv": 2
+  },
   "fortune-and-glory-the-musical-2024": {
    "status": "none",
    "checked": "2026-10-23",
@@ -29119,6 +29978,11 @@
    "url": "https://metron.cloud/series/foulness-in-the-walls-2022/"
   },
   "four-gathered-on-christmas-eve-2023": {
+   "status": "none",
+   "checked": "2026-10-24",
+   "mv": 2
+  },
+  "fox-and-hound-2018": {
    "status": "none",
    "checked": "2026-10-24",
    "mv": 2
@@ -29337,6 +30201,11 @@
    "yearBegan": 2019,
    "yearEnd": 2020,
    "url": "https://metron.cloud/series/friendly-neighborhood-spider-man-2019/"
+  },
+  "frnk-2019": {
+   "status": "none",
+   "checked": "2026-10-24",
+   "mv": 2
   },
   "from-beyond-the-unknown-2020": {
    "status": "none",
@@ -30479,6 +31348,11 @@
    "yearEnd": null,
    "url": "https://metron.cloud/series/gatchaman-ryu-scavengers-2025/"
   },
+  "gatsby-2023": {
+   "status": "none",
+   "checked": "2026-10-24",
+   "mv": 2
+  },
   "gaya-2025": {
    "status": "ok",
    "checked": "2026-10-20",
@@ -30519,6 +31393,11 @@
   "gears-of-war-the-rise-of-raam-2018": {
    "status": "none",
    "checked": "2026-10-21",
+   "mv": 2
+  },
+  "gears-pop-2019": {
+   "status": "none",
+   "checked": "2026-10-24",
    "mv": 2
   },
   "geekgirl-2016": {
@@ -30958,6 +31837,21 @@
    "yearEnd": 2024,
    "url": "https://metron.cloud/series/get-fury-2024/"
   },
+  "getting-it-together-2020": {
+   "status": "ok",
+   "checked": "2026-10-24",
+   "mv": 2,
+   "id": 12354,
+   "name": "Getting It Together",
+   "desc": "SERIES PREMIERE!\n\n“Pitched toward the audience for relationship drama/comedies that made last year’s Laura Dean Keeps Breaking Up With Me into a hit.” —The Hollywood Reporter\n\nEach extra-juicy, extra-length issue of this must-read miniseries is guaranteed to satiate even the thirstiest drama-hound! Newcomer artist JENNY D. FINE shines alongside Marvel Comics’ Iceman writer SINA GRACE and co-creator OMAR SPAHI in the all-new modern dramedy you didn’t know you needed! Sam and Jack are best friends, and Sam is dating Lauren, Jack’s indie rocker sister and roommate. Tensions skyrocket when Sam and Lauren decide to open up their long-term relationship, sending social shockwaves through their friend group and the entire Bay Area, leaving poor Jack caught in the middle! Life gets pretty messy when you’re in your 20s and your friends are your family.",
+   "descSource": "issue1",
+   "genres": [],
+   "publisher": "Image Comics",
+   "seriesStatus": "Completed",
+   "yearBegan": 2020,
+   "yearEnd": 2021,
+   "url": "https://metron.cloud/series/getting-it-together-2020/"
+  },
   "ghost-cage-2022": {
    "status": "ok",
    "checked": "2026-10-20",
@@ -30972,6 +31866,11 @@
    "yearBegan": 2022,
    "yearEnd": 2022,
    "url": "https://metron.cloud/series/ghost-cage-2022/"
+  },
+  "ghost-hog-2019": {
+   "status": "none",
+   "checked": "2026-10-24",
+   "mv": 2
   },
   "ghost-machine-2024": {
    "status": "ok",
@@ -31765,6 +32664,11 @@
    "yearBegan": 2021,
    "yearEnd": null,
    "url": "https://metron.cloud/series/giant-size-amazing-spider-man-kings-ransom-2021/"
+  },
+  "giantkillers-2017": {
+   "status": "none",
+   "checked": "2026-10-24",
+   "mv": 2
   },
   "giantman-2019": {
    "status": "ok",
@@ -33148,6 +34052,11 @@
    "yearEnd": 2023,
    "url": "https://metron.cloud/series/gold-goblin-2023/"
   },
+  "golden-dogs-2016": {
+   "status": "none",
+   "checked": "2026-10-24",
+   "mv": 2
+  },
   "golden-rage-2022": {
    "status": "ok",
    "checked": "2026-10-21",
@@ -33319,6 +34228,11 @@
    "yearEnd": 2021,
    "url": "https://metron.cloud/series/good-luck-2021/"
   },
+  "good-night-hem-2021": {
+   "status": "none",
+   "checked": "2026-10-24",
+   "mv": 2
+  },
   "goodnight-batcave-2016": {
    "status": "none",
    "checked": "2026-10-21",
@@ -33327,6 +34241,11 @@
   "goosebumps-download-and-die-2018": {
    "status": "none",
    "checked": "2026-10-22",
+   "mv": 2
+  },
+  "goosebumps-horrors-of-the-witch-house-2019": {
+   "status": "none",
+   "checked": "2026-10-24",
    "mv": 2
   },
   "goosebumps-monsters-at-midnight-2017": {
@@ -34024,6 +34943,11 @@
    "checked": "2026-10-23",
    "mv": 2
   },
+  "gretel-seeds-of-despair-2023": {
+   "status": "none",
+   "checked": "2026-10-24",
+   "mv": 2
+  },
   "grim-2022": {
    "status": "ok",
    "checked": "2026-10-18",
@@ -34056,6 +34980,16 @@
    "yearBegan": 2016,
    "yearEnd": null,
    "url": "https://metron.cloud/series/grimm-fairy-tales-2016/"
+  },
+  "grimm-fairy-tales-2017-armed-forces-edition": {
+   "status": "none",
+   "checked": "2026-10-24",
+   "mv": 2
+  },
+  "grimm-fairy-tales-2017-halloween-special": {
+   "status": "none",
+   "checked": "2026-10-24",
+   "mv": 2
   },
   "grimm-fairy-tales-2017-swimsuit-edition": {
    "status": "none",
@@ -34095,6 +35029,16 @@
   "grimm-fairy-tales-2021-swimsuit-2021": {
    "status": "none",
    "checked": "2026-10-23",
+   "mv": 2
+  },
+  "grimm-fairy-tales-2022-holiday-pinup-special-2022": {
+   "status": "none",
+   "checked": "2026-10-24",
+   "mv": 2
+  },
+  "grimm-fairy-tales-2022-horror-pinup-special-2022-": {
+   "status": "none",
+   "checked": "2026-10-24",
    "mv": 2
   },
   "grimm-fairy-tales-2022-may-the-4th-cosplay-special-2022": {
@@ -34272,6 +35216,11 @@
    "checked": "2026-10-24",
    "mv": 2
   },
+  "grimm-tales-of-terror-2019-halloween-special": {
+   "status": "none",
+   "checked": "2026-10-24",
+   "mv": 2
+  },
   "grimm-tales-of-terror-2025": {
    "status": "none",
    "checked": "2026-10-18",
@@ -34280,6 +35229,11 @@
   "grimm-tales-of-terror-black-white-special-edition-2018": {
    "status": "none",
    "checked": "2026-10-22",
+   "mv": 2
+  },
+  "grimm-tales-of-terror-halloween-special-2018": {
+   "status": "none",
+   "checked": "2026-10-24",
    "mv": 2
   },
   "grimm-tales-of-terror-quarterly-back-to-school-2022": {
@@ -34307,9 +35261,19 @@
    "checked": "2026-10-23",
    "mv": 2
   },
+  "grimm-universe-presents-2019": {
+   "status": "none",
+   "checked": "2026-10-24",
+   "mv": 2
+  },
   "grimm-universe-presents-quarterly-2021-holiday-special-2021": {
    "status": "none",
    "checked": "2026-10-23",
+   "mv": 2
+  },
+  "grimm-universe-presents-quarterly-2023-holiday-special-2023": {
+   "status": "none",
+   "checked": "2026-10-24",
    "mv": 2
   },
   "grimm-universe-presents-quarterly-cinderella-fairy-world-massacre-2023": {
@@ -34380,6 +35344,60 @@
    "yearEnd": 2023,
    "url": "https://metron.cloud/series/groo-gods-against-groo-2022/"
   },
+  "groo-meets-tarzan-2021": {
+   "status": "ok",
+   "checked": "2026-10-24",
+   "mv": 2,
+   "id": 2509,
+   "name": "Groo Meets Tarzan",
+   "desc": "Evanier! Aragones! Yeates! The team behind the hit Groo the Wanderer series goes to Comic-Con, finding inspiration not only in their enthusiastic fans but in their fellow creators, too—especially those working on Tarzan comics. Sergio Aragones finds a way to introduce the two characters to each other, and so Tarzan, the lord of the jungle, is set on a path that will lead him to Groo, the master of cheese dip. Also includes the return of the Rufferto backup strips! Groo and Tarzan return to Dark Horse in this exciting crossover!",
+   "descSource": "issue1",
+   "genres": [
+    "Fantasy",
+    "Humor"
+   ],
+   "publisher": "Dark Horse Comics",
+   "seriesStatus": "Completed",
+   "yearBegan": 2021,
+   "yearEnd": 2021,
+   "url": "https://metron.cloud/series/groo-meets-tarzan-2021/"
+  },
+  "groo-minstrel-melodies-2024": {
+   "status": "ok",
+   "checked": "2026-10-24",
+   "mv": 2,
+   "id": 8337,
+   "name": "Groo: Minstrel Melodies",
+   "desc": "The Groo-verse's hapless wandering minstrel and his smart daughter, Kayli, roam the land... Traveling from town to town, they sing tales of Groo wherever they go, bringing laughter, joy, and lessons to the townsfolk... and hopefully some kopins to their pockets! Sergio Aragonés and Mark Evanier begin another epic, hilarious Groo series, with colors by Carrie Strachan and letters by Stan Sakai! Each issue features a Rufferto backup story!",
+   "descSource": "issue1",
+   "genres": [
+    "Fantasy",
+    "Humor"
+   ],
+   "publisher": "Dark Horse Comics",
+   "seriesStatus": "Ongoing",
+   "yearBegan": 2024,
+   "yearEnd": null,
+   "url": "https://metron.cloud/series/groo-minstrel-melodies-2024/"
+  },
+  "groo-play-of-the-gods-2017": {
+   "status": "ok",
+   "checked": "2026-10-24",
+   "mv": 2,
+   "id": 12165,
+   "name": "Groo: Play of the Gods",
+   "desc": "The return of Groo!\n\nIn this, the first installment in the newest Groo miniseries (which is continued from the last Groo miniseries), the stupidest hero in the comic book shop finds himself in a new village . . . a village where you pray to the proper god or you pray for your life. And even the other gods know that they are all players. Its from the award-winning team of Sergio Aragones and Mark Evanier, with lettering by Stan Sakai, coloring by Tom Luth, and a running commentary by the gods above.\n\nThe all-star team returns: Sergio Aragonés, Mark Evanier, Tom Luth, and Stan Sakai.\n\nEisner and Harvey Awardwinning creators and an Eisner Award-winning title!",
+   "descSource": "issue1",
+   "genres": [
+    "Fantasy",
+    "Humor"
+   ],
+   "publisher": "Dark Horse Comics",
+   "seriesStatus": "Completed",
+   "yearBegan": 2017,
+   "yearEnd": 2017,
+   "url": "https://metron.cloud/series/groo-play-of-the-gods-2017/"
+  },
   "groo-the-prophecy-2026": {
    "status": "ok",
    "checked": "2026-10-20",
@@ -34414,6 +35432,21 @@
    "yearBegan": 2023,
    "yearEnd": 2023,
    "url": "https://metron.cloud/series/groot-2023/"
+  },
+  "grrl-scouts-stone-ghost-2021": {
+   "status": "ok",
+   "checked": "2026-10-24",
+   "mv": 2,
+   "id": 2903,
+   "name": "Grrl Scouts: Stone Ghost",
+   "desc": "Superstar artist and comics-makin’ weirdo JIM MAHFOOD returns to his creator-owned GRRL SCOUTS universe for a brand-new six-issue miniseries! Join DIO, TURTLENECK JONES, and GORDI as they face off against the sinister and unpredictable evil of THE TEETH! Hilarious, over-the-top, psychedelic adventure will ensue, you guys! Packed from cover to cover (no ads!) with completely unique and eye-poppin' MAHFOOD art, including bonus comics and behind-the-scenes fun! Plus, an absolutely stunning variant cover from our good friend PEACH MOMOKO! Feel the Funk!",
+   "descSource": "issue1",
+   "genres": [],
+   "publisher": "Image Comics",
+   "seriesStatus": "Completed",
+   "yearBegan": 2021,
+   "yearEnd": 2022,
+   "url": "https://metron.cloud/series/grrl-scouts-stone-ghost-2021/"
   },
   "grumpy-cat-the-grumpus-and-other-horrible-holiday-tales-2023": {
    "status": "none",
@@ -34567,6 +35600,23 @@
    "yearEnd": null,
    "url": "https://metron.cloud/series/guardians-of-the-galaxy-mission-breakout-2017/"
   },
+  "guardians-of-the-galaxy-mother-entropy-2017": {
+   "status": "ok",
+   "checked": "2026-10-24",
+   "mv": 2,
+   "id": 4790,
+   "name": "Guardians of the Galaxy: Mother Entropy",
+   "desc": "The Guardians owe everyone on Knowhere money, so they're forced to do a job for the local police.\n\nBut that gets them running afoul of Pip the Troll and a mysterious entity known only as Mother Entropy. And that's when the fun begins.",
+   "descSource": "issue1",
+   "genres": [
+    "Super-Hero"
+   ],
+   "publisher": "Marvel",
+   "seriesStatus": "Completed",
+   "yearBegan": 2017,
+   "yearEnd": 2017,
+   "url": "https://metron.cloud/series/guardians-of-the-galaxy-mother-entropy-2017/"
+  },
   "guardians-of-the-galaxy-mu": {
    "status": "none",
    "checked": "2026-10-22",
@@ -34608,6 +35658,11 @@
    "yearBegan": 2019,
    "yearEnd": null,
    "url": "https://metron.cloud/series/guardians-galaxy-prodigal-sun-2019/"
+  },
+  "gudetama-2020": {
+   "status": "none",
+   "checked": "2026-10-24",
+   "mv": 2
   },
   "guidebook-to-the-marvel-cinematic-universe-marvels-doctor-strange": {
    "status": "none",
@@ -34685,6 +35740,11 @@
    "yearBegan": 2019,
    "yearEnd": 2019,
    "url": "https://metron.cloud/series/gunning-for-hits-2019/"
+  },
+  "gunning-for-ramirez-2020": {
+   "status": "none",
+   "checked": "2026-10-24",
+   "mv": 2
   },
   "gunpowder-prophets-2025": {
    "status": "ok",
@@ -34794,6 +35854,11 @@
    "yearBegan": 2023,
    "yearEnd": 2024,
    "url": "https://metron.cloud/series/hack-slash-back-to-school-2023/"
+  },
+  "hackslash-15th-anniversary-special-2019": {
+   "status": "none",
+   "checked": "2026-10-24",
+   "mv": 2
   },
   "hackslash-body-bags-2024": {
    "status": "none",
@@ -35047,6 +36112,23 @@
    "status": "none",
    "checked": "2026-10-23",
    "mv": 2
+  },
+  "happy-horror-days-2022": {
+   "status": "ok",
+   "checked": "2026-10-24",
+   "mv": 2,
+   "id": 4406,
+   "name": "Happy Horror Days",
+   "desc": "'Twas the night before Christmas, and all through the house, not a creature was stirring not even a... werewolf?! The holidays look a little different in Riverdale this year-Santa's nowhere in sight but Krampus is on the rampage! Who can take him down? Why only someone who can meet his match, and that someone's best friend/monster hunter. That's right, WereJug returns to do battle with the horned and hoofed holiday beast with Betty Cooper in his corner! Then, we dive into the true story of the Icelandic yule cat, J lakötturinn, and her master-Sheila Wu?! Finally, Reggie meets a nice girl that he takes to the holiday dance-but things aren't as they seem when she systematically dismantles Reggie's life! The holidays are horrifying in this special horror anthology, that reunites the team of Jughead: the Hunger!",
+   "descSource": "issue1",
+   "genres": [
+    "Horror"
+   ],
+   "publisher": "Archie Comics",
+   "seriesStatus": "Completed",
+   "yearBegan": 2023,
+   "yearEnd": null,
+   "url": "https://metron.cloud/series/happy-horror-days-2023/"
   },
   "happy-hour-2020": {
    "status": "ok",
@@ -35495,6 +36577,21 @@
    "checked": "2026-10-24",
    "mv": 2
   },
+  "hashtag-danger-2019": {
+   "status": "ok",
+   "checked": "2026-10-24",
+   "mv": 2,
+   "id": 261,
+   "name": "Hashtag: Danger",
+   "desc": "Three scientific adventurers face strange creatures, lost civilizations, and supernatural threats... when they're not too busy being complete jerks to each other. PLUS! Follow the depressing misadventures of Snelson, an over-the-hill comedian who peaked in the 90s. EXTRA! Pics, prose, and possibly poems! Painted cover by Richard Williams (MAD, Edgar Allan Poe's Snifter of Terror).",
+   "descSource": "issue1",
+   "genres": [],
+   "publisher": "Ahoy Comics",
+   "seriesStatus": "Completed",
+   "yearBegan": 2019,
+   "yearEnd": 2019,
+   "url": "https://metron.cloud/series/hashtag-danger-2019/"
+  },
   "hate-revisited-2024": {
    "status": "ok",
    "checked": "2026-10-21",
@@ -35725,6 +36822,24 @@
    "checked": "2026-10-24",
    "mv": 2
   },
+  "heart-attack-2019": {
+   "status": "ok",
+   "checked": "2026-10-24",
+   "mv": 2,
+   "id": 12480,
+   "name": "Heart Attack",
+   "desc": "SERIES PREMIERE!\n\nSuperpowers and teenage romance collide in the newest Skybound original by SHAWN KITTELSEN (Mortal Kombat 11) and ERIC ZAWADZKI (The Dregs, Eternal)!\n\nGene therapy has saved Americans from disease—only to give birth to Variants: people with powers so unique, the government denies their human rights. But a rebellion has begun…\n\nCharlie North is on the run from the police when he crosses paths with Jill Kearney. Instant attraction becomes mass destruction when they unlock powers neither knew they had. Now, the question isn’t how to use them—but how far they’re willing to go.",
+   "descSource": "issue1",
+   "genres": [
+    "Crime",
+    "Romance"
+   ],
+   "publisher": "Skybound",
+   "seriesStatus": "Completed",
+   "yearBegan": 2019,
+   "yearEnd": 2020,
+   "url": "https://metron.cloud/series/heart-attack-2019/"
+  },
   "heartbeat-2019": {
    "status": "ok",
    "checked": "2026-10-21",
@@ -35834,6 +36949,11 @@
    "yearBegan": 2024,
    "yearEnd": 2024,
    "url": "https://metron.cloud/series/helen-of-wyndhorn-2024/"
+  },
+  "helena-crash-2017": {
+   "status": "none",
+   "checked": "2026-10-24",
+   "mv": 2
   },
   "hell-heist-2024": {
    "status": "none",
@@ -36401,6 +37521,16 @@
    "yearEnd": 2023,
    "url": "https://metron.cloud/series/hellcat-2023/"
   },
+  "hellchild-inferno-2018": {
+   "status": "none",
+   "checked": "2026-10-24",
+   "mv": 2
+  },
+  "hellchild-the-unholy-2016": {
+   "status": "none",
+   "checked": "2026-10-24",
+   "mv": 2
+  },
   "hellcop-2012": {
    "status": "none",
    "checked": "2026-10-20",
@@ -36742,6 +37872,16 @@
    "checked": "2026-10-23",
    "mv": 2
   },
+  "her-infernal-descent-2018": {
+   "status": "none",
+   "checked": "2026-10-24",
+   "mv": 2
+  },
+  "herald-lovecraft-tesla-bundles-of-joy-2019": {
+   "status": "none",
+   "checked": "2026-10-24",
+   "mv": 2
+  },
   "herbie-infinity-comic-2025": {
    "status": "none",
    "checked": "2026-10-21",
@@ -36962,6 +38102,11 @@
    "checked": "2026-10-23",
    "mv": 2
   },
+  "hex-vets-the-river-guardian-2024": {
+   "status": "none",
+   "checked": "2026-10-24",
+   "mv": 2
+  },
   "hex-wives-2018": {
    "status": "ok",
    "checked": "2026-10-22",
@@ -37091,6 +38236,11 @@
   "hifi-fight-club-2017": {
    "status": "none",
    "checked": "2026-10-22",
+   "mv": 2
+  },
+  "high-crimes-2021": {
+   "status": "none",
+   "checked": "2026-10-24",
    "mv": 2
   },
   "high-level-2019": {
@@ -37244,6 +38394,11 @@
    "yearEnd": 2022,
    "url": "https://metron.cloud/series/hit-me-2022/"
   },
+  "hitech-heroes-presented-by-hanes-2017": {
+   "status": "none",
+   "checked": "2026-10-24",
+   "mv": 2
+  },
   "hitgirl-2018": {
    "status": "ok",
    "checked": "2026-10-20",
@@ -37358,6 +38513,21 @@
    "yearEnd": 2022,
    "url": "https://metron.cloud/series/home-sick-pilots-2020/"
   },
+  "homies-2016": {
+   "status": "ok",
+   "checked": "2026-10-24",
+   "mv": 2,
+   "id": 10473,
+   "name": "Homies",
+   "desc": "It’s time to go back to the barrío with the HOMIES! The surprise hit of the 90’s is back in a brand-new comic book series co-plotted by original HOMIES creator David Gonzalez and “Adventures of Grumpy Cat” writer Elliott Serrano, featuring all-new stories and never-before-seen characters.\n\nWith art and covers by Andrew Huerta, HOMIES #1 features the long-awaited wedding of Hollywood and Gata. It’s been a day that she has imagined for her entire life, but now Gata has to deal with everyone trying to ruin it! What will she do when she hears the whispers about Hollywood and his womanizing ways? Will the wedding still take place when everything that can go wrong actually does? Is Hollywood destined to be a bachelor for life, or will Gata finally get him to settle down? It’s a day that will be full of love, laughs and heartbreak. But for whom?",
+   "descSource": "issue1",
+   "genres": [],
+   "publisher": "Dynamite Entertainment",
+   "seriesStatus": "Completed",
+   "yearBegan": 2016,
+   "yearEnd": 2017,
+   "url": "https://metron.cloud/series/homies-2016/"
+  },
   "honor-and-curse-2019": {
    "status": "ok",
    "checked": "2026-10-23",
@@ -37459,6 +38629,11 @@
   "hotel-dare-2019": {
    "status": "none",
    "checked": "2026-10-23",
+   "mv": 2
+  },
+  "hotel-rem-2023": {
+   "status": "none",
+   "checked": "2026-10-24",
    "mv": 2
   },
   "hotell-2020": {
@@ -38299,6 +39474,11 @@
    "yearEnd": 2005,
    "url": "https://metron.cloud/series/identity-crisis-2004/"
   },
+  "idw-endless-summer-dungeons-dragons-saturday-morning-adventures-2023": {
+   "status": "none",
+   "checked": "2026-10-24",
+   "mv": 2
+  },
   "idw-endless-summer-sonic-the-hedgehog-2023": {
    "status": "ok",
    "checked": "2026-10-18",
@@ -38434,6 +39614,21 @@
    "yearBegan": 2017,
    "yearEnd": 2018,
    "url": "https://metron.cloud/series/imaginary-fiends-2017/"
+  },
+  "imbokodo-2024": {
+   "status": "ok",
+   "checked": "2026-10-24",
+   "mv": 2,
+   "id": 9390,
+   "name": "Imbokodo",
+   "desc": "In the land of the pyramid sun, a single step of the Badimu is a thousand Muntu life times.\n\nThis is the land of NDAWO, home to the first Muntu. A thousand years after the great war between the Badimu that brought darkness to the land and birthed a new kind of Muntu — one that wants, owns, and is never sated — Ndawo remains divided. And recently, numerous young girls have gone missing from their villages, a trail of carnage left in their wake.\n\nIn the empire of Monomotapa, Queen Nyameka commands the greatest warriors in all of Ndawo, the IMBOKODO. Here, a nameless woman will fight to secure her place amongst the Imbokodo — to stand for the Queen, the Empire, and for the freedom of all Muntu.\n\nAdds to the greatly needed representation of Black heroes in the world of comics and fantasy.\n\nAfrofuturism at its best.",
+   "descSource": "issue1",
+   "genres": [],
+   "publisher": "Dark Horse Comics",
+   "seriesStatus": "Ongoing",
+   "yearBegan": 2024,
+   "yearEnd": null,
+   "url": "https://metron.cloud/series/imbokodo-2024/"
   },
   "immoral-xmen-2023": {
    "status": "ok",
@@ -38645,6 +39840,11 @@
    "yearEnd": 2024,
    "url": "https://metron.cloud/series/immortal-x-men-2022/"
   },
+  "immortals-fenyx-rising-a-travelers-guide-to-the-golden-isle-2022": {
+   "status": "none",
+   "checked": "2026-10-24",
+   "mv": 2
+  },
   "immortals-fenyx-rising-from-great-beginnings-2021": {
    "status": "none",
    "checked": "2026-10-21",
@@ -38679,6 +39879,24 @@
    "yearBegan": 2022,
    "yearEnd": null,
    "url": "https://metron.cloud/series/impact-winter-2022/"
+  },
+  "impact-winter-evenfall-2024": {
+   "status": "ok",
+   "checked": "2026-10-24",
+   "mv": 2,
+   "id": 7877,
+   "name": "Impact Winter: Evenfall",
+   "desc": "The year is 1953. The Cold War is at its height, and intelligence operative Penelope Chambers is running an off-the-books investigation into the disappearance of female agents in Eastern Europe. When she’s called to Soviet Prague for a routine drop, Penelope will come face to face with death or the possibility of everlasting life...\n\nFrom creator TRAVIS BEACHAM (Pacific Rim) and artist SUMEYYE KESGIN (VOYAGIS) comes another official prequel story to the hit Audible Original.",
+   "descSource": "issue1",
+   "genres": [
+    "Horror",
+    "War"
+   ],
+   "publisher": "Image Comics",
+   "seriesStatus": "Completed",
+   "yearBegan": 2024,
+   "yearEnd": null,
+   "url": "https://metron.cloud/series/impact-winter-evenfall-2024/"
   },
   "impact-winter-evenfall-2025": {
    "status": "ok",
@@ -40010,6 +41228,11 @@
    "checked": "2026-10-22",
    "mv": 2
   },
+  "iron-maiden-legacy-of-the-beast-night-city-2019": {
+   "status": "none",
+   "checked": "2026-10-24",
+   "mv": 2
+  },
   "iron-man-2020": {
    "status": "ok",
    "checked": "2026-10-18",
@@ -40426,6 +41649,11 @@
    "checked": "2026-10-19",
    "mv": 2
   },
+  "jack-hammer-paper-hero-2018": {
+   "status": "none",
+   "checked": "2026-10-24",
+   "mv": 2
+  },
   "jack-kirby-the-epic-life-of-the-king-of-comics-2020": {
    "status": "none",
    "checked": "2026-10-21",
@@ -40451,6 +41679,11 @@
   "jack-wolfgang-2018": {
    "status": "none",
    "checked": "2026-10-23",
+   "mv": 2
+  },
+  "jackpot-2016": {
+   "status": "none",
+   "checked": "2026-10-24",
    "mv": 2
   },
   "jackpot-2024": {
@@ -40486,6 +41719,11 @@
    "yearBegan": 2024,
    "yearEnd": 2024,
    "url": "https://metron.cloud/series/jackpot-and-black-cat-2024/"
+  },
+  "jade-street-protection-services-2016": {
+   "status": "none",
+   "checked": "2026-10-24",
+   "mv": 2
   },
   "james-bond-007-2018": {
    "status": "none",
@@ -40598,6 +41836,28 @@
    "yearBegan": 2021,
    "yearEnd": 2021,
    "url": "https://metron.cloud/series/james-bond-agent-of-spectre-2021/"
+  },
+  "james-bond-casino-royale-2018": {
+   "status": "none",
+   "checked": "2026-10-24",
+   "mv": 2
+  },
+  "james-bond-felix-leiter-2017": {
+   "status": "ok",
+   "checked": "2026-10-24",
+   "mv": 2,
+   "id": 10481,
+   "name": "James Bond: Felix Leiter",
+   "desc": "From superstar creative team James Robinson (Starman, Scarlet Witch) and Aaron Campbell (The Shadow, Uncanny) comes the Bond spin-off highlighting 007’s American counterpart! Felix Leiter finds himself in Japan, tracking down a beautiful, Russian spy from his past. But when the mission takes a turn for the worse, he will discover that there are more deadly schemes afoot in Tokyo and beyond!",
+   "descSource": "issue1",
+   "genres": [
+    "Espionage"
+   ],
+   "publisher": "Dynamite Entertainment",
+   "seriesStatus": "Completed",
+   "yearBegan": 2017,
+   "yearEnd": 2017,
+   "url": "https://metron.cloud/series/james-bond-felix-leiter-2017/"
   },
   "james-bond-hammerhead-2016": {
    "status": "ok",
@@ -40826,6 +42086,11 @@
    "yearEnd": 2018,
    "url": "https://metron.cloud/series/jeepers-creepers-2018/"
   },
+  "jeff-steinberg-2016": {
+   "status": "none",
+   "checked": "2026-10-24",
+   "mv": 2
+  },
   "jeff-the-land-shark-2025": {
    "status": "ok",
    "checked": "2026-10-18",
@@ -41022,6 +42287,11 @@
   "jeremy-2016": {
    "status": "none",
    "checked": "2026-10-22",
+   "mv": 2
+  },
+  "jessica-blandy-20182019": {
+   "status": "none",
+   "checked": "2026-10-24",
    "mv": 2
   },
   "jessica-jones-2016": {
@@ -41644,6 +42914,23 @@
    "checked": "2026-10-24",
    "mv": 2
   },
+  "jonesy-2016": {
+   "status": "ok",
+   "checked": "2026-10-24",
+   "mv": 2,
+   "id": 5430,
+   "name": "Jonesy",
+   "desc": "What’s to Love: Just in time for Valentine’s Day, Jonesy is a comic about love that makes us swoon! Sam Humphries (Legendary Star Lord, Citizen Jack) and fresh talent Caitlin Rose Boyle (Buck n’ Lou & the Night Crew) bring something special to BOOM! Box with this series about mad-cap shenanigans, friendship, pals, being a teenager, and figuring out who you are...with a teen cupid twist! If you like Giant Days, dig adorkable romance stories, or just want to smile from ear to ear after reading a comic, you’ll fall in love with Jonesy!\n\nWhat It Is: Jonesy is a self-described “cool dork” who spends her time making zines nobody reads, watching anime, and listening to riot grrrl bands and 1D simultaneously. But she has a secret nobody knows. She has the power to make people fall in love! Anyone. With anything. She’s a cupid in plaid. With a Tumblr. There’s only one catch—it doesn’t work on herself. She’s gonna have to find love the old-fashioned way, and in the meantime, figure out how to distract herself from the real emotions she inevitably has to face when her powers go wrong...",
+   "descSource": "issue1",
+   "genres": [
+    "Humor"
+   ],
+   "publisher": "Boom! Studios",
+   "seriesStatus": "Cancelled",
+   "yearBegan": 2016,
+   "yearEnd": 2017,
+   "url": "https://metron.cloud/series/jonesy-2016/"
+  },
   "jonna-and-the-unpossible-monsters-2021": {
    "status": "none",
    "checked": "2026-10-21",
@@ -41722,6 +43009,21 @@
    "yearBegan": 2018,
    "yearEnd": null,
    "url": "https://metron.cloud/series/journey-into-mystery-the-birth-of-krakoa-2018/"
+  },
+  "journey-into-unknown-worlds-2019": {
+   "status": "ok",
+   "checked": "2026-10-24",
+   "mv": 2,
+   "id": 2213,
+   "name": "Journey Into Unknown Worlds",
+   "desc": "ALL-NEW SCI-FI STORY! In celebration of Marvel's 80th anniversary and the comic books that captivated hearts and minds across generations, join us for two scintillating sci-fi stories – the first an extraterrestrial adventure by Cullen Bunn the likes of which haven't been seen in this or any other decade, and the second a tale of terror by Clay McLeod Chapman that could take place in your very own back yard! The secrets of the universe lie waiting to be discovered, True-Believers, on a JOURNEY TO UNKNOWN WORLDS!",
+   "descSource": "issue1",
+   "genres": [],
+   "publisher": "Marvel",
+   "seriesStatus": "Completed",
+   "yearBegan": 2019,
+   "yearEnd": null,
+   "url": "https://metron.cloud/series/journey-into-unknown-worlds-2019/"
   },
   "journey-to-star-wars-the-last-jedi-captain-phasma-2017-": {
    "status": "ok",
@@ -42901,6 +44203,21 @@
    "checked": "2026-10-22",
    "mv": 2
   },
+  "kamandi-challenge-special-2017": {
+   "status": "ok",
+   "checked": "2026-10-24",
+   "mv": 2,
+   "id": 4025,
+   "name": "The Kamandi Challenge Special",
+   "desc": "THE KAMANDI CHALLENGE is here-and with it, DC reprints the classic, 64-page KAMANDI #32 from 1975! In this issue's lead story, Kamandi and his allies face an attack by gorilla commandos! This issue also includes the origin of the Last Boy on Earth from KAMANDI #1, plus the map of Earth after the Great Disaster that inspired THE KAMANDI CHALLENGE!",
+   "descSource": "issue1",
+   "genres": [],
+   "publisher": "DC Comics",
+   "seriesStatus": "Completed",
+   "yearBegan": 2017,
+   "yearEnd": null,
+   "url": "https://metron.cloud/series/the-kamandi-challenge-special-2017/"
+  },
   "kane-and-able-2021": {
    "status": "none",
    "checked": "2026-10-22",
@@ -43081,6 +44398,11 @@
    "mv": 2
   },
   "kevin-smiths-yoga-hosers-2017": {
+   "status": "none",
+   "checked": "2026-10-24",
+   "mv": 2
+  },
+  "keys-of-cthulhu-2023": {
    "status": "none",
    "checked": "2026-10-24",
    "mv": 2
@@ -43327,6 +44649,11 @@
    "yearBegan": 2017,
    "yearEnd": 2017,
    "url": "https://metron.cloud/series/kill-the-minotaur-2017/"
+  },
+  "kill-them-all-2017": {
+   "status": "none",
+   "checked": "2026-10-24",
+   "mv": 2
   },
   "kill-train-2025": {
    "status": "ok",
@@ -43980,6 +45307,39 @@
    "yearBegan": 2017,
    "yearEnd": 2018,
    "url": "https://metron.cloud/series/kingsman-the-red-diamond-2017/"
+  },
+  "kingsway-west-2016": {
+   "status": "ok",
+   "checked": "2026-10-24",
+   "mv": 2,
+   "id": 17079,
+   "name": "Kingsway West",
+   "desc": "After spending thirteen years in a war that made him a monster, a Chinese gunslinger named Kingsway Law just wants to live in peace with his wife, Sonia. But even in a fantastical Old West crackling with magic, a man of his skills can never quite disappear. So when a woman with a red-gold sword brings bloody chaos to his doorstep, Kingsway must fight for his life, his wife, and his very soul.\n\nGreg Pak and Mirko Colak team up for a magical western!\n\nOnce upon a Time in the West meets Princess Mononoke.",
+   "descSource": "issue1",
+   "genres": [
+    "Fantasy",
+    "Western"
+   ],
+   "publisher": "Dark Horse Comics",
+   "seriesStatus": "Completed",
+   "yearBegan": 2016,
+   "yearEnd": 2017,
+   "url": "https://metron.cloud/series/kingsway-west-2016/"
+  },
+  "kiss-2016": {
+   "status": "ok",
+   "checked": "2026-10-24",
+   "mv": 2,
+   "id": 10550,
+   "name": "KISS",
+   "desc": "KISS is back! Back to the FUTURE in this dark sci-fi adventure. In a world without sun and a world without heroes, four young friends embark on a dangerous mission – to uncover the truth about the mysterious Council of Elders and their underground home, the city of Blackwell. But first they need some help from the past…\n\n“What is the power of KISS? I was having breakfast recently with the fabulous writer Kelly Sue DeConnick. When she found out I was writing this series, it was like firecrackers had been set off in the restaurant, she was so excited. So I’m doing this not just for the hardcore fans (like Kelly Sue) but also the new ones, like her children. It’s a huge challenge for me. KISS is iconic. Legendary. It’s global and cross-generational. So much has been done before with KISS in comics, a LOT of fun and crazy stuff. So for this series, I thought, why not go more serious? For research, I hunkered down and listened to the 1981 album Music from The Elder several times. Like the movie Blade Runner which came out around the same time, people didn’t know what to make of it. If this album came out now, I think it would be entirely different reception. So this storyline is more focused on mythology, heroism, and legend, and inspired by themes, lyrics, and song titles from that album.” – Amy Chu",
+   "descSource": "issue1",
+   "genres": [],
+   "publisher": "Dynamite Entertainment",
+   "seriesStatus": "Cancelled",
+   "yearBegan": 2016,
+   "yearEnd": 2017,
+   "url": "https://metron.cloud/series/kiss-2016/"
   },
   "kiss-the-demon-2017": {
    "status": "ok",
@@ -44723,6 +46083,16 @@
    "yearEnd": 2024,
    "url": "https://metron.cloud/series/king-kong-the-great-war-2023/"
   },
+  "konnichiwa-kaijukun-2019": {
+   "status": "none",
+   "checked": "2026-10-24",
+   "mv": 2
+  },
+  "korgi-short-tails-2017": {
+   "status": "none",
+   "checked": "2026-10-24",
+   "mv": 2
+  },
   "koshchei-in-hell-2022": {
    "status": "ok",
    "checked": "2026-10-19",
@@ -44849,6 +46219,11 @@
   "la-strong-2025": {
    "status": "none",
    "checked": "2026-10-23",
+   "mv": 2
+  },
+  "lab-raider-2019": {
+   "status": "none",
+   "checked": "2026-10-24",
    "mv": 2
   },
   "ladies-of-legend-2022": {
@@ -45047,6 +46422,11 @@
    "yearEnd": 2022,
    "url": "https://metron.cloud/series/lady-mechanika-the-monster-of-the-ministry-of-hell-2021/"
   },
+  "lady-s-20162019": {
+   "status": "none",
+   "checked": "2026-10-24",
+   "mv": 2
+  },
   "lady-satanus-2023": {
    "status": "none",
    "checked": "2026-10-19",
@@ -45055,6 +46435,16 @@
   "lady-zorro-2020": {
    "status": "none",
    "checked": "2026-10-23",
+   "mv": 2
+  },
+  "ladycastle-2017": {
+   "status": "none",
+   "checked": "2026-10-24",
+   "mv": 2
+  },
+  "laguardia-2018": {
+   "status": "none",
+   "checked": "2026-10-24",
    "mv": 2
   },
   "lake-of-fire-2016": {
@@ -45120,6 +46510,11 @@
    "yearBegan": 2022,
    "yearEnd": 2022,
    "url": "https://metron.cloud/series/land-of-the-living-gods-2022/"
+  },
+  "land-that-time-forgot-seeta-the-savage-2018": {
+   "status": "none",
+   "checked": "2026-10-24",
+   "mv": 2
   },
   "lands-unknown-the-skinless-man-2026": {
    "status": "ok",
@@ -45244,6 +46639,11 @@
    "yearBegan": 2025,
    "yearEnd": null,
    "url": "https://metron.cloud/series/laura-kinney-wolverine-2025/"
+  },
+  "laurel-hardy-classic-follies-2019": {
+   "status": "none",
+   "checked": "2026-10-24",
+   "mv": 2
   },
   "lawful-2024": {
    "status": "ok",
@@ -45777,6 +47177,11 @@
    "checked": "2026-10-20",
    "mv": 2
   },
+  "letters-from-animals-2021": {
+   "status": "none",
+   "checked": "2026-10-24",
+   "mv": 2
+  },
   "leviathan-2018": {
    "status": "ok",
    "checked": "2026-10-23",
@@ -45830,6 +47235,11 @@
   "lex-luthorporky-pig-2018": {
    "status": "none",
    "checked": "2026-10-22",
+   "mv": 2
+  },
+  "liberty-2023": {
+   "status": "none",
+   "checked": "2026-10-24",
    "mv": 2
   },
   "librarians-2017": {
@@ -45889,6 +47299,11 @@
   "life-of-wolverine-infinity-comic-2022": {
    "status": "none",
    "checked": "2026-10-18",
+   "mv": 2
+  },
+  "life-with-kevin-2016": {
+   "status": "none",
+   "checked": "2026-10-24",
    "mv": 2
   },
   "life-zero-2022": {
@@ -46058,6 +47473,11 @@
   "little-red-ronin-2022": {
    "status": "none",
    "checked": "2026-10-20",
+   "mv": 2
+  },
+  "little-sister-2021": {
+   "status": "none",
+   "checked": "2026-10-24",
    "mv": 2
   },
   "livewire-2018": {
@@ -46237,6 +47657,11 @@
    "yearBegan": 2018,
    "yearEnd": 2018,
    "url": "https://metron.cloud/series/lockjaw-2018/"
+  },
+  "lodger-2018": {
+   "status": "none",
+   "checked": "2026-10-24",
+   "mv": 2
   },
   "logan-black-white-blood-2026": {
    "status": "none",
@@ -46462,6 +47887,11 @@
    "yearBegan": 2017,
    "yearEnd": 2017,
    "url": "https://metron.cloud/series/loose-ends-2017/"
+  },
+  "lord-of-gore-2016": {
+   "status": "none",
+   "checked": "2026-10-24",
+   "mv": 2
   },
   "lord-of-the-jungle-2022": {
    "status": "ok",
@@ -46773,6 +48203,21 @@
    "yearEnd": 2021,
    "url": "https://metron.cloud/series/low-2014/"
   },
+  "low-road-west-2018": {
+   "status": "none",
+   "checked": "2026-10-24",
+   "mv": 2
+  },
+  "lowlifes-2018": {
+   "status": "none",
+   "checked": "2026-10-24",
+   "mv": 2
+  },
+  "lucas-stand-inner-demons-2018": {
+   "status": "none",
+   "checked": "2026-10-24",
+   "mv": 2
+  },
   "lucifer-2015": {
    "status": "ok",
    "checked": "2026-10-17",
@@ -46968,6 +48413,11 @@
   "lumberjanes-somewhere-thats-green-2019": {
    "status": "none",
    "checked": "2026-10-23",
+   "mv": 2
+  },
+  "lumberjanes-the-infernal-compass-2018": {
+   "status": "none",
+   "checked": "2026-10-24",
    "mv": 2
   },
   "luna-2021": {
@@ -47527,6 +48977,11 @@
    "checked": "2026-10-23",
    "mv": 2
   },
+  "maiden-2021": {
+   "status": "none",
+   "checked": "2026-10-24",
+   "mv": 2
+  },
   "major-x-2019": {
    "status": "ok",
    "checked": "2026-10-24",
@@ -47543,6 +48998,11 @@
    "yearBegan": 2019,
    "yearEnd": 2019,
    "url": "https://metron.cloud/series/major-x-2019/"
+  },
+  "makhno-ukrainian-freedom-fighter-2022": {
+   "status": "none",
+   "checked": "2026-10-24",
+   "mv": 2
   },
   "malevolent-2026": {
    "status": "ok",
@@ -47592,9 +49052,19 @@
    "checked": "2026-10-24",
    "mv": 2
   },
+  "man-goat-the-bunny-man-2021": {
+   "status": "none",
+   "checked": "2026-10-24",
+   "mv": 2
+  },
   "man-goat-the-bunnyman-beware-of-the-pigman-2024": {
    "status": "none",
    "checked": "2026-10-22",
+   "mv": 2
+  },
+  "man-goat-the-bunnyman-bunnymans-birthday-bash-2022": {
+   "status": "none",
+   "checked": "2026-10-24",
    "mv": 2
   },
   "man-in-furs-2019": {
@@ -47893,6 +49363,11 @@
    "yearEnd": 2020,
    "url": "https://metron.cloud/series/martian-manhunter-2018/"
   },
+  "martian-manhuntermarvin-the-martian-special-2017": {
+   "status": "none",
+   "checked": "2026-10-24",
+   "mv": 2
+  },
   "marvel-2020": {
    "status": "ok",
    "checked": "2026-10-22",
@@ -48099,6 +49574,11 @@
    "yearEnd": 2019,
    "url": "https://metron.cloud/series/marvel-comics-presents-2019/"
   },
+  "marvel-comics-presents-the-mms-if-m-be-my-destiny": {
+   "status": "none",
+   "checked": "2026-10-24",
+   "mv": 2
+  },
   "marvel-dc-deadpool-batman-2025": {
    "status": "ok",
    "checked": "2026-10-17",
@@ -48146,6 +49626,11 @@
   "marvel-fairy-tales-infinity-comic-2022": {
    "status": "none",
    "checked": "2026-10-23",
+   "mv": 2
+  },
+  "marvel-future-fight-an-eye-on-the-future-2017": {
+   "status": "none",
+   "checked": "2026-10-24",
    "mv": 2
   },
   "marvel-gold-76-2026": {
@@ -48909,6 +50394,11 @@
    "url": "https://metron.cloud/series/marvel-unleashed-2023/"
   },
   "marvel-visionaries-chris-claremont-2005": {
+   "status": "none",
+   "checked": "2026-10-24",
+   "mv": 2
+  },
+  "marvel-visionaries-stan-lee-2005": {
    "status": "none",
    "checked": "2026-10-24",
    "mv": 2
@@ -49826,6 +51316,21 @@
    "checked": "2026-10-18",
    "mv": 2
   },
+  "max-ride-final-flight-2016": {
+   "status": "ok",
+   "checked": "2026-10-24",
+   "mv": 2,
+   "id": 15200,
+   "name": "Max Ride: Final Flight",
+   "desc": "JAMES PATTERSON'S SMASH HIT SERIES RETURNS FOR A TRIUMPHANT CONCLUSION!\n\nTHE FLOCK is tired of running. They're ready to take the fight directly to JEB and the ERASERS!\n\nBut things get complicated when the line between friend and enemy is blurred.\n\nAnd all the while, MAXIMUM RIDE keeps hearing that voice in her head - the voice that says she's destined to save the world!",
+   "descSource": "issue1",
+   "genres": [],
+   "publisher": "Marvel",
+   "seriesStatus": "Completed",
+   "yearBegan": 2016,
+   "yearEnd": 2017,
+   "url": "https://metron.cloud/series/max-ride-final-flight-2016/"
+  },
   "maxwells-demons-2017": {
    "status": "ok",
    "checked": "2026-10-22",
@@ -50037,6 +51542,24 @@
    "checked": "2026-10-21",
    "mv": 2
   },
+  "megaghost-2018": {
+   "status": "ok",
+   "checked": "2026-10-24",
+   "mv": 2,
+   "id": 15161,
+   "name": "MegaGhost",
+   "desc": "Regular SolicitCan life get any weirder for junior occultist Martin Magus? Living in the haunted city of Dunwich Heights is strange enough for a kid investigating the unknown, but when he comes into possession of a bewitched ring, he discovers that he now has the power to summon Megaghost, a giant supernatural robot sworn to defend the world against the creepy things that go smash in the night!\n\nLimited Edition SolicitCan life get any weirder for junior occultist Martin Magus? Living in the haunted city of Dunwich Heights is strange enough for a kid investigating the unknown, but when he comes into possession of a bewitched ring, he discovers that he now has the power to summon MEGAGHOST, a giant supernatural robot sworn to defend the world against the creepy things that go SMASH in the night!\n\nFor the hardcore collectors out there, Albatross offers a special limited edition card stock cover of MEGA GHOST #1 with art by Eric Powell!",
+   "descSource": "issue1",
+   "genres": [
+    "Horror",
+    "Science Fiction"
+   ],
+   "publisher": "Exploding Albatross Funnybooks",
+   "seriesStatus": "Completed",
+   "yearBegan": 2018,
+   "yearEnd": 2019,
+   "url": "https://metron.cloud/series/megaghost-2018/"
+  },
   "megaghost-2026": {
    "status": "ok",
    "checked": "2026-10-22",
@@ -50116,6 +51639,24 @@
    "yearBegan": 2015,
    "yearEnd": 2017,
    "url": "https://metron.cloud/series/mercury-heat-2015/"
+  },
+  "mercy-sparx-2014": {
+   "status": "ok",
+   "checked": "2026-10-24",
+   "mv": 2,
+   "id": 13578,
+   "name": "Mercy Sparx",
+   "desc": "Mercy Sparx is Heaven's secret weapon - a devil girl secretly living among us as a human, hunting rogue angels who've fallen off the grid. When not fighting she's boozin' it up with her tech-genius, heavy metal roommate, Hank, coming up with amazing gadgets to take down the next divine target. What at first appears to be a simple mission unfolds into an epic divine battle finding Mercy at the epicenter. Fans were left hanging in 2009 when Mercy's sophomore series went on hiatus, but now she's back! Just keep your distance if a fight breaks out!",
+   "descSource": "issue1",
+   "genres": [
+    "Fantasy",
+    "Science Fiction"
+   ],
+   "publisher": "Devil's Due Publishing",
+   "seriesStatus": "Cancelled",
+   "yearBegan": 2013,
+   "yearEnd": 2020,
+   "url": "https://metron.cloud/series/mercy-sparx-2013/"
   },
   "merlin-and-hector-the-swineherd-and-the-thief-2022": {
    "status": "none",
@@ -50202,6 +51743,11 @@
    "url": "https://metron.cloud/series/metamorpho-the-element-man-2025/"
   },
   "metax-2022": {
+   "status": "none",
+   "checked": "2026-10-24",
+   "mv": 2
+  },
+  "meteor-swarm-2018": {
    "status": "none",
    "checked": "2026-10-24",
    "mv": 2
@@ -50574,6 +52120,23 @@
    "yearEnd": null,
    "url": "https://metron.cloud/series/midst-the-valorous-farmer-2024/"
   },
+  "mighty-man-2017": {
+   "status": "ok",
+   "checked": "2026-10-24",
+   "mv": 2,
+   "id": 12990,
+   "name": "Mighty Man",
+   "desc": "Seven-year-old Betty Bradford has inherited the mantle of the World’s Mightiest Man! Now she trains to take on the role of the world’s greatest superhero and faces her biggest challenge ever! Mighty Man comes with our highest possible recommendation!",
+   "descSource": "issue1",
+   "genres": [
+    "Super-Hero"
+   ],
+   "publisher": "Image Comics",
+   "seriesStatus": "Completed",
+   "yearBegan": 2017,
+   "yearEnd": null,
+   "url": "https://metron.cloud/series/mighty-man-2017/"
+  },
   "mighty-marvel-holiday-special-ghost-ridin-to-love-infinity-comic-2022": {
    "status": "none",
    "checked": "2026-10-22",
@@ -50582,6 +52145,11 @@
   "mighty-marvel-holiday-special-halloween-with-the-rhino-infinity-comic-2021": {
    "status": "none",
    "checked": "2026-10-22",
+   "mv": 2
+  },
+  "mighty-marvel-holiday-special-happy-holidays-mr-howlett-infinity-comic-2021": {
+   "status": "none",
+   "checked": "2026-10-24",
    "mv": 2
   },
   "mighty-marvel-holiday-special-icemans-new-years-resolutions-infinity-comic-2021": {
@@ -51421,6 +52989,11 @@
   "mister-invincible-2020": {
    "status": "none",
    "checked": "2026-10-21",
+   "mv": 2
+  },
+  "mister-mammoth-2023": {
+   "status": "none",
+   "checked": "2026-10-24",
    "mv": 2
   },
   "mister-miracle-2017": {
@@ -52720,6 +54293,16 @@
    "checked": "2026-10-22",
    "mv": 2
   },
+  "mulan-the-story-of-the-movie-in-comics-2020": {
+   "status": "none",
+   "checked": "2026-10-24",
+   "mv": 2
+  },
+  "mulans-adventure-journal-the-palace-of-secrets-2020": {
+   "status": "none",
+   "checked": "2026-10-24",
+   "mv": 2
+  },
   "multiple-man-2018": {
    "status": "ok",
    "checked": "2026-10-22",
@@ -52852,6 +54435,11 @@
   "murder-hobo-all-inn-at-the-dragons-shaft-2020": {
    "status": "none",
    "checked": "2026-10-22",
+   "mv": 2
+  },
+  "murder-hobo-beaten-broken-buggered-2021": {
+   "status": "none",
+   "checked": "2026-10-24",
    "mv": 2
   },
   "murder-inc-jagger-rose-2023": {
@@ -53037,6 +54625,16 @@
    "checked": "2026-10-23",
    "mv": 2
   },
+  "my-badly-drawn-life-2022": {
+   "status": "none",
+   "checked": "2026-10-24",
+   "mv": 2
+  },
+  "my-boyfriend-is-a-bear-2018": {
+   "status": "none",
+   "checked": "2026-10-24",
+   "mv": 2
+  },
   "my-buddy-killer-croc-2022": {
    "status": "none",
    "checked": "2026-10-19",
@@ -53147,6 +54745,11 @@
    "checked": "2026-10-21",
    "mv": 2
   },
+  "mystery-science-theater-3000-2018": {
+   "status": "none",
+   "checked": "2026-10-24",
+   "mv": 2
+  },
   "mystik-u-2017": {
    "status": "ok",
    "checked": "2026-10-22",
@@ -53202,6 +54805,11 @@
   "myths-and-legends-quarterly-jasmine-2022": {
    "status": "none",
    "checked": "2026-10-22",
+   "mv": 2
+  },
+  "myths-legends-quarterly-blood-pharaoh-2021": {
+   "status": "none",
+   "checked": "2026-10-24",
    "mv": 2
   },
   "myths-legends-quarterly-dragon-clan-2021": {
@@ -53535,6 +55143,11 @@
    "checked": "2026-10-23",
    "mv": 2
   },
+  "needle-and-thread-2021": {
+   "status": "none",
+   "checked": "2026-10-24",
+   "mv": 2
+  },
   "negaduck-2023": {
    "status": "none",
    "checked": "2026-10-22",
@@ -53672,6 +55285,11 @@
   "neverender-2022": {
    "status": "none",
    "checked": "2026-10-22",
+   "mv": 2
+  },
+  "neverland-2021-annual": {
+   "status": "none",
+   "checked": "2026-10-24",
    "mv": 2
   },
   "neverland-sands-of-eternity-2025": {
@@ -53878,6 +55496,11 @@
    "checked": "2026-10-21",
    "mv": 2
   },
+  "new-talent-showcase-2017": {
+   "status": "none",
+   "checked": "2026-10-24",
+   "mv": 2
+  },
   "new-talent-showcase-2018": {
    "status": "none",
    "checked": "2026-10-23",
@@ -54050,6 +55673,21 @@
    "checked": "2026-10-23",
    "mv": 2
   },
+  "nick-fury-2017": {
+   "status": "ok",
+   "checked": "2026-10-24",
+   "mv": 2,
+   "id": 1563,
+   "name": "Nick Fury",
+   "desc": "The world is a dangerous place. And there's danger in drawing attention to your plans. When S.H.I.E.L.D. needs a lone agent to infiltrate, capture and remain anonymous, there's no one better than NICK FURY. An all-new era for the superspy begins here, as Fury is sent on a top-secret mission to the French Riviera. He'll need to outmaneuver the enemy as the complex dance of espionage begins, but will he meet his match in the mysterious FRANKIE NOBLE? Grab the edge of your seat and don't let go — this caper's just getting started!",
+   "descSource": "issue1",
+   "genres": [],
+   "publisher": "Marvel",
+   "seriesStatus": "Completed",
+   "yearBegan": 2017,
+   "yearEnd": 2017,
+   "url": "https://metron.cloud/series/nick-fury-2017/"
+  },
   "nick-fury-vs-fin-fang-foom-2025": {
    "status": "ok",
    "checked": "2026-10-19",
@@ -54070,6 +55708,11 @@
   "nickelodeon-avatar-the-last-airbender-jet-rebels-and-rhinos-2026": {
    "status": "none",
    "checked": "2026-10-16",
+   "mv": 2
+  },
+  "nicnevin-and-the-bloody-queen-2020": {
+   "status": "none",
+   "checked": "2026-10-24",
    "mv": 2
   },
   "night-club-2-2024": {
@@ -54410,6 +56053,11 @@
    "yearEnd": 2018,
    "url": "https://metron.cloud/series/no-1-with-a-bullet-2017/"
   },
+  "no-angel-2016": {
+   "status": "none",
+   "checked": "2026-10-24",
+   "mv": 2
+  },
   "no-gods-no-masters-2026": {
    "status": "ok",
    "checked": "2026-10-16",
@@ -54495,6 +56143,11 @@
    "url": "https://metron.cloud/series/no-one-left-to-fight-ii-2021/"
   },
   "no-world-2017": {
+   "status": "none",
+   "checked": "2026-10-24",
+   "mv": 2
+  },
+  "noble-2017": {
    "status": "none",
    "checked": "2026-10-24",
    "mv": 2
@@ -54936,6 +56589,21 @@
    "yearEnd": null,
    "url": "https://metron.cloud/series/ocean-master-year-villain-2020/"
   },
+  "oddly-normal-2015": {
+   "status": "ok",
+   "checked": "2026-10-24",
+   "mv": 2,
+   "id": 13386,
+   "name": "Oddly Normal",
+   "desc": "Meet Oddly Normal, a ten-year-old girl with pointed ears and green hair--a half-witch who will be the first to tell you that having a mother from a magical land called Fignation and a father from Earth doesn't make it easy to make friends at school! On her tenth birthday, she blows out her cake's candles and makes a disastrous wish. Now, Oddly must travel to Fignation to uncover the mystery of her parents' disappearance.",
+   "descSource": "issue1",
+   "genres": [],
+   "publisher": "Image Comics",
+   "seriesStatus": "Cancelled",
+   "yearBegan": 2014,
+   "yearEnd": 2016,
+   "url": "https://metron.cloud/series/oddly-normal-2014/"
+  },
   "odin-2026": {
    "status": "ok",
    "checked": "2026-10-20",
@@ -54993,6 +56661,11 @@
    "yearBegan": 2026,
    "yearEnd": null,
    "url": "https://metron.cloud/series/ofiusa-2026/"
+  },
+  "ogre-2019": {
+   "status": "none",
+   "checked": "2026-10-24",
+   "mv": 2
   },
   "oh-st-its-kim-kim-2018": {
    "status": "ok",
@@ -55144,6 +56817,11 @@
    "yearBegan": 2019,
    "yearEnd": 2020,
    "url": "https://metron.cloud/series/olympia-2019/"
+  },
+  "olympus-2015": {
+   "status": "none",
+   "checked": "2026-10-24",
+   "mv": 2
   },
   "olympus-mons-2017": {
    "status": "none",
@@ -55315,6 +56993,11 @@
    "yearBegan": 2022,
    "yearEnd": null,
    "url": "https://metron.cloud/series/onyx-2022/"
+  },
+  "openhearted-2021": {
+   "status": "none",
+   "checked": "2026-10-24",
+   "mv": 2
   },
   "operation-dragon-2021": {
    "status": "none",
@@ -55967,6 +57650,24 @@
    "checked": "2026-10-19",
    "mv": 2
   },
+  "paladin-of-axes-2023": {
+   "status": "ok",
+   "checked": "2026-10-24",
+   "mv": 2,
+   "id": 5865,
+   "name": "Paladin of Axes",
+   "desc": "GERRY DUGGAN & DAVID O'SULLIVAN of ANALOG fame reteam on the perfect comic book to celebrate Halloween. It's the first appearance of HECTOR SMALLEY, a guitar tech known as THE PALADIN OF AXES. He's working for the world's biggest rock band, and when he and the whole band are killed in a plane crash, it's unexpectedly just the beginning of his bad times. It's a sad tale of working yourself to death-literally. Equal parts Evil Dead and Time Bandits, this horror comedy will put a smile on your face on one page and punch it off on the page turn. Throw your horns in the air for THE PALADIN OF AXES!",
+   "descSource": "issue1",
+   "genres": [
+    "Horror",
+    "Humor"
+   ],
+   "publisher": "Image Comics",
+   "seriesStatus": "Completed",
+   "yearBegan": 2023,
+   "yearEnd": null,
+   "url": "https://metron.cloud/series/paladin-of-axes-2023/"
+  },
   "pandemica-2019": {
    "status": "none",
    "checked": "2026-10-23",
@@ -56545,6 +58246,11 @@
    "yearEnd": null,
    "url": "https://metron.cloud/series/peter-cannon-thunderbolt-2025/"
   },
+  "peter-davids-artful-2016": {
+   "status": "none",
+   "checked": "2026-10-24",
+   "mv": 2
+  },
   "peter-panzerfaust-2012": {
    "status": "ok",
    "checked": "2026-10-22",
@@ -56651,6 +58357,11 @@
    "yearBegan": 2023,
    "yearEnd": null,
    "url": "https://metron.cloud/series/phantom-road-2023/"
+  },
+  "phantom-starkiller-2021": {
+   "status": "none",
+   "checked": "2026-10-24",
+   "mv": 2
   },
   "phases-of-the-moon-knight-2024": {
    "status": "ok",
@@ -56827,6 +58538,11 @@
   "pink-panther-vs-the-inspector-2018": {
    "status": "none",
    "checked": "2026-10-22",
+   "mv": 2
+  },
+  "pistouvi-2020": {
+   "status": "none",
+   "checked": "2026-10-24",
    "mv": 2
   },
   "pixies-of-the-sixties-2023": {
@@ -57735,6 +59451,16 @@
    "checked": "2026-10-23",
    "mv": 2
   },
+  "powerpuff-girls-the-bureau-of-bad-2017": {
+   "status": "none",
+   "checked": "2026-10-24",
+   "mv": 2
+  },
+  "powerpuff-girls-the-time-tie-2017": {
+   "status": "none",
+   "checked": "2026-10-24",
+   "mv": 2
+  },
   "powers-2015": {
    "status": "ok",
    "checked": "2026-10-22",
@@ -57830,6 +59556,11 @@
    "yearBegan": 2024,
    "yearEnd": 2025,
    "url": "https://metron.cloud/series/prairie-gods-2024/"
+  },
+  "praising-the-surface-behind-the-scenes-of-reality-tv-2023": {
+   "status": "none",
+   "checked": "2026-10-24",
+   "mv": 2
   },
   "precious-metal-2024": {
    "status": "ok",
@@ -58219,6 +59950,16 @@
    "yearEnd": 2022,
    "url": "https://metron.cloud/series/primos-2022/"
   },
+  "princeless-book-7-find-yourself-2018": {
+   "status": "none",
+   "checked": "2026-10-24",
+   "mv": 2
+  },
+  "princess-of-venus-2019": {
+   "status": "none",
+   "checked": "2026-10-24",
+   "mv": 2
+  },
   "princess-princess-ever-after-2016": {
    "status": "none",
    "checked": "2026-10-23",
@@ -58416,6 +60157,11 @@
    "checked": "2026-10-23",
    "mv": 2
   },
+  "promethee-1313-2022": {
+   "status": "none",
+   "checked": "2026-10-24",
+   "mv": 2
+  },
   "promethee-2016": {
    "status": "none",
    "checked": "2026-10-23",
@@ -58576,6 +60322,11 @@
    "yearBegan": 2022,
    "yearEnd": 2022,
    "url": "https://metron.cloud/series/public-domain-2022/"
+  },
+  "public-relations-2015": {
+   "status": "none",
+   "checked": "2026-10-24",
+   "mv": 2
   },
   "pulp-2020": {
    "status": "none",
@@ -58895,6 +60646,11 @@
    "checked": "2026-10-19",
    "mv": 2
   },
+  "quantum-teens-are-go-2017": {
+   "status": "none",
+   "checked": "2026-10-24",
+   "mv": 2
+  },
   "quantum-woody-2020": {
    "status": "none",
    "checked": "2026-10-23",
@@ -58982,6 +60738,11 @@
    "yearBegan": 2026,
    "yearEnd": null,
    "url": "https://metron.cloud/series/queen-in-black-venom-unchained-2026/"
+  },
+  "queen-kodiak-2026": {
+   "status": "none",
+   "checked": "2026-10-24",
+   "mv": 2
   },
   "quest-2023": {
    "status": "ok",
@@ -59347,6 +61108,11 @@
    "checked": "2026-10-21",
    "mv": 2
   },
+  "raptor-a-sokol-graphic-novel-2021": {
+   "status": "none",
+   "checked": "2026-10-24",
+   "mv": 2
+  },
   "rapture-2017": {
    "status": "none",
    "checked": "2026-10-23",
@@ -59532,6 +61298,21 @@
    "checked": "2026-10-20",
    "mv": 2
   },
+  "reactor-2017": {
+   "status": "ok",
+   "checked": "2026-10-24",
+   "mv": 2,
+   "id": 17688,
+   "name": "Reactor",
+   "desc": "There's Weep, your average machine-gun-wielding teenager raised on an Earth overrun with vampires. There's Poli, who landed on Earth with the mission to kill every damn vampire there. And then there's King Luc's heavily fortified blood farm. You do the math. From Donny Cates (God Country, Redneck) and Dylan Burnett (Weavers) comes Reactor, a whole new entry into the world of vampire warfare, overpowered mechsuits, and 10-year-old presidents that Interceptor kicked-off.",
+   "descSource": "issue1",
+   "genres": [],
+   "publisher": "Vault Comics",
+   "seriesStatus": "Completed",
+   "yearBegan": 2017,
+   "yearEnd": 2018,
+   "url": "https://metron.cloud/series/reactor-2017/"
+  },
   "read-only-memories-2019": {
    "status": "none",
    "checked": "2026-10-23",
@@ -59685,6 +61466,11 @@
    "yearBegan": 2020,
    "yearEnd": 2020,
    "url": "https://metron.cloud/series/red-border-2020/"
+  },
+  "red-dog-2016": {
+   "status": "none",
+   "checked": "2026-10-24",
+   "mv": 2
   },
   "red-goblin-2023": {
    "status": "ok",
@@ -60315,6 +62101,11 @@
    "yearEnd": 2019,
    "url": "https://metron.cloud/series/redlands-2017/"
   },
+  "redline-2017": {
+   "status": "none",
+   "checked": "2026-10-24",
+   "mv": 2
+  },
   "redneck-2017": {
    "status": "ok",
    "checked": "2026-10-20",
@@ -60350,6 +62141,21 @@
    "yearEnd": 2022,
    "url": "https://metron.cloud/series/refrigerator-full-of-heads-2021/"
   },
+  "regarding-the-matter-of-oswalds-body-2021": {
+   "status": "ok",
+   "checked": "2026-10-24",
+   "mv": 2,
+   "id": 2839,
+   "name": "Regarding the Matter of Oswald's Body",
+   "desc": "Where is Lee Harvey Oswald's body?\n\nThe Kennedy assassination is a rat's nest of conspiracy theories: mafia involvement, the second gunman, government cover-up... but the most important chapter of this sordid tale may just be the theory that the body buried at Oswald's Rose Hill gravesite is not actually Lee Harvey himself.\n\nMeet the ragtag group of \"useful idiots\" who are unwittingly brought together to clean up the crime of the century - a wannabe cowboy from Wisconsin, a Buddy Holly-idolizing (former) car thief, a world-weary Civil Rights activist ready for revolution, and a failed G-Man who still acts the part - and specifically, regarding the matter of Oswald's body.\n\nFor fans of Department of Truth and Time Before Time comes an off-kilter crime thriller set in the shadows of history's greatest conspiracy by Eisner Award-nominated writer, producer, and director Christopher Cantwell (Iron Man, The United States of Captain America) and artist Luca Casalanguida (Lost Soldiers, Scout's Honor).",
+   "descSource": "issue1",
+   "genres": [],
+   "publisher": "Boom! Studios",
+   "seriesStatus": "Completed",
+   "yearBegan": 2021,
+   "yearEnd": 2022,
+   "url": "https://metron.cloud/series/regarding-the-matter-of-oswalds-body-2021/"
+  },
   "regicide-2026": {
    "status": "ok",
    "checked": "2026-10-17",
@@ -60383,6 +62189,11 @@
    "yearBegan": 2017,
    "yearEnd": 2019,
    "url": "https://metron.cloud/series/regression-2017/"
+  },
+  "regular-show-2017-special": {
+   "status": "none",
+   "checked": "2026-10-24",
+   "mv": 2
   },
   "regular-show-2018-special": {
    "status": "none",
@@ -60441,6 +62252,11 @@
   "renaissance-of-raven-2024": {
    "status": "none",
    "checked": "2026-10-19",
+   "mv": 2
+  },
+  "renato-jones-season-two-2017": {
+   "status": "none",
+   "checked": "2026-10-24",
    "mv": 2
   },
   "represent-2020": {
@@ -60782,6 +62598,11 @@
    "yearEnd": 2020,
    "url": "https://metron.cloud/series/revenge-cosmic-ghost-rider-2020/"
   },
+  "revenge-of-wonderland-2018": {
+   "status": "none",
+   "checked": "2026-10-24",
+   "mv": 2
+  },
   "revival-2012": {
    "status": "ok",
    "checked": "2026-10-20",
@@ -60813,6 +62634,11 @@
    "yearBegan": 2024,
    "yearEnd": 2025,
    "url": "https://metron.cloud/series/revolution-9-2024/"
+  },
+  "revolution-aw-yeah-2017": {
+   "status": "none",
+   "checked": "2026-10-24",
+   "mv": 2
   },
   "revolutionaries-2017": {
    "status": "none",
@@ -61238,6 +63064,11 @@
    "yearEnd": null,
    "url": "https://metron.cloud/series/ripcord-2026/"
   },
+  "ripleys-believe-it-or-not-2018": {
+   "status": "none",
+   "checked": "2026-10-24",
+   "mv": 2
+  },
   "ripperland-2025": {
    "status": "ok",
    "checked": "2026-10-23",
@@ -61330,6 +63161,11 @@
    "yearBegan": 2018,
    "yearEnd": 2019,
    "url": "https://metron.cloud/series/rise-of-the-teenage-mutant-ninja-turtles-2018/"
+  },
+  "rising-sun-2020": {
+   "status": "none",
+   "checked": "2026-10-24",
+   "mv": 2
   },
   "river-of-ink-2021": {
    "status": "none",
@@ -61516,6 +63352,11 @@
   "robyn-hood-annual-2022-2022": {
    "status": "none",
    "checked": "2026-10-22",
+   "mv": 2
+  },
+  "robyn-hood-annual-invasion-2023": {
+   "status": "none",
+   "checked": "2026-10-24",
    "mv": 2
   },
   "robyn-hood-annual-the-swarm-2021": {
@@ -61718,6 +63559,11 @@
    "yearBegan": 2026,
    "yearEnd": null,
    "url": "https://metron.cloud/series/rocket-raccoon-rocket-rewind-2026/"
+  },
+  "rockos-modern-afterlife-2019": {
+   "status": "none",
+   "checked": "2026-10-24",
+   "mv": 2
   },
   "rockstar-and-softboy-2022": {
    "status": "none",
@@ -62159,6 +64005,21 @@
    "yearEnd": 2026,
    "url": "https://metron.cloud/series/royals-2026/"
   },
+  "ruby-falls-2019": {
+   "status": "ok",
+   "checked": "2026-10-24",
+   "mv": 2,
+   "id": 689,
+   "name": "Ruby Falls",
+   "desc": "Kill Time, Till Time Kills You! Ruby Falls is a sleepy town. But sleep brings nightmares, and Lana is about to wake up in the middle of her hometown's biggest secret: the ''disappearance'' of infamously progressive Betty Gallagher during the mobster-ruled heyday of the old mining town. When details of the cold-case murder start to come out through her grandmother Clara's foggy, dementia-jumbled memories, Lana becomes obsessed with cracking the case, even if it splinters the peaceful town—and endangers everything she loves. From Ann Nocenti (The Seeds, Daredevil) and rising talent Flavia Biondi (Italian artist of La Generazione making her American comics debut) comes Ruby Falls: a neo-noir tale of love, memory, and murder mysteriously woven through three generations of women, and hinging on their individual, intertwined fights for freedom.",
+   "descSource": "issue1",
+   "genres": [],
+   "publisher": "Dark Horse Comics",
+   "seriesStatus": "Completed",
+   "yearBegan": 2019,
+   "yearEnd": 2020,
+   "url": "https://metron.cloud/series/ruby-falls-2019/"
+  },
   "rugrats-2017": {
    "status": "none",
    "checked": "2026-10-22",
@@ -62240,6 +64101,21 @@
    "yearEnd": 2016,
    "url": "https://metron.cloud/series/rumble-2014/"
   },
+  "rumpus-room-2023": {
+   "status": "ok",
+   "checked": "2026-10-24",
+   "mv": 2,
+   "id": 5699,
+   "name": "Rumpus Room",
+   "desc": "Eisner Award-winning writer Mark Russell (NOT ALL ROBOTS) returns to AWA with his latest dark satire, with art by Ramon Rosanas (YEAR ZERO VOL. 1).\n\nMeet Bob Schrunk, technocrat billionaire, collector of bad art, and victim of a hideous skin condition that can only be treated with a highly illicit and definitely not FDA-approved face cream that must be...harvested. From human beings.\n\nBob isn't unfair, though. He's happy to let his guests select who will be next to be sent from the Rumpus Room to their doom. There's just one thing Bob doesn't know: One of his current guests is an undercover cop-and she's carrying a concealed gun.",
+   "descSource": "issue1",
+   "genres": [],
+   "publisher": "AWA Studios",
+   "seriesStatus": "Completed",
+   "yearBegan": 2023,
+   "yearEnd": 2024,
+   "url": "https://metron.cloud/series/rumpus-room-2023/"
+  },
   "runaways-2017": {
    "status": "ok",
    "checked": "2026-10-18",
@@ -62273,6 +64149,11 @@
    "yearBegan": 2025,
    "yearEnd": 2025,
    "url": "https://metron.cloud/series/runaways-2025/"
+  },
+  "runes-2021": {
+   "status": "none",
+   "checked": "2026-10-24",
+   "mv": 2
   },
   "rv9-2019": {
    "status": "ok",
@@ -62816,6 +64697,23 @@
    "yearEnd": 2022,
    "url": "https://metron.cloud/series/savage-spider-man-2022/"
   },
+  "savage-squad-6-2023": {
+   "status": "ok",
+   "checked": "2026-10-24",
+   "mv": 2,
+   "id": 5181,
+   "name": "Savage Squad 6",
+   "desc": "The year is 2037. A brutal world war has left humanity in shambles. The remnants of civilization are tracked down and systematically eliminated by The Scourge. For the people of the central colonies, only one hope remains, an elite team deployed into the deadliest location on the planet: Savage Squad 6!",
+   "descSource": "issue1",
+   "genres": [
+    "Science Fiction"
+   ],
+   "publisher": "Dark Horse Comics",
+   "seriesStatus": "Completed",
+   "yearBegan": 2023,
+   "yearEnd": 2023,
+   "url": "https://metron.cloud/series/savage-squad-6-2023/"
+  },
   "savage-strength-of-starstorm-2023": {
    "status": "ok",
    "checked": "2026-10-19",
@@ -62911,6 +64809,11 @@
    "yearBegan": 2021,
    "yearEnd": 2021,
    "url": "https://metron.cloud/series/save-yourself-2021/"
+  },
+  "savor-2021": {
+   "status": "none",
+   "checked": "2026-10-24",
+   "mv": 2
   },
   "scales-and-scoundrels-definitive-edition-2021": {
    "status": "none",
@@ -63065,6 +64968,11 @@
    "checked": "2026-10-22",
    "mv": 2
   },
+  "schick-hydrobot-the-transformers-2017": {
+   "status": "none",
+   "checked": "2026-10-24",
+   "mv": 2
+  },
   "school-of-love-2021": {
    "status": "none",
    "checked": "2026-10-19",
@@ -63146,6 +65054,11 @@
    "yearBegan": 2023,
    "yearEnd": 2023,
    "url": "https://metron.cloud/series/scrapper-2023/"
+  },
+  "scratcher-2019": {
+   "status": "none",
+   "checked": "2026-10-24",
+   "mv": 2
   },
   "scream-curse-of-carnage-2019": {
    "status": "ok",
@@ -63506,6 +65419,11 @@
    "yearEnd": 2019,
    "url": "https://metron.cloud/series/section-zero-2019/"
   },
+  "seen-edmonia-lewis-2020": {
+   "status": "none",
+   "checked": "2026-10-24",
+   "mv": 2
+  },
   "seen-rachel-carson-2021": {
    "status": "none",
    "checked": "2026-10-24",
@@ -63571,6 +65489,11 @@
    "yearBegan": 2022,
    "yearEnd": null,
    "url": "https://metron.cloud/series/sensational-wonder-woman-special-2022/"
+  },
+  "sense-and-sensibility-2011-tpb": {
+   "status": "none",
+   "checked": "2026-10-24",
+   "mv": 2
   },
   "sentient-2019": {
    "status": "none",
@@ -64012,6 +65935,11 @@
    "checked": "2026-10-18",
    "mv": 2
   },
+  "sham-special-sham-comics-80page-giant-2020": {
+   "status": "none",
+   "checked": "2026-10-24",
+   "mv": 2
+  },
   "shang-2020": {
    "status": "none",
    "checked": "2026-10-24",
@@ -64250,6 +66178,11 @@
   "she-could-fly-vol-3-fight-or-flight-2021": {
    "status": "none",
    "checked": "2026-10-23",
+   "mv": 2
+  },
+  "she-wolf-2016": {
+   "status": "none",
+   "checked": "2026-10-24",
    "mv": 2
   },
   "sheena-queen-of-the-jungle-2017": {
@@ -64494,6 +66427,21 @@
    "yearBegan": 2022,
    "yearEnd": 2022,
    "url": "https://metron.cloud/series/shock-shop-2022/"
+  },
+  "shook-a-black-horror-anthology-2024": {
+   "status": "none",
+   "checked": "2026-10-24",
+   "mv": 2
+  },
+  "shoplifters-will-be-liquidated-2019": {
+   "status": "none",
+   "checked": "2026-10-24",
+   "mv": 2
+  },
+  "shrugged-primer-2019": {
+   "status": "none",
+   "checked": "2026-10-24",
+   "mv": 2
   },
   "shrugged-vol-2-20172018": {
    "status": "none",
@@ -64746,6 +66694,11 @@
    "yearEnd": null,
    "url": "https://metron.cloud/series/silver-surfer-prodigal-sun-2019/"
   },
+  "silver-vessels-2024": {
+   "status": "none",
+   "checked": "2026-10-24",
+   "mv": 2
+  },
   "silverhawks-2025": {
    "status": "ok",
    "checked": "2026-10-19",
@@ -64762,6 +66715,11 @@
    "yearBegan": 2025,
    "yearEnd": 2025,
    "url": "https://metron.cloud/series/silverhawks-2025/"
+  },
+  "silverlake-2025": {
+   "status": "none",
+   "checked": "2026-10-24",
+   "mv": 2
   },
   "simpsons-comics-1993": {
    "status": "ok",
@@ -65043,6 +67001,11 @@
    "checked": "2026-10-20",
    "mv": 2
   },
+  "six-macro-cons-2020-indie-comics": {
+   "status": "none",
+   "checked": "2026-10-24",
+   "mv": 2
+  },
   "six-million-dollar-man-fall-of-man-2016": {
    "status": "ok",
    "checked": "2026-10-23",
@@ -65124,6 +67087,11 @@
    "yearBegan": 2023,
    "yearEnd": 2024,
    "url": "https://metron.cloud/series/skeeters-2023/"
+  },
+  "skies-of-fire-20142019": {
+   "status": "none",
+   "checked": "2026-10-24",
+   "mv": 2
   },
   "skin-earth-2017": {
    "status": "ok",
@@ -65250,6 +67218,11 @@
    "yearBegan": 2016,
    "yearEnd": 2018,
    "url": "https://metron.cloud/series/skybourne-2016/"
+  },
+  "skylanders-spyro-friends-quarterly-biting-back-2018": {
+   "status": "none",
+   "checked": "2026-10-24",
+   "mv": 2
   },
   "skyward-2018": {
    "status": "ok",
@@ -65421,6 +67394,23 @@
    "status": "none",
    "checked": "2026-10-22",
    "mv": 2
+  },
+  "snelson-comedy-is-dying-2021": {
+   "status": "ok",
+   "checked": "2026-10-24",
+   "mv": 2,
+   "id": 2517,
+   "name": "Snelson: Comedy Is Dying",
+   "desc": "A 5 issue mini-series that chronicles the misadventures of a washed-up comedian whose career peaked when Dawson’s Creek was still on the air. Bitter because he missed his big break in the ‘90s, Snelson is struggling with the idea that he’s a victim of cancel culture or, even worse, forgotten altogether.",
+   "descSource": "series",
+   "genres": [
+    "Humor"
+   ],
+   "publisher": "Ahoy Comics",
+   "seriesStatus": "Completed",
+   "yearBegan": 2021,
+   "yearEnd": 2021,
+   "url": "https://metron.cloud/series/snelson-2021/"
   },
   "snotgirl-2016": {
    "status": "ok",
@@ -66128,6 +68118,11 @@
    "checked": "2026-10-18",
    "mv": 2
   },
+  "space-bastards-special-delivery-2022": {
+   "status": "none",
+   "checked": "2026-10-24",
+   "mv": 2
+  },
   "space-battle-lunchtime-2016": {
    "status": "none",
    "checked": "2026-10-22",
@@ -66283,6 +68278,11 @@
    "yearBegan": 2023,
    "yearEnd": null,
    "url": "https://metron.cloud/series/space-usagi-yokai-hunter-2023/"
+  },
+  "spacewarp-2020": {
+   "status": "none",
+   "checked": "2026-10-24",
+   "mv": 2
   },
   "sparrowhawk-2018": {
    "status": "none",
@@ -66602,7 +68602,17 @@
    "checked": "2026-10-23",
    "mv": 2
   },
+  "spell-on-wheels-just-to-get-to-you-vol-2-2020": {
+   "status": "none",
+   "checked": "2026-10-24",
+   "mv": 2
+  },
   "spencer-locke-2-2019": {
+   "status": "none",
+   "checked": "2026-10-24",
+   "mv": 2
+  },
+  "spencer-locke-2017": {
    "status": "none",
    "checked": "2026-10-24",
    "mv": 2
@@ -66871,6 +68881,11 @@
    "yearBegan": 2020,
    "yearEnd": 2020,
    "url": "https://metron.cloud/series/spider-ham-2020/"
+  },
+  "spiderham-a-pig-in-time-2024": {
+   "status": "none",
+   "checked": "2026-10-24",
+   "mv": 2
   },
   "spiderham-hollywood-mayham-2022": {
    "status": "none",
@@ -67598,9 +69613,29 @@
    "yearEnd": 2024,
    "url": "https://metron.cloud/series/spider-woman-2024/"
   },
+  "spidey-and-friends-halloween-trickorread-2024": {
+   "status": "none",
+   "checked": "2026-10-24",
+   "mv": 2
+  },
   "spidey-and-his-amazing-friends-2022": {
    "status": "ok",
    "checked": "2026-10-20",
+   "mv": 2,
+   "id": 10006,
+   "name": "Spidey and His Amazing Friends",
+   "desc": "SOMETHING NEW FOR THE YOUNGEST OF MARVEL COMIC READERS! IT'S SPIDEY TIME! Swing into adventure with Spidey, Ghost-Spider, and Spin as they team up with heroic friends and face-off against Green Goblin, Doc Ock, and more! This new monthly comic features easy-to-read stories starring Peter, Gwen, and Miles from SPIDEY AND HIS AMAZING FRIENDS: MY FIRST COMIC READER, perfect for young Spidey fans of all ages. Readers will also love testing their super smarts and skills with loads of fun bonus activities!",
+   "descSource": "issue1",
+   "genres": [],
+   "publisher": "Marvel",
+   "seriesStatus": "Ongoing",
+   "yearBegan": 2024,
+   "yearEnd": null,
+   "url": "https://metron.cloud/series/spidey-and-his-amazing-friends-2024/"
+  },
+  "spidey-and-his-amazing-friends-2024": {
+   "status": "ok",
+   "checked": "2026-10-24",
    "mv": 2,
    "id": 10006,
    "name": "Spidey and His Amazing Friends",
@@ -67772,6 +69807,11 @@
   "spirou-fantasio-2017": {
    "status": "none",
    "checked": "2026-10-21",
+   "mv": 2
+  },
+  "spirou-hope-against-all-odds-2020": {
+   "status": "none",
+   "checked": "2026-10-24",
    "mv": 2
   },
   "splitting-image-80page-giant-2017": {
@@ -68080,6 +70120,11 @@
    "checked": "2026-10-20",
    "mv": 2
   },
+  "star-trek-deep-space-ninetoo-long-a-sacrifice-2020": {
+   "status": "none",
+   "checked": "2026-10-24",
+   "mv": 2
+  },
   "star-trek-defiant-2023": {
    "status": "ok",
    "checked": "2026-10-20",
@@ -68162,6 +70207,11 @@
   "star-trek-green-lantern-vol-2-2016": {
    "status": "none",
    "checked": "2026-10-20",
+   "mv": 2
+  },
+  "star-trek-hells-mirror-2020": {
+   "status": "none",
+   "checked": "2026-10-24",
    "mv": 2
   },
   "star-trek-holo-ween-ii-2026": {
@@ -70845,6 +72895,11 @@
    "yearEnd": 2023,
    "url": "https://metron.cloud/series/star-wars-yoda-2023/"
   },
+  "starcadia-quest-2019": {
+   "status": "none",
+   "checked": "2026-10-24",
+   "mv": 2
+  },
   "starcraft-scavengers-2018": {
    "status": "none",
    "checked": "2026-10-23",
@@ -70983,6 +73038,40 @@
    "yearBegan": 2026,
    "yearEnd": null,
    "url": "https://metron.cloud/series/starhenge-book-two-a-kiss-for-atticus-2026/"
+  },
+  "starlord-2016": {
+   "status": "ok",
+   "checked": "2026-10-24",
+   "mv": 2,
+   "id": 4235,
+   "name": "Star-Lord",
+   "desc": "THE STIRRING STORY OF STAR-LORD STARTS HERE!\n\nBefore Peter Quill traversed the universe, before he was a Guardian, before he was Star-Lord, he was...an astronaut! Well, at least, he wanted to be. But as NASA's biggest burn-out, it looked like the once and future Star-Lord was destined to stay grounded on Earth forever. However, with his burning desire for vengeance, his expert spacecraft knowhow, and his distinct lack of scruples, odds are he won't be on Earth much longer. See how Marvel's scoundrel of the spaceways discovered the galaxy he was destined to guard!",
+   "descSource": "issue1",
+   "genres": [
+    "Super-Hero"
+   ],
+   "publisher": "Marvel",
+   "seriesStatus": "Cancelled",
+   "yearBegan": 2016,
+   "yearEnd": 2016,
+   "url": "https://metron.cloud/series/star-lord-2016/"
+  },
+  "starlord-2017": {
+   "status": "ok",
+   "checked": "2026-10-24",
+   "mv": 2,
+   "id": 4236,
+   "name": "Star-Lord",
+   "desc": "GROUNDED!\n\nPeter Quill might have been born on Earth, but he's been away a LONG time. How does a man go from soaring through the stars as the legendary Star-Lord to living with his feet planted firmly on the ground? What kind of job options are available for a guy whose CV mostly consists of \"guarding the galaxy\"? One thing is certain, Earth has a new guardian. Also, a new bartender.",
+   "descSource": "issue1",
+   "genres": [
+    "Super-Hero"
+   ],
+   "publisher": "Marvel",
+   "seriesStatus": "Cancelled",
+   "yearBegan": 2017,
+   "yearEnd": 2017,
+   "url": "https://metron.cloud/series/star-lord-2017/"
   },
   "starlord-annual-2016": {
    "status": "ok",
@@ -71123,6 +73212,11 @@
   "static-up-all-night-2023": {
    "status": "none",
    "checked": "2026-10-17",
+   "mv": 2
+  },
+  "stealth-2020": {
+   "status": "none",
+   "checked": "2026-10-24",
    "mv": 2
   },
   "steam-2020": {
@@ -71274,6 +73368,11 @@
    "yearBegan": 2019,
    "yearEnd": 2019,
    "url": "https://metron.cloud/series/stitched-terror-2019/"
+  },
+  "stone-2023": {
+   "status": "none",
+   "checked": "2026-10-24",
+   "mv": 2
   },
   "stoneheart-2023": {
    "status": "ok",
@@ -71615,6 +73714,23 @@
    "checked": "2026-10-19",
    "mv": 2
   },
+  "strangelands-2019": {
+   "status": "ok",
+   "checked": "2026-10-24",
+   "mv": 2,
+   "id": 12454,
+   "name": "Strangelands",
+   "desc": "The Humanoids H1 Universe brings you another smash series! Adam Land, an indigenous American, and Elakshi Land, a British-Asian, have what some might call \"a love-hate relationship.\" They'd probably be better off without one another, except for the fact that they have superpowers that cause mass destruction whenever they are separated. Now, their greatest challenge is to stay together-even if it tears the world apart.",
+   "descSource": "issue1",
+   "genres": [
+    "Science Fiction"
+   ],
+   "publisher": "Humanoids",
+   "seriesStatus": "Completed",
+   "yearBegan": 2019,
+   "yearEnd": 2020,
+   "url": "https://metron.cloud/series/strangelands-2019/"
+  },
   "stranger-things-2018": {
    "status": "ok",
    "checked": "2026-10-22",
@@ -71816,6 +73932,28 @@
    "checked": "2026-10-22",
    "mv": 2
   },
+  "strawberry-shortcake-funko-universe-2017": {
+   "status": "none",
+   "checked": "2026-10-24",
+   "mv": 2
+  },
+  "stray-bullets-sunshine-roses-2015": {
+   "status": "ok",
+   "checked": "2026-10-24",
+   "mv": 2,
+   "id": 7399,
+   "name": "Stray Bullets: Sunshine & Roses",
+   "desc": "STRAY BULLETS CONTINUES WITH THE BEGINNING OF A BRAND-NEW ARC OF STORIES!\n\nSUNSHINE AND ROSES is about violence, love, and really bad decisions. The Baltimore underworld is falling apart at the seams and blood has been spilt. Where and when things went to hell in a handbasket can be traced back to a time a few years earlier, when a man named Harry ran the city, Spanish Scott and Monster enforced the rules, and an insecure young man named Orson met a wild and crazy girl named Beth. The two together cooked up the boldest, most outlandish, and just about the stupidest plan ever devised-a plan to steal a whole lot of Harry's money and drugs and get a little revenge along the way.\n\nWhile every issue of STRAY BULLETS presents a complete story, the start of each new arc is the perfect place to jump on board and see what everybody else is talking about.",
+   "descSource": "issue1",
+   "genres": [
+    "Crime"
+   ],
+   "publisher": "Image Comics",
+   "seriesStatus": "Cancelled",
+   "yearBegan": 2015,
+   "yearEnd": 2020,
+   "url": "https://metron.cloud/series/stray-bullets-sunshine-roses-2015/"
+  },
   "stray-dogs-2021": {
    "status": "ok",
    "checked": "2026-10-19",
@@ -71912,6 +74050,11 @@
    "yearBegan": 2025,
    "yearEnd": 2026,
    "url": "https://metron.cloud/series/street-sharks-2025/"
+  },
+  "stretch-armstrong-and-the-flex-fighters-2018": {
+   "status": "none",
+   "checked": "2026-10-24",
+   "mv": 2
   },
   "strgrl-2022": {
    "status": "none",
@@ -72330,6 +74473,11 @@
    "yearEnd": null,
    "url": "https://metron.cloud/series/sunder-2026/"
   },
+  "sunshine-patriots-2024-": {
+   "status": "none",
+   "checked": "2026-10-24",
+   "mv": 2
+  },
   "super-creepshow-2026": {
    "status": "ok",
    "checked": "2026-10-20",
@@ -72348,6 +74496,11 @@
    "yearEnd": null,
    "url": "https://metron.cloud/series/super-creepshow-2026/"
   },
+  "super-freaks-2022": {
+   "status": "none",
+   "checked": "2026-10-24",
+   "mv": 2
+  },
   "super-mondo-mega-mutts": {
    "status": "ok",
    "checked": "2026-10-17",
@@ -72362,6 +74515,11 @@
    "yearBegan": 2026,
    "yearEnd": null,
    "url": "https://metron.cloud/series/super-mondo-mega-mutts-2026/"
+  },
+  "super-powers-2016": {
+   "status": "none",
+   "checked": "2026-10-24",
+   "mv": 2
   },
   "super-sons-2017": {
    "status": "ok",
@@ -73494,6 +75652,11 @@
    "checked": "2026-10-22",
    "mv": 2
   },
+  "swamp-god-2021": {
+   "status": "none",
+   "checked": "2026-10-24",
+   "mv": 2
+  },
   "swamp-thing-1989-2026": {
    "status": "ok",
    "checked": "2026-10-19",
@@ -73598,9 +75761,19 @@
    "yearEnd": 2018,
    "url": "https://metron.cloud/series/swashbucklers-the-saga-continues-2018/"
   },
+  "sweet-heart-2020": {
+   "status": "none",
+   "checked": "2026-10-24",
+   "mv": 2
+  },
   "sweet-konkrete-2022": {
    "status": "none",
    "checked": "2026-10-22",
+   "mv": 2
+  },
+  "sweet-lullaby-2016": {
+   "status": "none",
+   "checked": "2026-10-24",
    "mv": 2
   },
   "sweet-tooth-deluxe-edition-20152016": {
@@ -73684,6 +75857,11 @@
    "yearBegan": 2019,
    "yearEnd": 2021,
    "url": "https://metron.cloud/series/sword-master-2019/"
+  },
+  "sword-of-ages-2017": {
+   "status": "none",
+   "checked": "2026-10-24",
+   "mv": 2
   },
   "sword-of-azrael-2022": {
    "status": "ok",
@@ -74196,6 +76374,11 @@
    "checked": "2026-10-23",
    "mv": 2
   },
+  "tales-of-terror-quarterly-bachelorette-party-2021": {
+   "status": "none",
+   "checked": "2026-10-24",
+   "mv": 2
+  },
   "tales-of-terror-quarterly-game-night-2021": {
    "status": "none",
    "checked": "2026-10-24",
@@ -74338,6 +76521,11 @@
    "checked": "2026-10-24",
    "mv": 2
   },
+  "tango-2018": {
+   "status": "none",
+   "checked": "2026-10-24",
+   "mv": 2
+  },
   "tanis-2025": {
    "status": "none",
    "checked": "2026-10-21",
@@ -74461,6 +76649,11 @@
    "yearBegan": 2023,
    "yearEnd": 2023,
    "url": "https://metron.cloud/series/tear-us-apart-2023/"
+  },
+  "technofreak-2021": {
+   "status": "none",
+   "checked": "2026-10-24",
+   "mv": 2
   },
   "tedward-2025": {
    "status": "none",
@@ -74627,6 +76820,11 @@
    "mv": 2
   },
   "teen-titans-go-to-the-movies-2018": {
+   "status": "none",
+   "checked": "2026-10-24",
+   "mv": 2
+  },
+  "teen-titans-go-undead-2022": {
    "status": "none",
    "checked": "2026-10-24",
    "mv": 2
@@ -75628,6 +77826,11 @@
    "checked": "2026-10-23",
    "mv": 2
   },
+  "the-adventures-of-augusta-wind-the-last-story-2016": {
+   "status": "none",
+   "checked": "2026-10-24",
+   "mv": 2
+  },
   "the-adventures-of-blake-mortimer-the-complete-collection-2025": {
    "status": "none",
    "checked": "2026-10-22",
@@ -75830,6 +78033,21 @@
    "yearEnd": 2023,
    "url": "https://metron.cloud/series/the-ambassadors-2023/"
   },
+  "the-american-way-those-above-and-those-below-2017": {
+   "status": "ok",
+   "checked": "2026-10-24",
+   "mv": 2,
+   "id": 17144,
+   "name": "The American Way: Those Above and Those Below",
+   "desc": "It’s been a decade since the Civil Defense Corps was exposed as a fraud created by the U.S. Government for propaganda purposes. While most of the heroes who survived the catastrophe have retired or disappeared, the New American still carries on, trying to keep communities safe amid the social turmoil of the 1970s. But with the nation split in two over civil rights and the changing political landscape, this isn’t easy. Some of the American’s former colleagues are on opposite sides of the law: Amber Waves joined a group of domestic terrorists, while Missy, a.k.a. Ole Miss, has thrown her hat into the political ring. As the ground shifts beneath his feet and new threats arise, which side will the American choose?\n\nThis sequel to the hit miniseries by the original team of writer John Ridley (Oscar-winning screenwriter of 12 Years a Slave and creator of TV’s American Crime) and artist Georges Jeanty (Buffy the Vampire Slayer: Season Eight, Serenity: No Power in the ‘Verse) moves the story forward in history, factoring in how real-life events might be affected by the presence of superheroes, and how those events change the heroes in turn.",
+   "descSource": "issue1",
+   "genres": [],
+   "publisher": "DC Comics",
+   "seriesStatus": "Completed",
+   "yearBegan": 2017,
+   "yearEnd": 2018,
+   "url": "https://metron.cloud/series/the-american-way-those-above-and-those-below-2017/"
+  },
   "the-amory-wars-good-apollo-im-burning-star-iv": {
    "status": "none",
    "checked": "2026-10-19",
@@ -75912,6 +78130,11 @@
   "the-art-of-deathloop-2022": {
    "status": "none",
    "checked": "2026-10-17",
+   "mv": 2
+  },
+  "the-art-of-goosebumps-2021": {
+   "status": "none",
+   "checked": "2026-10-24",
    "mv": 2
   },
   "the-art-of-howard-chaykin-2012": {
@@ -76042,6 +78265,11 @@
   "the-ballad-of-halo-jones-2023": {
    "status": "none",
    "checked": "2026-10-22",
+   "mv": 2
+  },
+  "the-banks-2019": {
+   "status": "none",
+   "checked": "2026-10-24",
    "mv": 2
   },
   "the-batman-and-scoobydoo-mysteries-2022": {
@@ -76277,6 +78505,11 @@
   "the-black-canary-bird-of-prey-2021": {
    "status": "none",
    "checked": "2026-10-22",
+   "mv": 2
+  },
+  "the-black-dahlia-2016": {
+   "status": "none",
+   "checked": "2026-10-24",
    "mv": 2
   },
   "the-black-hood-season-2-2016": {
@@ -76961,6 +79194,11 @@
   "the-crows-2022": {
    "status": "none",
    "checked": "2026-10-23",
+   "mv": 2
+  },
+  "the-crumrin-chronicles-2021": {
+   "status": "none",
+   "checked": "2026-10-24",
    "mv": 2
   },
   "the-cull-2023": {
@@ -77836,6 +80074,11 @@
    "yearEnd": null,
    "url": "https://metron.cloud/series/the-eye-collector-2026/"
   },
+  "the-fade-2024": {
+   "status": "none",
+   "checked": "2026-10-24",
+   "mv": 2
+  },
   "the-fade-out-2018": {
    "status": "none",
    "checked": "2026-10-22",
@@ -77951,6 +80194,11 @@
    "yearBegan": 2024,
    "yearEnd": null,
    "url": "https://metron.cloud/series/the-feeding-2024/"
+  },
+  "the-final-night-2021": {
+   "status": "none",
+   "checked": "2026-10-24",
+   "mv": 2
   },
   "the-final-secret-of-adolf-hitler-2022": {
    "status": "none",
@@ -78172,6 +80420,11 @@
    "yearEnd": null,
    "url": "https://metron.cloud/series/forged-2023/"
   },
+  "the-forgotten-blade-2021": {
+   "status": "none",
+   "checked": "2026-10-24",
+   "mv": 2
+  },
   "the-forgotten-queen-2019": {
    "status": "none",
    "checked": "2026-10-23",
@@ -78270,6 +80523,11 @@
    "yearBegan": 2014,
    "yearEnd": 2016,
    "url": "https://metron.cloud/series/the-fuse-2014/"
+  },
+  "the-gatherer-2020": {
+   "status": "none",
+   "checked": "2026-10-24",
+   "mv": 2
   },
   "the-ghost-in-you-a-reckless-book-2022": {
    "status": "none",
@@ -78574,6 +80832,11 @@
    "checked": "2026-10-19",
    "mv": 2
   },
+  "the-grunch-2022": {
+   "status": "none",
+   "checked": "2026-10-24",
+   "mv": 2
+  },
   "the-guild-library-edition-2017": {
    "status": "none",
    "checked": "2026-10-23",
@@ -78691,6 +80954,11 @@
    "checked": "2026-10-22",
    "mv": 2
   },
+  "the-history-of-science-fiction-a-graphic-novel-adventure-2021": {
+   "status": "none",
+   "checked": "2026-10-24",
+   "mv": 2
+  },
   "the-hive-2025": {
    "status": "ok",
    "checked": "2026-10-18",
@@ -78788,6 +81056,11 @@
   "the-house-of-lost-horizons-a-sarah-jewell-mystery-2021": {
    "status": "none",
    "checked": "2026-10-21",
+   "mv": 2
+  },
+  "the-howling-2017": {
+   "status": "none",
+   "checked": "2026-10-24",
    "mv": 2
   },
   "the-human-target-2021": {
@@ -79086,6 +81359,23 @@
    "yearEnd": 2021,
    "url": "https://metron.cloud/series/the-invincible-red-sonja-2021/"
   },
+  "the-jetsons-2017": {
+   "status": "ok",
+   "checked": "2026-10-24",
+   "mv": 2,
+   "id": 4765,
+   "name": "The Jetsons",
+   "desc": "Meet George Jetson, a family man living an analog life in a digital world. His wife, Jane, is a brilliant NASA scientist working off-world at a conference, his daughter Judy is a social butterfly trying to discover her calling, and his boy Elroy is either doing homework or using robotic technology to break the rules. Strangest of all, George’s mother has downloaded herself into Rosie the robot!\n\nJoin this postmodern family as doom rockets toward them from the outer reaches of the galaxy on a crash course of destruction!",
+   "descSource": "issue1",
+   "genres": [
+    "Science Fiction"
+   ],
+   "publisher": "DC Comics",
+   "seriesStatus": "Completed",
+   "yearBegan": 2018,
+   "yearEnd": 2018,
+   "url": "https://metron.cloud/series/the-jetsons-2018/"
+  },
   "the-joker-19751976-2019": {
    "status": "ok",
    "checked": "2026-10-19",
@@ -79200,6 +81490,21 @@
    "status": "none",
    "checked": "2026-10-22",
    "mv": 2
+  },
+  "the-kamandi-challenge-2017": {
+   "status": "ok",
+   "checked": "2026-10-24",
+   "mv": 2,
+   "id": 106,
+   "name": "The Kamandi Challenge",
+   "desc": "In honor of the 100th birthday of Jack \"The King\" Kirby, some of today's greatest comics creators are throwing down a one-of-a-kind challenge to one another to create the most breathtaking, mind-blowing story the world has ever known. This is The Kamandi Challenge!\n\nKamandi, Jack Kirby's beloved post-apocalyptic Last Boy on Earth, fights for his survival and the fate of all humankind in a world overrun by intelligent tigers, giant robot leopards, edible plant people and even more wonders. \n\nBut this is no ordinary comics story. Each all-star creative team leaves Kamandi in a death-defying cliffhanger, and it's up to the next storytellers to pick up the gauntlet and figure out how Kamandi will survive! The result is a wild comics ride that's worthy of the King himself!\n\nTake up the challenge and see how a combination of comics legends and today's best creators--including Tom King (Batman), Neal Adams (Green Lantern/Green Arrow), James Tynion IV (Detective Comics), Bill Willingham (Fables), Amanda Conner and Jimmy Palmiotti (Harley Quinn), Ivan Reis (Justice League), Walter Simonson (Orion) and more--set out the ultimate challenge for their fellow creators!",
+   "descSource": "series",
+   "genres": [],
+   "publisher": "DC Comics",
+   "seriesStatus": "Completed",
+   "yearBegan": 2017,
+   "yearEnd": 2018,
+   "url": "https://metron.cloud/series/kamandi-challenge-2017/"
   },
   "the-karman-blade-2026": {
    "status": "ok",
@@ -79766,6 +82071,11 @@
    "checked": "2026-10-23",
    "mv": 2
   },
+  "the-living-corpse-relics-2021": {
+   "status": "none",
+   "checked": "2026-10-24",
+   "mv": 2
+  },
   "the-lone-ranger-vol-3-2018": {
    "status": "none",
    "checked": "2026-10-23",
@@ -80298,6 +82608,11 @@
    "checked": "2026-10-23",
    "mv": 2
   },
+  "the-mighty-moe-szyzlak-2017": {
+   "status": "none",
+   "checked": "2026-10-24",
+   "mv": 2
+  },
   "the-mighty-thor-2015": {
    "status": "none",
    "checked": "2026-10-17",
@@ -80355,6 +82670,11 @@
    "checked": "2026-10-19",
    "mv": 2
   },
+  "the-missing-play-2024": {
+   "status": "none",
+   "checked": "2026-10-24",
+   "mv": 2
+  },
   "the-missionary-2024": {
    "status": "ok",
    "checked": "2026-10-18",
@@ -80387,6 +82707,11 @@
    "checked": "2026-10-19",
    "mv": 2
   },
+  "the-monster-hunters-survival-guide-case-files-wendigo-2018": {
+   "status": "none",
+   "checked": "2026-10-24",
+   "mv": 2
+  },
   "the-monstrous-dreams-of-mr-providence-2022": {
    "status": "none",
    "checked": "2026-10-23",
@@ -80406,6 +82731,11 @@
    "yearBegan": 2024,
    "yearEnd": 2025,
    "url": "https://metron.cloud/series/the-moon-is-following-us-2024/"
+  },
+  "the-moon-maid-three-keys-2021": {
+   "status": "none",
+   "checked": "2026-10-24",
+   "mv": 2
   },
   "the-mortal-thor-2025": {
    "status": "none",
@@ -80811,6 +83141,11 @@
   "the-ogre-gods-2018": {
    "status": "none",
    "checked": "2026-10-23",
+   "mv": 2
+  },
+  "the-old-geezers-2019": {
+   "status": "none",
+   "checked": "2026-10-24",
    "mv": 2
   },
   "the-old-guard-2017": {
@@ -81396,9 +83731,19 @@
    "yearEnd": 2020,
    "url": "https://metron.cloud/series/question-deaths-vic-sage-2020/"
   },
+  "the-quiet-kind-2019": {
+   "status": "none",
+   "checked": "2026-10-24",
+   "mv": 2
+  },
   "the-race-of-the-century-2023": {
    "status": "none",
    "checked": "2026-10-23",
+   "mv": 2
+  },
+  "the-rainbow-catcher-2023": {
+   "status": "none",
+   "checked": "2026-10-24",
    "mv": 2
   },
   "the-realm-2017": {
@@ -81457,6 +83802,28 @@
    "yearBegan": 2020,
    "yearEnd": 2020,
    "url": "https://metron.cloud/series/resistance-2020/"
+  },
+  "the-resistance-reborns-2021": {
+   "status": "none",
+   "checked": "2026-10-24",
+   "mv": 2
+  },
+  "the-return-of-chilling-adventures-in-sorcery-2022": {
+   "status": "ok",
+   "checked": "2026-10-24",
+   "mv": 2,
+   "id": 3935,
+   "name": "The Return of Chilling Adventures in Sorcery",
+   "desc": "Madam Satan escaped Hell a fugitive and hated woman by Satan and his thralls. She's now principal of Baxter high and Hell has come to Earth. With each classroom acting as a portal to the different circles in Hell, Madam Satan must recruit similar tortured souls if she has any chance of survival... all leading up to a Madam Satan and her army vs. Satan and his in this highly-anticipated follow-up to last year's hit Chilling Adventures in Sorcery!",
+   "descSource": "issue1",
+   "genres": [
+    "Horror"
+   ],
+   "publisher": "Archie Comics",
+   "seriesStatus": "Completed",
+   "yearBegan": 2022,
+   "yearEnd": null,
+   "url": "https://metron.cloud/series/the-return-of-chilling-adventures-in-sorcery-2022/"
   },
   "the-return-of-sexton-blake-2020": {
    "status": "none",
@@ -81819,6 +84186,11 @@
    "yearEnd": 2024,
    "url": "https://metron.cloud/series/the-schlub-2023/"
   },
+  "the-school-for-little-monsters-2022": {
+   "status": "none",
+   "checked": "2026-10-24",
+   "mv": 2
+  },
   "the-scorched-2022": {
    "status": "ok",
    "checked": "2026-10-18",
@@ -82171,6 +84543,11 @@
    "yearEnd": null,
    "url": "https://metron.cloud/series/the-sixth-gun-road-to-the-six-2025/"
   },
+  "the-skeptics-2016": {
+   "status": "none",
+   "checked": "2026-10-24",
+   "mv": 2
+  },
   "the-slashers-apprentice-2025": {
    "status": "ok",
    "checked": "2026-10-18",
@@ -82249,6 +84626,11 @@
    "checked": "2026-10-22",
    "mv": 2
   },
+  "the-spiders-syndicate-of-crime-2021": {
+   "status": "none",
+   "checked": "2026-10-24",
+   "mv": 2
+  },
   "the-spire-tpb-2016": {
    "status": "none",
    "checked": "2026-10-23",
@@ -82260,6 +84642,11 @@
    "mv": 2
   },
   "the-strange-death-of-alex-raymond-2020-indie-comics": {
+   "status": "none",
+   "checked": "2026-10-24",
+   "mv": 2
+  },
+  "the-straw-king-2020": {
    "status": "none",
    "checked": "2026-10-24",
    "mv": 2
@@ -82390,6 +84777,21 @@
    "yearEnd": null,
    "url": "https://metron.cloud/series/the-terminator-santa-claus-is-coming-to-town-2025/"
   },
+  "the-terrible-elisabeth-dumn-against-the-devils-in-suits-2018": {
+   "status": "ok",
+   "checked": "2026-10-24",
+   "mv": 2,
+   "id": 11840,
+   "name": "The Terrible Elisabeth Dumn Against the Devils In Suits",
+   "desc": "Elisabeth Dumn is a strong, rebellious girl who's determined to make her own way. Good thing too, because her father long ago promised her to the Devil and he's come to claim what's his.\n\nThis is a story that will haunt you long after you've turned the final page. Part horror adventure, part surreal dreamscape, this original graphic novella features the amazing artwork of new Brazilian sensation ARABSON, with translation by Eisner Award-winner JAMES ROBINSON.",
+   "descSource": "issue1",
+   "genres": [],
+   "publisher": "Image Comics",
+   "seriesStatus": "Completed",
+   "yearBegan": 2018,
+   "yearEnd": null,
+   "url": "https://metron.cloud/series/the-terrible-elisabeth-dumn-against-the-devils-in-suits-2018/"
+  },
   "the-terrifics-2018": {
    "status": "ok",
    "checked": "2026-10-18",
@@ -82471,9 +84873,19 @@
    "checked": "2026-10-24",
    "mv": 2
   },
+  "the-three-stooges-merry-stoogemas-2017": {
+   "status": "none",
+   "checked": "2026-10-24",
+   "mv": 2
+  },
   "the-thrilling-adventure-hour-2013": {
    "status": "none",
    "checked": "2026-10-23",
+   "mv": 2
+  },
+  "the-thrilling-adventure-hour-2018": {
+   "status": "none",
+   "checked": "2026-10-24",
    "mv": 2
   },
   "the-thrilling-adventure-hour-martian-manhunt-2019": {
@@ -83422,6 +85834,23 @@
    "checked": "2026-10-19",
    "mv": 2
   },
+  "the-worst-dudes-2021": {
+   "status": "ok",
+   "checked": "2026-10-24",
+   "mv": 2,
+   "id": 4599,
+   "name": "The Worst Dudes",
+   "desc": "The book so dirty it'll turn your other comics yellow! A dirty cop, a drugged-up back-up dancer, and an angsty adolescent god; the absolute worst dudes in the galaxy are on a raunch-filled hunt for a missing pop star. It's a hilarious, aggressively weird, willfully vulgar detective story from noted reprobates Aubrey Sitterson (No One Left to Fight, The Comic Book Story of Professional Wrestling) and Tony Gregori (Deuce of Hearts, Karma Police).\n\nHeavy metal with a humorous bent.",
+   "descSource": "issue1",
+   "genres": [
+    "Science Fiction"
+   ],
+   "publisher": "Dark Horse Comics",
+   "seriesStatus": "Completed",
+   "yearBegan": 2021,
+   "yearEnd": 2021,
+   "url": "https://metron.cloud/series/the-worst-dudes-2021/"
+  },
   "the-writer-2024": {
    "status": "ok",
    "checked": "2026-10-22",
@@ -83616,6 +86045,16 @@
    "checked": "2026-10-23",
    "mv": 2
   },
+  "the-zolas-2020": {
+   "status": "none",
+   "checked": "2026-10-24",
+   "mv": 2
+  },
+  "ther-empire-eternal-glory-2016": {
+   "status": "none",
+   "checked": "2026-10-24",
+   "mv": 2
+  },
   "theres-nothing-there-2017": {
    "status": "ok",
    "checked": "2026-10-17",
@@ -83683,6 +86122,11 @@
    "yearEnd": 2017,
    "url": "https://metron.cloud/series/theyre-not-like-us-2014/"
   },
+  "thick-skins-2022": {
+   "status": "none",
+   "checked": "2026-10-24",
+   "mv": 2
+  },
   "thief-of-thieves-2012": {
    "status": "ok",
    "checked": "2026-10-20",
@@ -83699,6 +86143,11 @@
    "yearBegan": 2012,
    "yearEnd": 2019,
    "url": "https://metron.cloud/series/thief-of-thieves-2012/"
+  },
+  "think-tank-2017": {
+   "status": "none",
+   "checked": "2026-10-24",
+   "mv": 2
   },
   "think-tank-animal-2017": {
    "status": "none",
@@ -83988,6 +86437,11 @@
    "yearBegan": 2016,
    "yearEnd": 2018,
    "url": "https://metron.cloud/series/throwaways-2016/"
+  },
+  "thumbs-2019": {
+   "status": "none",
+   "checked": "2026-10-24",
+   "mv": 2
   },
   "thundarr-the-barbarian-2026": {
    "status": "ok",
@@ -84316,6 +86770,23 @@
    "yearBegan": 2021,
    "yearEnd": 2023,
    "url": "https://metron.cloud/series/time-before-time-2021/"
+  },
+  "time-traveler-tales-2023": {
+   "status": "ok",
+   "checked": "2026-10-24",
+   "mv": 2,
+   "id": 6296,
+   "name": "Time Traveler Tales",
+   "desc": "Oliver has a problem—a time travel problem. Some mysterious force keeps throwing him through time, and this time he's in the Wild West, rescuing... circus animals? But as crazy as that is, it's only the beginning of his adventure. Content creator and internet superstar Karl Jacobs debuts his new all-ages comics series, created in collaboration with writer David Scheidt, artists Kicking Shoes, and letterer Joamette Gil. Inspired by Karl Jacobs's popular Minecraft stories on Tales from the SMP.",
+   "descSource": "issue1",
+   "genres": [
+    "Fantasy"
+   ],
+   "publisher": "Dark Horse Comics",
+   "seriesStatus": "Completed",
+   "yearBegan": 2023,
+   "yearEnd": 2024,
+   "url": "https://metron.cloud/series/time-traveler-tales-2023/"
   },
   "time-waits-2024": {
    "status": "ok",
@@ -84704,6 +87175,11 @@
    "checked": "2026-10-22",
    "mv": 2
   },
+  "tom-thomson-sketches-of-springtime-2020": {
+   "status": "none",
+   "checked": "2026-10-24",
+   "mv": 2
+  },
   "tomb-of-apocalypse-2026": {
    "status": "ok",
    "checked": "2026-10-16",
@@ -84767,6 +87243,11 @@
    "yearBegan": 2015,
    "yearEnd": 2017,
    "url": "https://metron.cloud/series/tomboy-2015/"
+  },
+  "tommy-gun-wizards-2019": {
+   "status": "none",
+   "checked": "2026-10-24",
+   "mv": 2
   },
   "tomorrow-2020": {
    "status": "ok",
@@ -84893,6 +87374,23 @@
    "yearEnd": 2026,
    "url": "https://metron.cloud/series/touched-by-a-demon-2026/"
   },
+  "touching-evil-2020": {
+   "status": "ok",
+   "checked": "2026-10-24",
+   "mv": 2,
+   "id": 9746,
+   "name": "Touching Evil",
+   "desc": "An attorney is given a curse from a mysterious prisoner that allows her to kill anyone instantly with just a touch of her hand... but only if they're evil. Her whole life is turned upside down in an instant as she is forced to question what evil is, who she can trust, and her own sanity. Get ready to meet a hero unlike anyone you've ever seen, and forgive her if she doesn't shake hands.",
+   "descSource": "issue1",
+   "genres": [
+    "Crime"
+   ],
+   "publisher": "Source Point Press",
+   "seriesStatus": "Completed",
+   "yearBegan": 2019,
+   "yearEnd": 2022,
+   "url": "https://metron.cloud/series/touching-evil-2019/"
+  },
   "toxic-avenger-comics-2025": {
    "status": "ok",
    "checked": "2026-10-17",
@@ -84965,6 +87463,11 @@
   "trackers-presents-captain-nick-the-explorer-society-compass-of-mems-2023": {
    "status": "none",
    "checked": "2026-10-23",
+   "mv": 2
+  },
+  "tramp-2017": {
+   "status": "none",
+   "checked": "2026-10-24",
    "mv": 2
   },
   "tramps-of-the-apocalypse-2025": {
@@ -85502,6 +88005,11 @@
    "yearEnd": 2023,
    "url": "https://metron.cloud/series/trojan-2023/"
   },
+  "trout-the-hollowest-knock-2019": {
+   "status": "none",
+   "checked": "2026-10-24",
+   "mv": 2
+  },
   "trover-saves-the-universe-2021": {
    "status": "ok",
    "checked": "2026-10-21",
@@ -85742,6 +88250,11 @@
    "yearBegan": 2019,
    "yearEnd": null,
    "url": "https://metron.cloud/series/typhoid-fever-x-men-2019/"
+  },
+  "tzee-an-african-tragedy-2022": {
+   "status": "none",
+   "checked": "2026-10-24",
+   "mv": 2
   },
   "u-i-2024": {
    "status": "none",
@@ -86420,6 +88933,11 @@
    "checked": "2026-10-21",
    "mv": 2
   },
+  "underdog-2017": {
+   "status": "none",
+   "checked": "2026-10-24",
+   "mv": 2
+  },
   "underearth-2020": {
    "status": "none",
    "checked": "2026-10-22",
@@ -86500,6 +89018,21 @@
    "checked": "2026-10-23",
    "mv": 2
   },
+  "undone-by-blood-2020": {
+   "status": "ok",
+   "checked": "2026-10-24",
+   "mv": 2,
+   "id": 1102,
+   "name": "Undone By Blood",
+   "desc": "In the early 1970s, Ethel Grady Lane returns to her hometown of Sweetheart, Arizona with one thing on her mind: killing the man who murdered her family. But first, she’ll have to find him.\n\nAs Ethel navigates the eccentric town and its inhabitants, she learns that the quaint veneer hides a brewing darkness. She has no choice but to descend into a ring of depravity and violence, with her only ally an Old West novel that follows famed gunslinger Solomon Eaton. As both stories unfold simultaneously, a love of fiction informs choices in reality, for better or worse.",
+   "descSource": "issue1",
+   "genres": [],
+   "publisher": "AfterShock Comics",
+   "seriesStatus": "Ongoing",
+   "yearBegan": 2020,
+   "yearEnd": null,
+   "url": "https://metron.cloud/series/undone-blood-2020/"
+  },
   "unearth-2019": {
    "status": "ok",
    "checked": "2026-10-18",
@@ -86519,6 +89052,11 @@
    "url": "https://metron.cloud/series/unearth-2019/"
   },
   "unearthed-a-jessica-cruz-story-2021": {
+   "status": "none",
+   "checked": "2026-10-24",
+   "mv": 2
+  },
+  "unfinished-business-2021": {
    "status": "none",
    "checked": "2026-10-24",
    "mv": 2
@@ -86552,6 +89090,11 @@
    "yearBegan": 2017,
    "yearEnd": 2017,
    "url": "https://metron.cloud/series/unholy-grail-2017/"
+  },
+  "unikorn-2021": {
+   "status": "none",
+   "checked": "2026-10-24",
+   "mv": 2
   },
   "union-jack-the-ripper-blood-hunt-2024": {
    "status": "ok",
@@ -86780,6 +89323,11 @@
   "until-my-knuckles-bleed-one-deadly-shot-2022": {
    "status": "none",
    "checked": "2026-10-18",
+   "mv": 2
+  },
+  "untold-horror-2021": {
+   "status": "none",
+   "checked": "2026-10-24",
    "mv": 2
   },
   "untold-tales-of-i-hate-fairyland-2023": {
@@ -87153,6 +89701,23 @@
    "yearEnd": 2020,
    "url": "https://metron.cloud/series/valkyrie-jane-foster-2019/"
   },
+  "valkyrie-saviors-2021": {
+   "status": "ok",
+   "checked": "2026-10-24",
+   "mv": 2,
+   "id": 11267,
+   "name": "Valkyrie Saviors",
+   "desc": "An epic new tale in the Patriotika-verse, because some things in it are too big to contain in one series! College students by day, Kaiju-size Valkyrie warriors by night! Larissa, Valkyrie of the Tides, is the only one of Freja's forces who remains to fight the evil Zodiac gods! Can she find new recruits in time to stop them? Inspired by various manga and anime, Valkyrie Saviors has action, Norse Mythology, beautiful warrior maidens, comedy, and more!\"",
+   "descSource": "issue1",
+   "genres": [
+    "Fantasy"
+   ],
+   "publisher": "Antarctic Press",
+   "seriesStatus": "Completed",
+   "yearBegan": 2021,
+   "yearEnd": 2021,
+   "url": "https://metron.cloud/series/valkyrie-saviors-2021/"
+  },
   "vampblade-2016": {
    "status": "none",
    "checked": "2026-10-22",
@@ -87420,6 +89985,11 @@
    "checked": "2026-10-21",
    "mv": 2
   },
+  "vampirella-trial-of-the-soul-2020-oneshot": {
+   "status": "none",
+   "checked": "2026-10-24",
+   "mv": 2
+  },
   "vampirella-valentines-day-special-2019": {
    "status": "ok",
    "checked": "2026-10-23",
@@ -87638,9 +90208,19 @@
    "checked": "2026-10-22",
    "mv": 2
   },
+  "van-helsing-beast-of-exmoor-2021": {
+   "status": "none",
+   "checked": "2026-10-24",
+   "mv": 2
+  },
   "van-helsing-bloodborne-2022": {
    "status": "none",
    "checked": "2026-10-21",
+   "mv": 2
+  },
+  "van-helsing-bonded-by-blood-2024": {
+   "status": "none",
+   "checked": "2026-10-24",
    "mv": 2
   },
   "van-helsing-finding-neverland-2023": {
@@ -87671,6 +90251,16 @@
   "van-helsing-hour-of-the-witch-2022": {
    "status": "none",
    "checked": "2026-10-22",
+   "mv": 2
+  },
+  "van-helsing-invisible-woman-2021": {
+   "status": "none",
+   "checked": "2026-10-24",
+   "mv": 2
+  },
+  "van-helsing-shattered-soul-2022": {
+   "status": "none",
+   "checked": "2026-10-24",
    "mv": 2
   },
   "van-helsing-sword-of-heaven-2018": {
@@ -88540,6 +91130,11 @@
    "checked": "2026-10-23",
    "mv": 2
   },
+  "volcanosaurus-2017": {
+   "status": "none",
+   "checked": "2026-10-24",
+   "mv": 2
+  },
   "voltron-legendary-defender-vol-1-tpb-2016": {
    "status": "none",
    "checked": "2026-10-23",
@@ -88553,6 +91148,11 @@
   "voltron-legendary-defender-vol-3-2018": {
    "status": "none",
    "checked": "2026-10-23",
+   "mv": 2
+  },
+  "voracious-appetite-for-destruction-2019": {
+   "status": "none",
+   "checked": "2026-10-24",
    "mv": 2
   },
   "voyagis-2022": {
@@ -88709,6 +91309,16 @@
   "walt-disneys-comics-stories-1940": {
    "status": "none",
    "checked": "2026-10-17",
+   "mv": 2
+  },
+  "walt-disneys-silly-symphonies-19351939-starring-donald-duck-and-the-big-bad-wolf-2023": {
+   "status": "none",
+   "checked": "2026-10-24",
+   "mv": 2
+  },
+  "wanderlust-blues-2017": {
+   "status": "none",
+   "checked": "2026-10-24",
    "mv": 2
   },
   "wanted-lucky-luke-2021": {
@@ -89032,6 +91642,11 @@
    "yearEnd": 2025,
    "url": "https://metron.cloud/series/warm-fusion-2024/"
   },
+  "warrior-nun-areala-armor-of-god-2020": {
+   "status": "none",
+   "checked": "2026-10-24",
+   "mv": 2
+  },
   "warrior-nun-dora-2019": {
    "status": "none",
    "checked": "2026-10-23",
@@ -89172,6 +91787,11 @@
    "yearBegan": 2014,
    "yearEnd": 2018,
    "url": "https://metron.cloud/series/wayward-2014/"
+  },
+  "we-are-the-danger-2018": {
+   "status": "none",
+   "checked": "2026-10-24",
+   "mv": 2
   },
   "we-called-them-giants-2024": {
    "status": "none",
@@ -90765,6 +93385,11 @@
    "checked": "2026-10-23",
    "mv": 2
   },
+  "wings-of-war-adler-2019": {
+   "status": "none",
+   "checked": "2026-10-24",
+   "mv": 2
+  },
   "winnebago-graveyard-2017": {
    "status": "none",
    "checked": "2026-10-23",
@@ -91439,6 +94064,11 @@
    "yearEnd": 2017,
    "url": "https://metron.cloud/series/wonder-woman-77-meets-the-bionic-woman-2016/"
   },
+  "wonder-woman-80th-anniversary-100page-super-spectacular-2021": {
+   "status": "none",
+   "checked": "2026-10-24",
+   "mv": 2
+  },
   "wonder-woman-agent-of-peace-2020": {
    "status": "none",
    "checked": "2026-10-17",
@@ -91633,6 +94263,11 @@
    "checked": "2026-10-21",
    "mv": 2
   },
+  "wonder-woman-tempest-tossed-wonder-woman-day-special-edition-2021": {
+   "status": "none",
+   "checked": "2026-10-24",
+   "mv": 2
+  },
   "wonder-woman-the-adventures-of-young-diana-2024": {
    "status": "none",
    "checked": "2026-10-23",
@@ -91739,6 +94374,23 @@
    "checked": "2026-10-23",
    "mv": 2
   },
+  "wonderland-child-of-madness-2023": {
+   "status": "ok",
+   "checked": "2026-10-24",
+   "mv": 2,
+   "id": 6968,
+   "name": "Wonderland: Child of Madness",
+   "desc": "Everything must come to an end. But for Calie Liddle, her story is just beginning…again. Trapped in the form of an infant, and being raised by her daughter Violet, the Liddles must navigate this new form of madness if they hope to return to some semblance of normalcy, or be forever plagued by the insanity that is Wonderland.",
+   "descSource": "issue1",
+   "genres": [
+    "Fantasy"
+   ],
+   "publisher": "Zenescope Entertainment",
+   "seriesStatus": "Completed",
+   "yearBegan": 2023,
+   "yearEnd": 2024,
+   "url": "https://metron.cloud/series/wonderland-child-of-madness-2023/"
+  },
   "wonderland-return-to-madness-2024": {
    "status": "none",
    "checked": "2026-10-20",
@@ -91760,6 +94412,11 @@
    "yearBegan": 2017,
    "yearEnd": null,
    "url": "https://metron.cloud/series/world-of-animosity-2017/"
+  },
+  "world-of-archie-2019": {
+   "status": "none",
+   "checked": "2026-10-24",
+   "mv": 2
   },
   "world-of-archie-comics-digest-2010": {
    "status": "none",
@@ -91890,6 +94547,16 @@
    "url": "https://metron.cloud/series/worlds-finest-teen-titans-2023/"
   },
   "worlds-unseen-2019": {
+   "status": "none",
+   "checked": "2026-10-24",
+   "mv": 2
+  },
+  "wormwood-gentleman-corpse-christmas-special-2017": {
+   "status": "none",
+   "checked": "2026-10-24",
+   "mv": 2
+  },
+  "wormwood-gentleman-corpse-mr-wormwood-goes-to-washington-2017": {
    "status": "none",
    "checked": "2026-10-24",
    "mv": 2
@@ -93773,6 +96440,11 @@
    "yearEnd": 2017,
    "url": "https://metron.cloud/series/yakuza-demon-killers-2016/"
   },
+  "yars-rising-2024": {
+   "status": "none",
+   "checked": "2026-10-24",
+   "mv": 2
+  },
   "year-of-the-villain-hell-arisen-2019": {
    "status": "ok",
    "checked": "2026-10-18",
@@ -93834,6 +96506,11 @@
    "mv": 2
   },
   "you-brought-me-the-ocean-2020": {
+   "status": "none",
+   "checked": "2026-10-24",
+   "mv": 2
+  },
+  "you-dont-know-jack-2020-indie-comics": {
    "status": "none",
    "checked": "2026-10-24",
    "mv": 2
@@ -93992,6 +96669,11 @@
    "yearEnd": null,
    "url": "https://metron.cloud/series/young-monsters-love-2018/"
   },
+  "young-terrorists-2015": {
+   "status": "none",
+   "checked": "2026-10-24",
+   "mv": 2
+  },
   "youngblood-2017": {
    "status": "none",
    "checked": "2026-10-22",
@@ -94053,6 +96735,23 @@
    "yearEnd": 2025,
    "url": "https://metron.cloud/series/your-friendly-neighborhood-spider-man-2025/"
   },
+  "your-pal-archie-2017": {
+   "status": "ok",
+   "checked": "2026-10-24",
+   "mv": 2,
+   "id": 6666,
+   "name": "Your Pal Archie",
+   "desc": "",
+   "descSource": "",
+   "genres": [
+    "Humor"
+   ],
+   "publisher": "Archie Comics",
+   "seriesStatus": "Cancelled",
+   "yearBegan": 2017,
+   "yearEnd": 2018,
+   "url": "https://metron.cloud/series/your-pal-archie-2017/"
+  },
   "youve-been-cancelled-2023": {
    "status": "ok",
    "checked": "2026-10-22",
@@ -94106,6 +96805,23 @@
    "yearBegan": 2026,
    "yearEnd": null,
    "url": "https://metron.cloud/series/yumi-00ex-2026/"
+  },
+  "z-nation-2017": {
+   "status": "ok",
+   "checked": "2026-10-24",
+   "mv": 2,
+   "id": 11141,
+   "name": "Z Nation",
+   "desc": "A prequel set in the world of Syfy’s #1 scripted hit zombie series Z Nation, Black Summer is as bad as the apocalypse gets. A worldwide drought and famine when most of the surviving population dies and turns zombie. As the remnants of humanity cling to existence, fan favorite Charles Garnett returns to send a new team on a desperate new mission: Retrieve a possibly untouched cache of the food substitute Soylent Z from Galveston, Texas.\n\nBut when mission leader Israel Johnson and his small team arrive in Galveston, they’ll face a threat unlike anything ever seen before in the zombie genre. Featuring Z Nation’s signature blend of horror, humor and heart, Black Summer is the start of a newseries from acclaimed writer Fred Van Lente (Marvel Zombies, G.I. Joe) and Craig Engler, based on the long running series Z NATION by Karl Schaefer and Craig Engler.",
+   "descSource": "issue1",
+   "genres": [
+    "Horror"
+   ],
+   "publisher": "Dynamite Entertainment",
+   "seriesStatus": "Completed",
+   "yearBegan": 2017,
+   "yearEnd": 2017,
+   "url": "https://metron.cloud/series/z-nation-2017/"
   },
   "zaroff-2019": {
    "status": "none",
@@ -94230,6 +96946,11 @@
    "checked": "2026-10-20",
    "mv": 2
   },
+  "zenescope-legends-summer-2025": {
+   "status": "none",
+   "checked": "2026-10-24",
+   "mv": 2
+  },
   "zenescope-myths-and-monsters-winter-2026": {
    "status": "none",
    "checked": "2026-10-23",
@@ -94255,10 +96976,30 @@
    "checked": "2026-10-21",
    "mv": 2
   },
+  "zodiac-2019": {
+   "status": "none",
+   "checked": "2026-10-24",
+   "mv": 2
+  },
   "zodiac-starforce-cries-of-the-fire-prince-2017": {
    "status": "none",
    "checked": "2026-10-18",
    "mv": 2
+  },
+  "zojaqan-2017": {
+   "status": "ok",
+   "checked": "2026-10-24",
+   "mv": 2,
+   "id": 17707,
+   "name": "Zojaqan",
+   "desc": "Grieving mother Shannon Kind awakens on a primordial world, mysteriously wielding the power to shape its destiny. Will she be this world's savior - or its destroyer? From New York Times-bestsellers Collin Kelly and Jackson Lanzing (Batman & Robin Eternal, Joyride) and Nathan Gooden (Powerless) comes a fantasy epic that's equal parts Red Sonja, Dune, and Slaughterhouse Five. Can you survive ZOJAQAN?",
+   "descSource": "issue1",
+   "genres": [],
+   "publisher": "Vault Comics",
+   "seriesStatus": "Completed",
+   "yearBegan": 2017,
+   "yearEnd": 2018,
+   "url": "https://metron.cloud/series/zojaqan-2017/"
   },
   "zombie-camp-2017": {
    "status": "none",
