@@ -89,6 +89,23 @@
    "yearEnd": 2010,
    "url": "https://metron.cloud/series/1001-arabian-nights-the-adventures-of-sinbad-2008/"
   },
+  "12-foot-skeleton-2026": {
+   "status": "ok",
+   "checked": "2026-11-05",
+   "mv": 2,
+   "id": 16935,
+   "name": "12-Foot Skeleton",
+   "desc": "This might be Lola and Jimmy’s last Halloween. Not because they’re aging out at 12-years-old... there's a 12-foot-tall lawn skeleton on a rampage in their neighborhood!\n\nLola is a triple threat of social suicide: goth girl, new kid, and outspoken feminist. Meanwhile, Jimmy is a bookish, quiet, bullied kid trying to enjoy his favorite holiday between cancer treatments.\n\nWhen Lola discovers she might have a much stronger connection with the malevolent force inhabiting the skeleton than she could ever imagine possible, it's up to Jimmy to inspire them to face certain danger and embrace the future rather than run from their traumatic pasts.\n\nAaron Campbell (Hellblazer), Tim Seeley (Inglorious X-Force), and Ben Templesmith (30 Days of Night) present a Halloween story with the heart and soul of a classic Spielberg film alongside all the spills, chills, and horrifying thrills of everyone’s favorite 1980s slasher movies!",
+   "descSource": "issue1",
+   "genres": [
+    "Horror"
+   ],
+   "publisher": "Ignition Press",
+   "seriesStatus": "Ongoing",
+   "yearBegan": 2026,
+   "yearEnd": null,
+   "url": "https://metron.cloud/series/12-foot-skeleton-2026/"
+  },
   "13-demons-dead-2026": {
    "status": "none",
    "checked": "2026-10-17",
@@ -51355,6 +51372,21 @@
    "yearBegan": 2018,
    "yearEnd": null,
    "url": "https://metron.cloud/series/mad-magazine-2018/"
+  },
+  "mad-science-division-2026": {
+   "status": "ok",
+   "checked": "2026-11-05",
+   "mv": 2,
+   "id": 17282,
+   "name": "Mad Science Division",
+   "desc": "It’s no secret Archimedes Anderson is a nepo hire. Assigned chief-coordinator of R&D at the American arm of genetic engineering and bioweapons development company Miyashi-Smith, everyone knows he’s here for one purpose: to slash the budget and trim the fat. If he can cut 30% from the unaffectionately nicknamed “Mad Science Division” budget, he’ll earn a cushy, high-level job at HQ.\n\nHe goes in with a move-fast-and-break-stuff attitude, knowing absolutely nothing about the dangerous genetic experiments taking place in the division. When he upsets the delicate equilibrium of the department factions and removes guard rails which protect the workers and the public, he winds up exposing them to terrible, evil experiments.\n\nFrom the twisted minds of Dan Watters (Nightwing; TMNT: Shredder) and Brian Level (Venom: Black, White & Blood) comes a comedic, sci-fi horror series that asks, “What if DOGE dismantled the SCP Foundation?”",
+   "descSource": "issue1",
+   "genres": [],
+   "publisher": "Ignition Press",
+   "seriesStatus": "Ongoing",
+   "yearBegan": 2026,
+   "yearEnd": null,
+   "url": "https://metron.cloud/series/mad-science-division-2026/"
   },
   "mad-spy-vs-spy-2024": {
    "status": "none",
