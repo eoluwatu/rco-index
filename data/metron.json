@@ -649,6 +649,23 @@
    "checked": "2026-10-23",
    "mv": 2
   },
+  "a-quiet-place-rising-tides-2026": {
+   "status": "ok",
+   "checked": "2026-11-17",
+   "mv": 2,
+   "id": 17560,
+   "name": "A Quiet Place: Rising Tides",
+   "desc": "Shhhhhhhhhhhhhhhh...\n\nWhen a young woman named Grace tracks her estranged father to a run-down houseboat in the Florida Keys, she expects disappointment, resentment, maybe even closure. Instead, the entire world ends.\n\nNow stranded in the aftermath of the invasion that shattered civilization, she and her sick, aging father cling to survival on the open water — the only space safe from the creatures who attack at the sound of a single breath. But his oxygen is running low, supplies are disappearing quickly, and the deadly predators circling the shoreline are learning fast.\n\nAnd on top of it all, a hurricane is coming.\n\nA tense, new emotional story begins within the world of the acclaimed A Quiet Place franchise. Declan Shalvey (Moon Knight, Wolverine, Terminator) and Luke Sparrow (Terminator) ask: What would you do when stuck between the choice of sudden death or rising tides?",
+   "descSource": "issue1",
+   "genres": [
+    "Horror"
+   ],
+   "publisher": "IDW Publishing",
+   "seriesStatus": "Ongoing",
+   "yearBegan": 2026,
+   "yearEnd": null,
+   "url": "https://metron.cloud/series/a-quiet-place-rising-tides-2026/"
+  },
   "a-quiet-place-storm-warning-2026": {
    "status": "ok",
    "checked": "2026-10-20",
@@ -14559,6 +14576,23 @@
    "yearEnd": null,
    "url": "https://metron.cloud/series/brzrkr-a-faceful-of-bullets-2024/"
   },
+  "brzrkr-city-of-darkness-2026": {
+   "status": "ok",
+   "checked": "2026-11-17",
+   "mv": 2,
+   "id": 17562,
+   "name": "BRZRKR: City of Darkness",
+   "desc": "Take an explosive trip across the world and back in time in this all-new entry to the breakout hit universe!\n\nHONG KONG, 1994: The handover from the UK to China is fast-approaching, and Hong Kong has been plunged into chaos.\n\nA brutal triad gang war is spilling into the streets in a flood of blood and bullets, and a young Triad’s life is about to change forever as he steps into the shadow of the BRZRKR!\n\nInto this wave of heroic bloodshed enters B, with a centuries-long wrong to right, and ten thousand bullets to do it with.\n\nFrom veteran writer Mike Costa and artist Kenny Wong comes a hard-boiled action masterpiece only BRZRKR can deliver!",
+   "descSource": "issue1",
+   "genres": [
+    "Action"
+   ],
+   "publisher": "Boom! Studios",
+   "seriesStatus": "Completed",
+   "yearBegan": 2026,
+   "yearEnd": null,
+   "url": "https://metron.cloud/series/brzrkr-city-of-darkness-2026/"
+  },
   "brzrkr-fallen-empire-2023": {
    "status": "ok",
    "checked": "2026-10-20",
@@ -15486,6 +15520,21 @@
    "status": "none",
    "checked": "2026-10-23",
    "mv": 2
+  },
+  "canto-the-clockwork-chronicles-2026": {
+   "status": "ok",
+   "checked": "2026-11-17",
+   "mv": 2,
+   "id": 17557,
+   "name": "Canto: The Clockwork Chronicles",
+   "desc": "The small knight with a big heart travels the Unnamed World to help those in need! That mission takes him to the mysterious Forgotten Isles, where jungle fauna mixes with strange machines. The mystery of what happened to the Forgotten People who once lived there is put on hold when catastrophe befalls his best friend Mico the Malorex! Will Canto’s courage be enough to save his companion?\n\nSet sail with Canto across the Mechanical Sea in this all-new ongoing series. Join adventurers David M. Booher and Drew Zucker at the start of this thrilling journey, overflowing with action, suspense, and heart!",
+   "descSource": "issue1",
+   "genres": [],
+   "publisher": "Dark Horse Comics",
+   "seriesStatus": "Ongoing",
+   "yearBegan": 2026,
+   "yearEnd": null,
+   "url": "https://metron.cloud/series/canto-the-clockwork-chronicles-2026/"
   },
   "canto-the-clockwork-fairies-2020": {
    "status": "none",
@@ -16746,6 +16795,23 @@
    "yearBegan": 2021,
    "yearEnd": 2021,
    "url": "https://metron.cloud/series/chained-to-the-grave-2021/"
+  },
+  "chainkata-2026": {
+   "status": "ok",
+   "checked": "2026-11-17",
+   "mv": 2,
+   "id": 17551,
+   "name": "Chainkata",
+   "desc": "Luma is a chainsaw-wielding warrior queen seeking out an unknown power in the vastness of space. All she wants is to find peace... but violence and terror chase her through every black hole. Princess Mononoke meets Warhammer 40k in this high octane, sci-fi adventure poised to be the biggest launch of the year! It all begins with forty pages of story with no ads for the regular price of just $3.99!",
+   "descSource": "issue1",
+   "genres": [
+    "Science Fiction"
+   ],
+   "publisher": "Image Comics",
+   "seriesStatus": "Ongoing",
+   "yearBegan": 2026,
+   "yearEnd": null,
+   "url": "https://metron.cloud/series/chainkata-2026/"
   },
   "chainsaw-reindeer-2019": {
    "status": "none",
@@ -27845,6 +27911,24 @@
    "checked": "2026-10-21",
    "mv": 2
   },
+  "egg-hunt-2026": {
+   "status": "ok",
+   "checked": "2026-11-17",
+   "mv": 2,
+   "id": 17559,
+   "name": "Egg Hunt",
+   "desc": "FROM THE TWISTED MIND OF BENJAMIN PERCY COMES A SCIFI HORROR EPIC LIKE YOU’VE NEVER SEEN BEFORE\n\nEaster Sunday in the Midwest. Sunrise service. The Lord has risen, and the hungry will come. A visitor crash-lands in the woods surrounding the picket-fence suburbia where little Piper lives with her mom Tina and her nasty stepdad Don. The world is frightening and alien for both Piper and her new…friend… but on this day of cosmic forgiveness, when her family falls apart, the unlikely pair may find their own salvations. Bestselling writer Benjamin Percy (The End Times, Wolverine, Punisher) and artist RaUl Fernández (Profane, Terrors Through Time) launch the most ambitious series of the year!",
+   "descSource": "issue1",
+   "genres": [
+    "Horror",
+    "Science Fiction"
+   ],
+   "publisher": "Mad Cave Studios",
+   "seriesStatus": "Ongoing",
+   "yearBegan": 2026,
+   "yearEnd": null,
+   "url": "https://metron.cloud/series/egg-hunt-2026/"
+  },
   "eight-billion-genies-2022": {
    "status": "ok",
    "checked": "2026-10-18",
@@ -33673,6 +33757,23 @@
    "yearBegan": 2022,
    "yearEnd": 2022,
    "url": "https://metron.cloud/series/ghost-cage-2022/"
+  },
+  "ghost-drive-station-2026": {
+   "status": "ok",
+   "checked": "2026-11-17",
+   "mv": 2,
+   "id": 17552,
+   "name": "Ghost Drive Station",
+   "desc": "From The New York Times bestselling writer WARREN ELLIS (TREES, Transmetropolitan, Netflix's Castlevania) and Grammy-nominated artist/designer LORDESS FOUDRE (Soccer Mommy's Color Theory, Trashumanism, Kasablanca), an eerie graphic novella about death and the digital.\n\nOn the anniversary of the worst thing that ever happened to him, a haunted investigator with no time for the modern world is sent to a research station in the desert to discover why it’s gone offline. What he finds is an experiment in immortality gone horribly wrong, with stakes both global and very, very personal.",
+   "descSource": "issue1",
+   "genres": [
+    "Science Fiction"
+   ],
+   "publisher": "Image Comics",
+   "seriesStatus": "Completed",
+   "yearBegan": 2026,
+   "yearEnd": null,
+   "url": "https://metron.cloud/series/ghost-drive-station-2026/"
   },
   "ghost-hog-2019": {
    "status": "none",
@@ -93908,6 +94009,21 @@
    "yearEnd": null,
    "url": "https://metron.cloud/series/uncle-scrooge-2025/"
   },
+  "uncle-scrooge-a-christmas-carol-2026": {
+   "status": "ok",
+   "checked": "2026-11-17",
+   "mv": 2,
+   "id": 17554,
+   "name": "Uncle Scrooge: A Christmas Carol",
+   "desc": "A HOLIDAY ADVENTURE ACROSS PAST, PRESENT AND FUTURE!\n\nSCROOGE chooses gold over CHRISTMAS and ends up spending the holiday all alone! Three magical adventures force him to revisit the treasures that truly matter! Will Scrooge learn that family is worth more than all the gold in his Money Bin? Guest-starring DONALD DUCK, HUEY, DEWEY, LOUIE, LUDWIG VON DRAKE, GYRO GEARLOOSE and more!",
+   "descSource": "issue1",
+   "genres": [],
+   "publisher": "Marvel",
+   "seriesStatus": "Completed",
+   "yearBegan": 2027,
+   "yearEnd": null,
+   "url": "https://metron.cloud/series/uncle-scrooge-a-christmas-carol-2027/"
+  },
   "uncle-scrooge-and-donald-duck-bear-mountain-tales-2022": {
    "status": "none",
    "checked": "2026-10-23",
@@ -95089,6 +95205,21 @@
    "status": "none",
    "checked": "2026-10-23",
    "mv": 2
+  },
+  "vampirella-paradise-2026": {
+   "status": "ok",
+   "checked": "2026-11-17",
+   "mv": 2,
+   "id": 17558,
+   "name": "Vampirella: Paradise",
+   "desc": "Dynamite takes Vampirella to... Paradise!\n\nShe's been to hell and back and now, legendary writer Tom Sniegoski continues his epic tales of Vampirella with this all-new series! At the end of Vampirella: Armageddon, the Almighty God bestowed upon Vampirella a wondrous gift, but this new world she finds herself in is corrupted by The Mad God of Chaos and the Blood Red Queen of Hearts. While living a dreamlike existence in paradise, Vampirella will unfold the darkness and be called to battle once more!\n\nFeaturing the return of Armageddon artist Edu Menna, this new series also features the return of cover artist Francesco Mattina, Joseph Michael Linsner, the dynamite debut of Josephine Tomarchio and the cosplay of Lauren DeLorean!",
+   "descSource": "issue1",
+   "genres": [],
+   "publisher": "Dynamite Entertainment",
+   "seriesStatus": "Ongoing",
+   "yearBegan": 2026,
+   "yearEnd": null,
+   "url": "https://metron.cloud/series/vampirella-paradise-2026/"
   },
   "vampirella-prey-for-the-sinner-2021": {
    "status": "none",
@@ -100230,6 +100361,23 @@
    "checked": "2026-10-17",
    "mv": 2
   },
+  "x-men-incursions-2026": {
+   "status": "ok",
+   "checked": "2026-11-17",
+   "mv": 2,
+   "id": 17555,
+   "name": "X-Men: Incursions",
+   "desc": "WHEN TIME RAN OUT!\n\nIt was a catastrophe that led to the end of both the Ultimate and Marvel Universes and birthed the conflict known as SECRET WARS! But not every story of those dark days has yet been revealed! In the first of five one-shots harkening back to that period, witness what happens when the universe of the mutant-ascendent HOUSE OF M intersects with that of the DAYS OF FUTURE PAST! In eight hours, only one can survive, or both will collide and be utterly annihilated! This devastating choice is left in the hands of Kate Pryde!",
+   "descSource": "issue1",
+   "genres": [
+    "Super-Hero"
+   ],
+   "publisher": "Marvel",
+   "seriesStatus": "Completed",
+   "yearBegan": 2027,
+   "yearEnd": null,
+   "url": "https://metron.cloud/series/x-men-incursions-2027/"
+  },
   "x-men-of-apocalypse-omega-2026": {
    "status": "ok",
    "checked": "2026-10-16",
@@ -100364,6 +100512,23 @@
    "yearBegan": 2020,
    "yearEnd": null,
    "url": "https://metron.cloud/series/x-swords-stasis-2020/"
+  },
+  "x-orcists-2026": {
+   "status": "ok",
+   "checked": "2026-11-17",
+   "mv": 2,
+   "id": 17556,
+   "name": "X-Orcists",
+   "desc": "DEMONS, BEWARE...\n\n...the X-ORCISTS are here! When a demon escapes Limbo and begins terrorizing humans and mutants alike, MAGIK and JUGGERNAUT of the X-Men team up with MADELYNE PRYOR, the Queen of Limbo herself, to take it down. But this demon is unlike anything they've ever seen before, and they're going to need help to stop its ruinous rampage. ASHLEY ALLEN and GERMÁN PERALTA, the all-star writer-artist duo who brought you MAGIK, join forces again to spin a spine-tingling tale!",
+   "descSource": "issue1",
+   "genres": [
+    "Super-Hero"
+   ],
+   "publisher": "Marvel",
+   "seriesStatus": "Ongoing",
+   "yearBegan": 2027,
+   "yearEnd": null,
+   "url": "https://metron.cloud/series/x-orcists-2027/"
   },
   "x23-2018": {
    "status": "ok",
