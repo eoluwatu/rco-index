@@ -5265,6 +5265,11 @@
    "checked": "2026-10-24",
    "mv": 2
   },
+  "archie-digital-comics-presents-the-word-of-archie-2026": {
+   "status": "none",
+   "checked": "2026-11-25",
+   "mv": 2
+  },
   "archie-friends-allaction-2023": {
    "status": "none",
    "checked": "2026-10-23",
@@ -72761,6 +72766,23 @@
    "yearBegan": 2022,
    "yearEnd": 2023,
    "url": "https://metron.cloud/series/specs-2022/"
+  },
+  "spectacular-spider-man-2026": {
+   "status": "ok",
+   "checked": "2026-11-25",
+   "mv": 2,
+   "id": 17611,
+   "name": "Spectacular Spider-Man",
+   "desc": "",
+   "descSource": "",
+   "genres": [
+    "Super-Hero"
+   ],
+   "publisher": "Marvel",
+   "seriesStatus": "Ongoing",
+   "yearBegan": 2027,
+   "yearEnd": null,
+   "url": "https://metron.cloud/series/spectacular-spider-man-2027/"
   },
   "spectacular-spiderman-brand-new-day-2026": {
    "status": "ok",
